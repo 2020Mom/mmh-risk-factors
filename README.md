@@ -31,7 +31,7 @@
 &emsp;&emsp;&emsp;[Poor mental health among mothers](#20)\
 &emsp;&emsp;&emsp;[Mothers not coping well with raising their child](#21)\
 &emsp;&emsp;&emsp;[Births and birth rates for reproductive age women](#22)
-- [PostgreSQL Tables and Queries](#postgresql-tables-and-queries)
+- [Database Tables and Queries](#database-tables-and-queries)
 - [Perinatal Risk Factor Scores](#perinatal-risk-factor-scores)
 ## Overview
 
@@ -529,9 +529,11 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "FERTRATE"      (#) Births Divided by (#) Females aged 15-44 years
 </pre>
 
-## PostgreSQL Tables and Queries
+## Database Tables and Queries
 
 The folder [pgSQL](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv](csv).
+
+Various database clients may be able to run the SQL files listed below, however the database was constructed in PostgreSQL, so for best performance we recommend using PostgreSQL 13 or higher.
 
 The file [pgSQL/factors-county.sql](pgSQL/factors-county.sql) defines the basic tables for all county level risk factors and loads each table from CSV.
 

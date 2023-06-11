@@ -1,0 +1,3144 @@
+﻿REGION,STATE,COUNTY,NRPAWHSP,PCTRPAWHSP
+1,Connecticut,Fairfield County,42945,24.5
+1,Connecticut,Hartford County,39972,23.5
+1,Connecticut,Litchfield County,2808,9.9
+1,Connecticut,Middlesex County,2552,9.1
+1,Connecticut,New Haven County,39255,23.4
+1,Connecticut,New London County,7047,14.9
+1,Connecticut,Tolland County,2360,7.3
+1,Connecticut,Windham County,3422,15.7
+1,Maine,Androscoggin County,508,2.6
+1,Maine,Aroostook County,194,1.9
+1,Maine,Cumberland County,1636,2.9
+1,Maine,Franklin County,101,1.9
+1,Maine,Hancock County,191,2.2
+1,Maine,Kennebec County,468,2.2
+1,Maine,Knox County,136,2.3
+1,Maine,Lincoln County,108,2.2
+1,Maine,Oxford County,191,2.1
+1,Maine,Penobscot County,582,2
+1,Maine,Piscataquis County,53,2.2
+1,Maine,Sagadahoc County,123,2.1
+1,Maine,Somerset County,115,1.4
+1,Maine,Waldo County,109,1.7
+1,Maine,Washington County,169,3.6
+1,Maine,York County,895,2.5
+1,Massachusetts,Barnstable County,1370,4.8
+1,Massachusetts,Berkshire County,1560,7.4
+1,Massachusetts,Bristol County,11458,10.7
+1,Massachusetts,Dukes County,106,4.1
+1,Massachusetts,Essex County,41170,27.6
+1,Massachusetts,Franklin County,626,5.4
+1,Massachusetts,Hampden County,30294,33
+1,Massachusetts,Hampshire County,3006,7.4
+1,Massachusetts,Middlesex County,32216,9.6
+1,Massachusetts,Nantucket County,358,17.4
+1,Massachusetts,Norfolk County,8667,6.3
+1,Massachusetts,Plymouth County,4864,5.3
+1,Massachusetts,Suffolk County,46225,21.3
+1,Massachusetts,Worcester County,23946,15.1
+1,New Hampshire,Belknap County,233,2.4
+1,New Hampshire,Carroll County,184,2.8
+1,New Hampshire,Cheshire County,390,2.8
+1,New Hampshire,Coos County,127,2.9
+1,New Hampshire,Grafton County,650,3.8
+1,New Hampshire,Hillsborough County,7129,9.1
+1,New Hampshire,Merrimack County,807,2.9
+1,New Hampshire,Rockingham County,2272,4.3
+1,New Hampshire,Strafford County,902,3.1
+1,New Hampshire,Sullivan County,159,2.3
+1,Rhode Island,Bristol County,371,4.2
+1,Rhode Island,Kent County,2213,7.6
+1,Rhode Island,Newport County,1193,8.5
+1,Rhode Island,Providence County,35181,26.6
+1,Rhode Island,Washington County,1187,5.1
+1,Vermont,Addison County,262,3.8
+1,Vermont,Bennington County,218,3.7
+1,Vermont,Caledonia County,118,2.4
+1,Vermont,Chittenden County,1267,3.4
+1,Vermont,Essex County,25,3
+1,Vermont,Franklin County,231,2.6
+1,Vermont,Grand Isle County,35,3.1
+1,Vermont,Lamoille County,108,2.3
+1,Vermont,Orange County,105,2.3
+1,Vermont,Orleans County,100,2.3
+1,Vermont,Rutland County,214,2.3
+1,Vermont,Washington County,278,2.7
+1,Vermont,Windham County,245,3.6
+1,Vermont,Windsor County,271,3.1
+2,New Jersey,Atlantic County,10953,23.2
+2,New Jersey,Bergen County,43854,25.6
+2,New Jersey,Burlington County,8338,10.4
+2,New Jersey,Camden County,20694,20.9
+2,New Jersey,Cape May County,1614,12.1
+2,New Jersey,Cumberland County,9829,37.3
+2,New Jersey,Essex County,41471,25.4
+2,New Jersey,Gloucester County,4630,8.4
+2,New Jersey,Hudson County,60535,39.1
+2,New Jersey,Hunterdon County,1851,9.2
+2,New Jersey,Mercer County,14682,20.1
+2,New Jersey,Middlesex County,40321,24.8
+2,New Jersey,Monmouth County,14223,13.3
+2,New Jersey,Morris County,14614,16.7
+2,New Jersey,Ocean County,11759,12.2
+2,New Jersey,Passaic County,46310,46.7
+2,New Jersey,Salem County,1288,11.9
+2,New Jersey,Somerset County,10831,18.1
+2,New Jersey,Sussex County,2887,12.2
+2,New Jersey,Union County,39204,36.5
+2,New Jersey,Warren County,2364,13.1
+2,New York,Albany County,5171,7.9
+2,New York,Allegany County,192,2.3
+2,New York,Bronx County,181648,59
+2,New York,Broome County,2212,6
+2,New York,Cattaraugus County,382,2.9
+2,New York,Cayuga County,395,3.1
+2,New York,Chautauqua County,2209,10
+2,New York,Chemung County,521,3.6
+2,New York,Chenango County,191,2.5
+2,New York,Clinton County,481,3.2
+2,New York,Columbia County,575,6.2
+2,New York,Cortland County,388,3.7
+2,New York,Delaware County,403,5.9
+2,New York,Dutchess County,8397,15.4
+2,New York,Erie County,13246,7.5
+2,New York,Essex County,145,2.7
+2,New York,Franklin County,180,2.3
+2,New York,Fulton County,408,4.6
+2,New York,Genesee County,377,3.9
+2,New York,Greene County,528,7.5
+2,New York,Hamilton County,16,2.9
+2,New York,Herkimer County,270,2.6
+2,New York,Jefferson County,2007,9.6
+2,New York,Kings County,107771,18.8
+2,New York,Lewis County,69,1.6
+2,New York,Livingston County,521,4.3
+2,New York,Madison County,481,3.6
+2,New York,Monroe County,16858,11.5
+2,New York,Montgomery County,1669,19.2
+2,New York,Nassau County,49297,20.2
+2,New York,New York County,92538,23
+2,New York,Niagara County,1562,4.2
+2,New York,Oneida County,3113,7.8
+2,New York,Onondaga County,5907,6.5
+2,New York,Ontario County,1231,6.4
+2,New York,Orange County,18219,25.6
+2,New York,Orleans County,522,7.3
+2,New York,Oswego County,787,3.6
+2,New York,Otsego County,677,5.6
+2,New York,Putnam County,3399,20.4
+2,New York,Queens County,131394,29.1
+2,New York,Rensselaer County,2202,7.2
+2,New York,Richmond County,19823,21.9
+2,New York,Rockland County,12686,21.7
+2,New York,St. Lawrence County,540,2.7
+2,New York,Saratoga County,1809,4.4
+2,New York,Schenectady County,2677,9
+2,New York,Schoharie County,239,4.5
+2,New York,Schuyler County,92,3.2
+2,New York,Seneca County,182,3.3
+2,New York,Steuben County,370,2.3
+2,New York,Suffolk County,63007,23.7
+2,New York,Sullivan County,2515,20.1
+2,New York,Tioga County,235,3
+2,New York,Tompkins County,1886,7.1
+2,New York,Ulster County,4134,13.1
+2,New York,Warren County,376,3.6
+2,New York,Washington County,249,2.6
+2,New York,Wayne County,842,5.6
+2,New York,Westchester County,54027,30
+2,New York,Wyoming County,168,2.7
+2,New York,Yates County,118,2.6
+3,Delaware,Kent County,3122,8.7
+3,Delaware,New Castle County,13559,12.1
+3,Delaware,Sussex County,4174,12.6
+3,District of Columbia,District of Columbia,19872,10.4
+3,Maryland,Allegany County,235,1.9
+3,Maryland,Anne Arundel County,10991,9.8
+3,Maryland,Baltimore County,10419,6.4
+3,Maryland,Calvert County,981,5.9
+3,Maryland,Caroline County,510,8.4
+3,Maryland,Carroll County,1445,4.9
+3,Maryland,Cecil County,1021,5.4
+3,Maryland,Charles County,2367,7.3
+3,Maryland,Dorchester County,493,9
+3,Maryland,Frederick County,6393,12.8
+3,Maryland,Garrett County,67,1.5
+3,Maryland,Harford County,2729,5.8
+3,Maryland,Howard County,5500,8.6
+3,Maryland,Kent County,173,5.3
+3,Maryland,Montgomery County,45012,22.3
+3,Maryland,Prince George's County,37477,20.1
+3,Maryland,Queen Anne's County,468,5.7
+3,Maryland,St. Mary's County,1498,6.7
+3,Maryland,Somerset County,250,5.3
+3,Maryland,Talbot County,541,10.2
+3,Maryland,Washington County,1880,7.2
+3,Maryland,Wicomico County,1264,5.5
+3,Maryland,Worcester County,425,5.5
+3,Maryland,Baltimore City,7604,5.5
+3,Pennsylvania,Adams County,1601,9.1
+3,Pennsylvania,Allegheny County,6861,2.9
+3,Pennsylvania,Armstrong County,104,1
+3,Pennsylvania,Beaver County,714,2.6
+3,Pennsylvania,Bedford County,113,1.5
+3,Pennsylvania,Berks County,21671,27.8
+3,Pennsylvania,Blair County,330,1.6
+3,Pennsylvania,Bradford County,185,1.9
+3,Pennsylvania,Bucks County,7867,7.3
+3,Pennsylvania,Butler County,698,2.1
+3,Pennsylvania,Cambria County,464,2.2
+3,Pennsylvania,Cameron County,12,2.1
+3,Pennsylvania,Carbon County,762,7.5
+3,Pennsylvania,Centre County,1489,4
+3,Pennsylvania,Chester County,8586,8.9
+3,Pennsylvania,Clarion County,91,1.2
+3,Pennsylvania,Clearfield County,171,1.4
+3,Pennsylvania,Clinton County,143,1.9
+3,Pennsylvania,Columbia County,516,3.9
+3,Pennsylvania,Crawford County,322,2.2
+3,Pennsylvania,Cumberland County,2697,5.7
+3,Pennsylvania,Dauphin County,6410,12.1
+3,Pennsylvania,Delaware County,5494,4.9
+3,Pennsylvania,Elk County,46,1
+3,Pennsylvania,Erie County,2803,5.6
+3,Pennsylvania,Fayette County,334,1.6
+3,Pennsylvania,Forest County,14,2.9
+3,Pennsylvania,Franklin County,2180,8
+3,Pennsylvania,Fulton County,40,1.7
+3,Pennsylvania,Greene County,80,1.4
+3,Pennsylvania,Huntingdon County,144,2
+3,Pennsylvania,Indiana County,288,1.8
+3,Pennsylvania,Jefferson County,89,1.3
+3,Pennsylvania,Juniata County,207,5
+3,Pennsylvania,Lackawanna County,4190,11
+3,Pennsylvania,Lancaster County,14038,13.8
+3,Pennsylvania,Lawrence County,278,2
+3,Pennsylvania,Lebanon County,4574,18.3
+3,Pennsylvania,Lehigh County,23207,32.6
+3,Pennsylvania,Luzerne County,10181,18.4
+3,Pennsylvania,Lycoming County,625,3
+3,Pennsylvania,McKean County,115,1.7
+3,Pennsylvania,Mercer County,292,1.6
+3,Pennsylvania,Mifflin County,159,2.2
+3,Pennsylvania,Monroe County,6326,20.5
+3,Pennsylvania,Montgomery County,10068,6.6
+3,Pennsylvania,Montour County,94,3.1
+3,Pennsylvania,Northampton County,9998,17.9
+3,Pennsylvania,Northumberland County,770,5.3
+3,Pennsylvania,Perry County,225,2.9
+3,Pennsylvania,Philadelphia County,57037,15.6
+3,Pennsylvania,Pike County,1280,15.4
+3,Pennsylvania,Potter County,53,2.1
+3,Pennsylvania,Schuylkill County,1386,6.3
+3,Pennsylvania,Snyder County,217,2.9
+3,Pennsylvania,Somerset County,138,1.3
+3,Pennsylvania,Sullivan County,14,1.8
+3,Pennsylvania,Susquehanna County,145,2.5
+3,Pennsylvania,Tioga County,117,1.7
+3,Pennsylvania,Union County,304,3.9
+3,Pennsylvania,Venango County,103,1.3
+3,Pennsylvania,Warren County,87,1.5
+3,Pennsylvania,Washington County,788,2.3
+3,Pennsylvania,Wayne County,418,5.9
+3,Pennsylvania,Westmoreland County,921,1.7
+3,Pennsylvania,Wyoming County,109,2.5
+3,Pennsylvania,York County,8638,10.7
+3,Virginia,Accomack County,578,11.8
+3,Virginia,Albemarle County,1554,6.9
+3,Virginia,Alleghany County,44,1.9
+3,Virginia,Amelia County,88,4.1
+3,Virginia,Amherst County,201,3.8
+3,Virginia,Appomattox County,53,1.9
+3,Virginia,Arlington County,8757,14.5
+3,Virginia,Augusta County,533,4.4
+3,Virginia,Bath County,18,3.1
+3,Virginia,Bedford County,452,3.6
+3,Virginia,Bland County,10,1.2
+3,Virginia,Botetourt County,127,2.5
+3,Virginia,Brunswick County,72,3.1
+3,Virginia,Buchanan County,47,1.5
+3,Virginia,Buckingham County,82,3.4
+3,Virginia,Campbell County,362,3.7
+3,Virginia,Caroline County,395,7.1
+3,Virginia,Carroll County,266,5.9
+3,Virginia,Charles City County,26,2.6
+3,Virginia,Charlotte County,40,2.2
+3,Virginia,Chesterfield County,7795,11.2
+3,Virginia,Clarke County,187,8.3
+3,Virginia,Craig County,16,2.1
+3,Virginia,Culpeper County,1292,13.7
+3,Virginia,Cumberland County,64,3.8
+3,Virginia,Dickenson County,34,1.5
+3,Virginia,Dinwiddie County,262,5.1
+3,Virginia,Essex County,86,4.7
+3,Virginia,Fairfax County,40808,17.9
+3,Virginia,Fauquier County,1410,11.3
+3,Virginia,Floyd County,82,3.4
+3,Virginia,Fluvanna County,229,4.2
+3,Virginia,Franklin County,362,4.2
+3,Virginia,Frederick County,1877,11.7
+3,Virginia,Giles County,76,2.8
+3,Virginia,Gloucester County,338,5.4
+3,Virginia,Goochland County,169,4.6
+3,Virginia,Grayson County,118,5.5
+3,Virginia,Greene County,281,8.1
+3,Virginia,Greensville County,47,3.5
+3,Virginia,Halifax County,160,3
+3,Virginia,Hanover County,754,4
+3,Virginia,Henrico County,4533,6.8
+3,Virginia,Henry County,639,8.1
+3,Virginia,Highland County,3,1.2
+3,Virginia,Isle of Wight County,328,5.2
+3,Virginia,James City County,1031,8.5
+3,Virginia,King and Queen County,41,4
+3,Virginia,King George County,357,7
+3,Virginia,King William County,103,3.3
+3,Virginia,Lancaster County,37,2.9
+3,Virginia,Lee County,47,1.4
+3,Virginia,Loudoun County,13251,15.4
+3,Virginia,Louisa County,246,4
+3,Virginia,Lunenburg County,118,6.8
+3,Virginia,Madison County,117,5.5
+3,Virginia,Mathews County,48,4.2
+3,Virginia,Mecklenburg County,148,3.3
+3,Virginia,Middlesex County,63,4.9
+3,Virginia,Montgomery County,1045,4.3
+3,Virginia,Nelson County,133,6
+3,Virginia,New Kent County,155,4
+3,Virginia,Northampton County,179,11
+3,Virginia,Northumberland County,87,6.3
+3,Virginia,Nottoway County,143,6.2
+3,Virginia,Orange County,444,7.2
+3,Virginia,Page County,105,2.7
+3,Virginia,Patrick County,103,4.3
+3,Virginia,Pittsylvania County,323,3.5
+3,Virginia,Powhatan County,143,3.1
+3,Virginia,Prince Edward County,144,2.8
+3,Virginia,Prince George County,748,10.8
+3,Virginia,Prince William County,26552,27.2
+3,Virginia,Pulaski County,134,2.6
+3,Virginia,Rappahannock County,81,7.6
+3,Virginia,Richmond County,102,8.7
+3,Virginia,Roanoke County,739,4.5
+3,Virginia,Rockbridge County,96,2.8
+3,Virginia,Rockingham County,1382,9.3
+3,Virginia,Russell County,68,1.6
+3,Virginia,Scott County,63,1.9
+3,Virginia,Shenandoah County,755,10.5
+3,Virginia,Smyth County,146,3
+3,Virginia,Southampton County,85,3.1
+3,Virginia,Spotsylvania County,3255,12.5
+3,Virginia,Stafford County,5186,16.8
+3,Virginia,Surry County,30,3.2
+3,Virginia,Sussex County,84,6.3
+3,Virginia,Tazewell County,72,1.1
+3,Virginia,Warren County,510,7
+3,Virginia,Washington County,149,1.7
+3,Virginia,Westmoreland County,223,8.1
+3,Virginia,Wise County,92,1.5
+3,Virginia,Wythe County,74,1.6
+3,Virginia,York County,1145,9
+3,Virginia,Alexandria City,6517,16.7
+3,Virginia,Bristol City,89,3
+3,Virginia,Buena Vista City,64,4.7
+3,Virginia,Charlottesville City,682,5.3
+3,Virginia,Chesapeake City,4110,8.3
+3,Virginia,Colonial Heights City,257,8
+3,Virginia,Covington City,19,2
+3,Virginia,Danville City,344,4.8
+3,Virginia,Emporia City,72,7.2
+3,Virginia,Fairfax City,882,19
+3,Virginia,Falls Church City,335,11.9
+3,Virginia,Franklin City,49,3.5
+3,Virginia,Fredericksburg City,766,9.7
+3,Virginia,Galax City,237,21
+3,Virginia,Hampton City,2218,7.8
+3,Virginia,Harrisonburg City,2905,17.4
+3,Virginia,Hopewell City,466,10.2
+3,Virginia,Lexington City,68,4.2
+3,Virginia,Lynchburg City,1259,5.7
+3,Virginia,Manassas City,3488,41.7
+3,Virginia,Manassas Park City,1551,39.8
+3,Virginia,Martinsville City,146,6.7
+3,Virginia,Newport News City,4125,10.4
+3,Virginia,Norfolk City,5139,9.5
+3,Virginia,Norton City,27,3.5
+3,Virginia,Petersburg City,320,5.1
+3,Virginia,Poquoson City,87,4.3
+3,Virginia,Portsmouth City,1113,5.6
+3,Virginia,Radford City,220,3.6
+3,Virginia,Richmond City,4043,7
+3,Virginia,Roanoke City,1384,7
+3,Virginia,Salem City,248,4.9
+3,Virginia,Staunton City,213,4.2
+3,Virginia,Suffolk City,1056,5.9
+3,Virginia,Virginia Beach City,9916,10.7
+3,Virginia,Waynesboro City,512,11.7
+3,Virginia,Williamsburg City,340,7.5
+3,Virginia,Winchester City,1064,18.9
+3,West Virginia,Barbour County,43,1.4
+3,West Virginia,Berkeley County,1289,5.6
+3,West Virginia,Boone County,21,0.6
+3,West Virginia,Braxton County,21,1
+3,West Virginia,Brooke County,34,1
+3,West Virginia,Cabell County,291,1.6
+3,West Virginia,Calhoun County,19,1.8
+3,West Virginia,Clay County,11,0.8
+3,West Virginia,Doddridge County,9,0.7
+3,West Virginia,Fayette County,95,1.4
+3,West Virginia,Gilmer County,39,3.3
+3,West Virginia,Grant County,30,1.7
+3,West Virginia,Greenbrier County,133,2.4
+3,West Virginia,Hampshire County,72,2
+3,West Virginia,Hancock County,74,1.6
+3,West Virginia,Hardy County,99,4.7
+3,West Virginia,Harrison County,249,2.1
+3,West Virginia,Jackson County,59,1.3
+3,West Virginia,Jefferson County,823,7.9
+3,West Virginia,Kanawha County,527,1.7
+3,West Virginia,Lewis County,37,1.4
+3,West Virginia,Lincoln County,22,0.7
+3,West Virginia,Logan County,59,1.1
+3,West Virginia,McDowell County,31,1.1
+3,West Virginia,Marion County,144,1.4
+3,West Virginia,Marshall County,62,1.3
+3,West Virginia,Mason County,37,0.8
+3,West Virginia,Mercer County,127,1.2
+3,West Virginia,Mineral County,68,1.6
+3,West Virginia,Mingo County,24,0.6
+3,West Virginia,Monongalia County,676,2.6
+3,West Virginia,Monroe County,19,1
+3,West Virginia,Morgan County,74,2.7
+3,West Virginia,Nicholas County,51,1.3
+3,West Virginia,Ohio County,109,1.5
+3,West Virginia,Pendleton County,26,2.7
+3,West Virginia,Pleasants County,17,1.5
+3,West Virginia,Pocahontas County,24,2
+3,West Virginia,Preston County,93,1.6
+3,West Virginia,Putnam County,158,1.6
+3,West Virginia,Raleigh County,186,1.5
+3,West Virginia,Randolph County,56,1.3
+3,West Virginia,Ritchie County,19,1.3
+3,West Virginia,Roane County,28,1.3
+3,West Virginia,Summers County,94,4.1
+3,West Virginia,Taylor County,31,1.1
+3,West Virginia,Tucker County,17,1.7
+3,West Virginia,Tyler County,12,0.9
+3,West Virginia,Upshur County,75,1.7
+3,West Virginia,Wayne County,53,0.8
+3,West Virginia,Webster County,12,1
+3,West Virginia,Wetzel County,21,0.9
+3,West Virginia,Wirt County,11,1.2
+3,West Virginia,Wood County,200,1.4
+3,West Virginia,Wyoming County,35,1
+4,Alabama,Autauga County,366,3.4
+4,Alabama,Baldwin County,2101,5.4
+4,Alabama,Barbour County,170,4.5
+4,Alabama,Bibb County,137,3.7
+4,Alabama,Blount County,1149,11.2
+4,Alabama,Bullock County,206,12.9
+4,Alabama,Butler County,45,1.3
+4,Alabama,Calhoun County,979,4.4
+4,Alabama,Chambers County,137,2.3
+4,Alabama,Cherokee County,110,2.7
+4,Alabama,Chilton County,683,8.3
+4,Alabama,Choctaw County,21,1
+4,Alabama,Clarke County,67,1.6
+4,Alabama,Clay County,82,3.6
+4,Alabama,Cleburne County,68,2.7
+4,Alabama,Coffee County,879,9.1
+4,Alabama,Colbert County,334,3.4
+4,Alabama,Conecuh County,56,2.8
+4,Alabama,Coosa County,41,2.7
+4,Alabama,Covington County,124,2
+4,Alabama,Crenshaw County,50,2.1
+4,Alabama,Cullman County,787,5.3
+4,Alabama,Dale County,773,8.2
+4,Alabama,Dallas County,60,0.9
+4,Alabama,DeKalb County,2387,18.6
+4,Alabama,Elmore County,606,3.7
+4,Alabama,Escambia County,168,2.7
+4,Alabama,Etowah County,915,4.9
+4,Alabama,Fayette County,70,2.6
+4,Alabama,Franklin County,1158,20.8
+4,Alabama,Geneva County,213,4.8
+4,Alabama,Greene County,19,1.4
+4,Alabama,Hale County,39,1.4
+4,Alabama,Henry County,103,3.6
+4,Alabama,Houston County,748,3.7
+4,Alabama,Jackson County,344,3.9
+4,Alabama,Jefferson County,5445,4
+4,Alabama,Lamar County,54,2.4
+4,Alabama,Lauderdale County,627,3.5
+4,Alabama,Lawrence County,152,2.7
+4,Alabama,Lee County,1421,3.6
+4,Alabama,Limestone County,1412,7.7
+4,Alabama,Lowndes County,43,2.5
+4,Alabama,Macon County,72,1.8
+4,Alabama,Madison County,4176,5.7
+4,Alabama,Marengo County,106,3.1
+4,Alabama,Marion County,145,2.9
+4,Alabama,Marshall County,2763,16.1
+4,Alabama,Mobile County,2671,3.2
+4,Alabama,Monroe County,77,2.1
+4,Alabama,Montgomery County,1501,3.2
+4,Alabama,Morgan County,2130,10
+4,Alabama,Perry County,33,1.8
+4,Alabama,Pickens County,213,6.1
+4,Alabama,Pike County,204,2.6
+4,Alabama,Randolph County,142,3.7
+4,Alabama,Russell County,748,6.3
+4,Alabama,St. Clair County,474,2.9
+4,Alabama,Shelby County,2774,6.5
+4,Alabama,Sumter County,39,1.4
+4,Alabama,Talladega County,333,2.2
+4,Alabama,Tallapoosa County,165,2.5
+4,Alabama,Tuscaloosa County,1783,3.6
+4,Alabama,Walker County,268,2.4
+4,Alabama,Washington County,44,1.6
+4,Alabama,Wilcox County,18,0.9
+4,Alabama,Winston County,157,4
+4,Florida,Alachua County,9063,13.3
+4,Florida,Baker County,150,2.9
+4,Florida,Bay County,2452,8
+4,Florida,Bradford County,209,4.9
+4,Florida,Brevard County,13565,14.2
+4,Florida,Broward County,128019,34.2
+4,Florida,Calhoun County,122,5.7
+4,Florida,Charlotte County,2900,14.4
+4,Florida,Citrus County,1536,8.6
+4,Florida,Clay County,5264,12.8
+4,Florida,Collier County,22867,43.1
+4,Florida,Columbia County,882,7.5
+4,Florida,DeSoto County,2002,37.1
+4,Florida,Dixie County,95,4.3
+4,Florida,Duval County,23419,11.7
+4,Florida,Escambia County,4159,6.7
+4,Florida,Flagler County,2393,14.7
+4,Florida,Franklin County,71,4.8
+4,Florida,Gadsden County,1031,12
+4,Florida,Gilchrist County,190,6.8
+4,Florida,Glades County,623,33.9
+4,Florida,Gulf County,64,3.4
+4,Florida,Hamilton County,214,11.3
+4,Florida,Hardee County,2384,51.6
+4,Florida,Hendry County,4427,58.6
+4,Florida,Hernando County,5758,19.2
+4,Florida,Highlands County,4096,29.1
+4,Florida,Hillsborough County,98128,31.8
+4,Florida,Holmes County,87,3
+4,Florida,Indian River County,4003,18.9
+4,Florida,Jackson County,325,4.6
+4,Florida,Jefferson County,84,4.6
+4,Florida,Lafayette County,224,17.1
+4,Florida,Lake County,13322,22.7
+4,Florida,Lee County,38155,32
+4,Florida,Leon County,6218,8.1
+4,Florida,Levy County,744,11.4
+4,Florida,Liberty County,76,6.7
+4,Florida,Madison County,162,5.7
+4,Florida,Manatee County,14519,23.7
+4,Florida,Marion County,10750,18.9
+4,Florida,Martin County,4156,20
+4,Florida,Miami-Dade County,358017,68
+4,Florida,Monroe County,3550,30.9
+4,Florida,Nassau County,900,6.3
+4,Florida,Okaloosa County,4898,12.3
+4,Florida,Okeechobee County,2129,31.5
+4,Florida,Orange County,108625,34.3
+4,Florida,Osceola County,47163,59.8
+4,Florida,Palm Beach County,72413,28.6
+4,Florida,Pasco County,20358,21.4
+4,Florida,Pinellas County,21514,13.5
+4,Florida,Polk County,40949,30.2
+4,Florida,Putnam County,1501,12.9
+4,Florida,St. Johns County,4262,9.4
+4,Florida,St. Lucie County,13541,25.1
+4,Florida,Santa Rosa County,2430,7.4
+4,Florida,Sarasota County,9067,16.6
+4,Florida,Seminole County,25201,26.3
+4,Florida,Sumter County,1110,13.7
+4,Florida,Suwannee County,856,12.7
+4,Florida,Taylor County,108,3.5
+4,Florida,Union County,92,4.9
+4,Florida,Volusia County,17465,19.3
+4,Florida,Wakulla County,264,4.8
+4,Florida,Walton County,922,7.8
+4,Florida,Washington County,190,4.7
+4,Georgia,Appling County,360,11.4
+4,Georgia,Atkinson County,466,29.7
+4,Georgia,Bacon County,172,8.3
+4,Georgia,Baker County,33,7
+4,Georgia,Baldwin County,252,2.6
+4,Georgia,Banks County,280,8.3
+4,Georgia,Barrow County,2273,13.2
+4,Georgia,Bartow County,2168,10.3
+4,Georgia,Ben Hill County,243,7.9
+4,Georgia,Berrien County,211,6
+4,Georgia,Bibb County,1091,3.4
+4,Georgia,Bleckley County,98,3.5
+4,Georgia,Brantley County,71,2.1
+4,Georgia,Brooks County,185,7.3
+4,Georgia,Bryan County,815,9.6
+4,Georgia,Bulloch County,794,3.9
+4,Georgia,Burke County,135,3.2
+4,Georgia,Butts County,158,3.8
+4,Georgia,Calhoun County,39,4.7
+4,Georgia,Camden County,915,8.6
+4,Georgia,Candler County,231,12.1
+4,Georgia,Carroll County,2011,7.7
+4,Georgia,Catoosa County,511,4.1
+4,Georgia,Charlton County,74,4
+4,Georgia,Chatham County,4685,7.4
+4,Georgia,Chattahoochee County,361,17.7
+4,Georgia,Chattooga County,216,5.2
+4,Georgia,Cherokee County,6141,12.4
+4,Georgia,Clarke County,3557,9.5
+4,Georgia,Clay County,13,2.7
+4,Georgia,Clayton County,8339,12.4
+4,Georgia,Clinch County,107,8.4
+4,Georgia,Cobb County,22775,14.1
+4,Georgia,Coffee County,1085,13.5
+4,Georgia,Colquitt County,1796,21.1
+4,Georgia,Columbia County,2796,8.8
+4,Georgia,Cook County,246,7.4
+4,Georgia,Coweta County,2342,8.1
+4,Georgia,Crawford County,91,4.7
+4,Georgia,Crisp County,161,3.9
+4,Georgia,Dade County,84,2.8
+4,Georgia,Dawson County,321,7.1
+4,Georgia,Decatur County,399,8.1
+4,Georgia,DeKalb County,13398,7.9
+4,Georgia,Dodge County,118,3.6
+4,Georgia,Dooly County,186,9.5
+4,Georgia,Dougherty County,561,2.9
+4,Georgia,Douglas County,3426,11
+4,Georgia,Early County,44,2.4
+4,Georgia,Echols County,238,31.6
+4,Georgia,Effingham County,746,5.7
+4,Georgia,Elbert County,238,7.3
+4,Georgia,Emanuel County,190,4.6
+4,Georgia,Evans County,254,12.5
+4,Georgia,Fannin County,103,2.9
+4,Georgia,Fayette County,1941,9.7
+4,Georgia,Floyd County,2476,12.7
+4,Georgia,Forsyth County,5104,10.7
+4,Georgia,Franklin County,211,5
+4,Georgia,Fulton County,18159,7.4
+4,Georgia,Gilmer County,741,16.2
+4,Georgia,Glascock County,13,2.5
+4,Georgia,Glynn County,1253,8
+4,Georgia,Gordon County,2178,19.6
+4,Georgia,Grady County,638,14.4
+4,Georgia,Greene County,216,8.2
+4,Georgia,Gwinnett County,46457,23.5
+4,Georgia,Habersham County,1685,18.6
+4,Georgia,Hall County,13521,34.5
+4,Georgia,Hancock County,23,2.2
+4,Georgia,Haralson County,116,2
+4,Georgia,Harris County,286,4.9
+4,Georgia,Hart County,196,4.7
+4,Georgia,Heard County,63,3
+4,Georgia,Henry County,3882,7.8
+4,Georgia,Houston County,2319,7
+4,Georgia,Irwin County,72,4.6
+4,Georgia,Jackson County,1458,10.3
+4,Georgia,Jasper County,112,4.5
+4,Georgia,Jeff Davis County,385,13.5
+4,Georgia,Jefferson County,117,4.4
+4,Georgia,Jenkins County,128,8.6
+4,Georgia,Johnson County,45,3.2
+4,Georgia,Jones County,109,2.1
+4,Georgia,Lamar County,117,2.9
+4,Georgia,Lanier County,186,9.1
+4,Georgia,Laurens County,298,3.3
+4,Georgia,Lee County,210,3.6
+4,Georgia,Liberty County,2059,14.7
+4,Georgia,Lincoln County,38,3.1
+4,Georgia,Long County,458,11.2
+4,Georgia,Lowndes County,1687,6.1
+4,Georgia,Lumpkin County,437,6.1
+4,Georgia,McDuffie County,162,4.2
+4,Georgia,McIntosh County,74,3.5
+4,Georgia,Macon County,82,4.2
+4,Georgia,Madison County,388,7.2
+4,Georgia,Marion County,124,9.4
+4,Georgia,Meriwether County,92,2.5
+4,Georgia,Miller County,36,3.7
+4,Georgia,Mitchell County,207,5.7
+4,Georgia,Monroe County,128,2.7
+4,Georgia,Montgomery County,143,8.4
+4,Georgia,Morgan County,110,3.3
+4,Georgia,Murray County,1459,19.1
+4,Georgia,Muscogee County,3351,8.2
+4,Georgia,Newton County,1572,6.7
+4,Georgia,Oconee County,485,6.5
+4,Georgia,Oglethorpe County,166,6.3
+4,Georgia,Paulding County,2840,8.1
+4,Georgia,Peach County,494,8.6
+4,Georgia,Pickens County,246,4.6
+4,Georgia,Pierce County,189,5.4
+4,Georgia,Pike County,66,1.8
+4,Georgia,Polk County,1153,14.4
+4,Georgia,Pulaski County,92,3.9
+4,Georgia,Putnam County,259,7.5
+4,Georgia,Quitman County,10,3.2
+4,Georgia,Rabun County,262,10.2
+4,Georgia,Randolph County,38,3.3
+4,Georgia,Richmond County,2317,5.4
+4,Georgia,Rockdale County,1982,11
+4,Georgia,Schley County,54,5.6
+4,Georgia,Screven County,65,2.7
+4,Georgia,Seminole County,50,3.7
+4,Georgia,Spalding County,660,5.3
+4,Georgia,Stephens County,196,4.1
+4,Georgia,Stewart County,36,5.7
+4,Georgia,Sumter County,346,5.7
+4,Georgia,Talbot County,30,3.2
+4,Georgia,Taliaferro County,7,3.4
+4,Georgia,Tattnall County,573,15.1
+4,Georgia,Taylor County,36,2.7
+4,Georgia,Telfair County,103,4.9
+4,Georgia,Terrell County,46,3.1
+4,Georgia,Thomas County,317,3.9
+4,Georgia,Tift County,1066,12.8
+4,Georgia,Toombs County,654,12.7
+4,Georgia,Towns County,85,4.7
+4,Georgia,Treutlen County,18,1.5
+4,Georgia,Troup County,573,4
+4,Georgia,Turner County,69,5
+4,Georgia,Twiggs County,32,2.6
+4,Georgia,Union County,178,5.7
+4,Georgia,Upson County,125,2.6
+4,Georgia,Walker County,339,2.7
+4,Georgia,Walton County,1038,5.7
+4,Georgia,Ware County,299,4.8
+4,Georgia,Warren County,9,1.1
+4,Georgia,Washington County,67,2.1
+4,Georgia,Wayne County,379,7.1
+4,Georgia,Webster County,28,6.8
+4,Georgia,Wheeler County,46,5.1
+4,Georgia,White County,211,4.1
+4,Georgia,Whitfield County,8646,42.6
+4,Georgia,Wilcox County,51,4.5
+4,Georgia,Wilkes County,128,8.3
+4,Georgia,Wilkinson County,55,3.6
+4,Georgia,Worth County,91,2.5
+4,Kentucky,Adair County,82,2.2
+4,Kentucky,Allen County,94,2.5
+4,Kentucky,Anderson County,78,1.9
+4,Kentucky,Ballard County,22,1.7
+4,Kentucky,Barren County,305,3.8
+4,Kentucky,Bath County,57,2.6
+4,Kentucky,Bell County,62,1.4
+4,Kentucky,Boone County,1231,4.8
+4,Kentucky,Bourbon County,219,6.5
+4,Kentucky,Boyd County,123,1.6
+4,Kentucky,Boyle County,209,3.8
+4,Kentucky,Bracken County,31,2.2
+4,Kentucky,Breathitt County,21,1
+4,Kentucky,Breckinridge County,65,2
+4,Kentucky,Bullitt County,421,2.7
+4,Kentucky,Butler County,88,4
+4,Kentucky,Caldwell County,32,1.5
+4,Kentucky,Calloway County,252,2.9
+4,Kentucky,Campbell County,408,2.2
+4,Kentucky,Carlisle County,28,3.6
+4,Kentucky,Carroll County,117,6.4
+4,Kentucky,Carter County,70,1.5
+4,Kentucky,Casey County,107,3.8
+4,Kentucky,Christian County,1263,9.2
+4,Kentucky,Clark County,227,3.5
+4,Kentucky,Clay County,40,1.2
+4,Kentucky,Clinton County,55,3.1
+4,Kentucky,Crittenden County,22,1.6
+4,Kentucky,Cumberland County,23,2.2
+4,Kentucky,Daviess County,635,3.4
+4,Kentucky,Edmonson County,32,1.5
+4,Kentucky,Elliott County,15,1.4
+4,Kentucky,Estill County,32,1.4
+4,Kentucky,Fayette County,4937,6.7
+4,Kentucky,Fleming County,39,1.5
+4,Kentucky,Floyd County,73,1.2
+4,Kentucky,Franklin County,429,4.5
+4,Kentucky,Fulton County,30,3.1
+4,Kentucky,Gallatin County,81,5.1
+4,Kentucky,Garrard County,62,2.1
+4,Kentucky,Grant County,145,3.1
+4,Kentucky,Graves County,546,8.3
+4,Kentucky,Grayson County,73,1.6
+4,Kentucky,Green County,35,2
+4,Kentucky,Greenup County,64,1.1
+4,Kentucky,Hancock County,31,2.1
+4,Kentucky,Hardin County,1445,6.8
+4,Kentucky,Harlan County,56,1.2
+4,Kentucky,Harrison County,72,2.2
+4,Kentucky,Hart County,60,1.8
+4,Kentucky,Henderson County,260,3.2
+4,Kentucky,Henry County,106,3.8
+4,Kentucky,Hickman County,12,1.8
+4,Kentucky,Hopkins County,187,2.4
+4,Kentucky,Jackson County,26,1.1
+4,Kentucky,Jefferson County,10181,6.7
+4,Kentucky,Jessamine County,399,3.8
+4,Kentucky,Johnson County,34,0.9
+4,Kentucky,Kenton County,1247,3.8
+4,Kentucky,Knott County,33,1.3
+4,Kentucky,Knox County,71,1.2
+4,Kentucky,Larue County,92,3.6
+4,Kentucky,Laurel County,212,1.9
+4,Kentucky,Lawrence County,44,1.7
+4,Kentucky,Lee County,18,1.7
+4,Kentucky,Leslie County,11,0.7
+4,Kentucky,Letcher County,42,1.2
+4,Kentucky,Lewis County,21,0.9
+4,Kentucky,Lincoln County,86,2.1
+4,Kentucky,Livingston County,54,3.8
+4,Kentucky,Logan County,151,3.2
+4,Kentucky,Lyon County,38,4.1
+4,Kentucky,McCracken County,399,3.4
+4,Kentucky,McCreary County,39,1.4
+4,Kentucky,McLean County,28,1.8
+4,Kentucky,Madison County,547,2.6
+4,Kentucky,Magoffin County,24,1.2
+4,Kentucky,Marion County,109,3.3
+4,Kentucky,Marshall County,124,2.4
+4,Kentucky,Martin County,19,1.1
+4,Kentucky,Mason County,71,2.4
+4,Kentucky,Meade County,287,5.2
+4,Kentucky,Menifee County,19,1.9
+4,Kentucky,Mercer County,133,3.6
+4,Kentucky,Metcalfe County,37,2.2
+4,Kentucky,Monroe County,70,4
+4,Kentucky,Montgomery County,160,3
+4,Kentucky,Morgan County,20,1
+4,Kentucky,Muhlenberg County,91,1.8
+4,Kentucky,Nelson County,237,2.8
+4,Kentucky,Nicholas County,30,2.4
+4,Kentucky,Ohio County,126,3
+4,Kentucky,Oldham County,524,4.6
+4,Kentucky,Owen County,68,3.6
+4,Kentucky,Owsley County,9,1.2
+4,Kentucky,Pendleton County,33,1.4
+4,Kentucky,Perry County,52,1.1
+4,Kentucky,Pike County,94,0.9
+4,Kentucky,Powell County,38,1.7
+4,Kentucky,Pulaski County,282,2.5
+4,Kentucky,Robertson County,10,3.2
+4,Kentucky,Rockcastle County,42,1.4
+4,Kentucky,Rowan County,96,1.6
+4,Kentucky,Russell County,92,3.1
+4,Kentucky,Scott County,494,4.2
+4,Kentucky,Shelby County,1043,10.7
+4,Kentucky,Simpson County,119,3.5
+4,Kentucky,Spencer County,101,3
+4,Kentucky,Taylor County,135,2.8
+4,Kentucky,Todd County,116,5.4
+4,Kentucky,Trigg County,66,3
+4,Kentucky,Trimble County,66,4.4
+4,Kentucky,Union County,62,2.4
+4,Kentucky,Warren County,1651,5.5
+4,Kentucky,Washington County,97,4.7
+4,Kentucky,Wayne County,105,3.2
+4,Kentucky,Webster County,137,6.3
+4,Kentucky,Whitley County,130,1.9
+4,Kentucky,Wolfe County,11,0.9
+4,Kentucky,Woodford County,358,7.4
+4,Mississippi,Adams County,85,1.8
+4,Mississippi,Alcorn County,226,3.4
+4,Mississippi,Amite County,29,1.5
+4,Mississippi,Attala County,78,2.4
+4,Mississippi,Benton County,57,4
+4,Mississippi,Bolivar County,137,2.2
+4,Mississippi,Calhoun County,161,6.5
+4,Mississippi,Carroll County,32,2.1
+4,Mississippi,Chickasaw County,139,4.6
+4,Mississippi,Choctaw County,15,1.1
+4,Mississippi,Claiborne County,30,1.4
+4,Mississippi,Clarke County,41,1.5
+4,Mississippi,Clay County,52,1.4
+4,Mississippi,Coahoma County,77,1.7
+4,Mississippi,Copiah County,161,3
+4,Mississippi,Covington County,63,1.8
+4,Mississippi,DeSoto County,2100,5.4
+4,Mississippi,Forrest County,470,2.7
+4,Mississippi,Franklin County,16,1.2
+4,Mississippi,George County,116,2.6
+4,Mississippi,Greene County,18,0.9
+4,Mississippi,Grenada County,50,1.3
+4,Mississippi,Hancock County,410,5
+4,Mississippi,Harrison County,2578,6.2
+4,Mississippi,Hinds County,834,1.6
+4,Mississippi,Holmes County,38,1.1
+4,Mississippi,Humphreys County,60,4.2
+4,Mississippi,Issaquena County,4,2.3
+4,Mississippi,Itawamba County,85,1.9
+4,Mississippi,Jackson County,2235,8.1
+4,Mississippi,Jasper County,43,1.5
+4,Mississippi,Jefferson County,13,1.1
+4,Mississippi,Jefferson Davis County,51,2.7
+4,Mississippi,Jones County,497,3.9
+4,Mississippi,Kemper County,17,1
+4,Mississippi,Lafayette County,362,2.6
+4,Mississippi,Lamar County,423,3.1
+4,Mississippi,Lauderdale County,338,2.4
+4,Mississippi,Lawrence County,38,1.7
+4,Mississippi,Leake County,205,5.2
+4,Mississippi,Lee County,454,2.7
+4,Mississippi,Leflore County,128,2.2
+4,Mississippi,Lincoln County,90,1.4
+4,Mississippi,Lowndes County,241,2
+4,Mississippi,Madison County,635,2.9
+4,Mississippi,Marion County,84,1.9
+4,Mississippi,Marshall County,294,4.6
+4,Mississippi,Monroe County,75,1.2
+4,Mississippi,Montgomery County,19,1.2
+4,Mississippi,Neshoba County,111,2
+4,Mississippi,Newton County,77,1.9
+4,Mississippi,Noxubee County,33,1.7
+4,Mississippi,Oktibbeha County,277,2.1
+4,Mississippi,Panola County,156,2.4
+4,Mississippi,Pearl River County,385,3.8
+4,Mississippi,Perry County,38,1.7
+4,Mississippi,Pike County,102,1.4
+4,Mississippi,Pontotoc County,463,7.5
+4,Mississippi,Prentiss County,72,1.6
+4,Mississippi,Quitman County,23,1.8
+4,Mississippi,Rankin County,946,3
+4,Mississippi,Scott County,568,11
+4,Mississippi,Sharkey County,21,2.9
+4,Mississippi,Simpson County,85,1.8
+4,Mississippi,Smith County,70,2.5
+4,Mississippi,Stone County,80,2.3
+4,Mississippi,Sunflower County,90,2
+4,Mississippi,Tallahatchie County,12,0.6
+4,Mississippi,Tate County,156,2.8
+4,Mississippi,Tippah County,242,5.7
+4,Mississippi,Tishomingo County,199,5.9
+4,Mississippi,Tunica County,39,1.9
+4,Mississippi,Union County,241,4.5
+4,Mississippi,Walthall County,68,2.7
+4,Mississippi,Warren County,220,2.5
+4,Mississippi,Washington County,113,1.3
+4,Mississippi,Wayne County,56,1.5
+4,Mississippi,Webster County,27,1.6
+4,Mississippi,Wilkinson County,20,1.5
+4,Mississippi,Winston County,48,1.5
+4,Mississippi,Yalobusha County,46,2.2
+4,Mississippi,Yazoo County,44,1
+4,North Carolina,Alamance County,5161,15.2
+4,North Carolina,Alexander County,360,6
+4,North Carolina,Alleghany County,182,11.9
+4,North Carolina,Anson County,174,4.3
+4,North Carolina,Ashe County,191,4.8
+4,North Carolina,Avery County,174,6.5
+4,North Carolina,Beaufort County,873,11.3
+4,North Carolina,Bertie County,69,2.5
+4,North Carolina,Bladen County,504,9.3
+4,North Carolina,Brunswick County,1428,7.5
+4,North Carolina,Buncombe County,4113,8.1
+4,North Carolina,Burke County,1233,8.3
+4,North Carolina,Cabarrus County,5328,12.2
+4,North Carolina,Caldwell County,964,7
+4,North Carolina,Camden County,75,3.9
+4,North Carolina,Carteret County,575,5.6
+4,North Carolina,Caswell County,177,5.3
+4,North Carolina,Catawba County,3406,11.9
+4,North Carolina,Chatham County,1936,17.1
+4,North Carolina,Cherokee County,183,4.6
+4,North Carolina,Chowan County,106,4.9
+4,North Carolina,Clay County,76,5.2
+4,North Carolina,Cleveland County,708,4
+4,North Carolina,Columbus County,632,6.8
+4,North Carolina,Craven County,1737,9.6
+4,North Carolina,Cumberland County,9953,13.7
+4,North Carolina,Currituck County,282,5.8
+4,North Carolina,Dare County,672,11.6
+4,North Carolina,Davidson County,2770,9.4
+4,North Carolina,Davie County,633,9.1
+4,North Carolina,Duplin County,2846,28.2
+4,North Carolina,Durham County,9901,13.1
+4,North Carolina,Edgecombe County,533,5.6
+4,North Carolina,Forsyth County,11593,14.9
+4,North Carolina,Franklin County,1254,10.4
+4,North Carolina,Gaston County,3832,8.9
+4,North Carolina,Gates County,53,2.9
+4,North Carolina,Graham County,52,3.8
+4,North Carolina,Granville County,1104,10.8
+4,North Carolina,Greene County,606,18.9
+4,North Carolina,Guilford County,10270,8.9
+4,North Carolina,Halifax County,280,3.4
+4,North Carolina,Harnett County,4250,15
+4,North Carolina,Haywood County,555,5.6
+4,North Carolina,Henderson County,2615,14.2
+4,North Carolina,Hertford County,153,3.8
+4,North Carolina,Hoke County,1819,15.3
+4,North Carolina,Hyde County,94,14.5
+4,North Carolina,Iredell County,3214,9.7
+4,North Carolina,Jackson County,537,5.8
+4,North Carolina,Johnston County,6403,15.8
+4,North Carolina,Jones County,96,6.6
+4,North Carolina,Lee County,2645,23.2
+4,North Carolina,Lenoir County,847,8.8
+4,North Carolina,Lincoln County,1421,9.7
+4,North Carolina,McDowell County,599,8
+4,North Carolina,Macon County,558,10.6
+4,North Carolina,Madison County,121,3.2
+4,North Carolina,Martin County,142,4
+4,North Carolina,Mecklenburg County,35583,14
+4,North Carolina,Mitchell County,156,6.8
+4,North Carolina,Montgomery County,988,21
+4,North Carolina,Moore County,1586,9.4
+4,North Carolina,Nash County,1453,8.5
+4,North Carolina,New Hanover County,3188,6.4
+4,North Carolina,Northampton County,104,3.8
+4,North Carolina,Onslow County,6053,14.7
+4,North Carolina,Orange County,2993,8.4
+4,North Carolina,Pamlico County,109,6.9
+4,North Carolina,Pasquotank County,589,7.7
+4,North Carolina,Pender County,977,9.2
+4,North Carolina,Perquimans County,77,3.8
+4,North Carolina,Person County,333,5.1
+4,North Carolina,Pitt County,2808,6.3
+4,North Carolina,Polk County,233,8.8
+4,North Carolina,Randolph County,3772,14.9
+4,North Carolina,Richmond County,569,7.1
+4,North Carolina,Robeson County,2232,8.8
+4,North Carolina,Rockingham County,1245,8.2
+4,North Carolina,Rowan County,2773,10.8
+4,North Carolina,Rutherford County,710,6.4
+4,North Carolina,Sampson County,2655,23.9
+4,North Carolina,Scotland County,188,3.1
+4,North Carolina,Stanly County,586,5.4
+4,North Carolina,Stokes County,463,6.3
+4,North Carolina,Surry County,1730,14.4
+4,North Carolina,Swain County,161,6.2
+4,North Carolina,Transylvania County,208,4.1
+4,North Carolina,Tyrrell County,73,14.8
+4,North Carolina,Union County,6121,13.4
+4,North Carolina,Vance County,800,9.7
+4,North Carolina,Wake County,27374,11.3
+4,North Carolina,Warren County,125,4.4
+4,North Carolina,Washington County,119,6.7
+4,North Carolina,Watauga County,548,3.9
+4,North Carolina,Wayne County,3457,14.8
+4,North Carolina,Wilkes County,992,8.9
+4,North Carolina,Wilson County,1829,11.9
+4,North Carolina,Yadkin County,953,15.6
+4,North Carolina,Yancey County,214,7.7
+4,South Carolina,Abbeville County,81,1.9
+4,South Carolina,Aiken County,2025,6.5
+4,South Carolina,Allendale County,55,4.3
+4,South Carolina,Anderson County,1768,4.7
+4,South Carolina,Bamberg County,58,2.3
+4,South Carolina,Barnwell County,86,2.3
+4,South Carolina,Beaufort County,4832,16
+4,South Carolina,Berkeley County,3572,7.8
+4,South Carolina,Calhoun County,96,4.1
+4,South Carolina,Charleston County,4853,5.6
+4,South Carolina,Cherokee County,577,5.3
+4,South Carolina,Chester County,131,2.3
+4,South Carolina,Chesterfield County,341,4.3
+4,South Carolina,Clarendon County,205,3.8
+4,South Carolina,Colleton County,219,3.3
+4,South Carolina,Darlington County,312,2.5
+4,South Carolina,Dillon County,180,3.1
+4,South Carolina,Dorchester County,2150,6.6
+4,South Carolina,Edgefield County,187,4.5
+4,South Carolina,Fairfield County,91,2.5
+4,South Carolina,Florence County,826,3
+4,South Carolina,Georgetown County,326,3.5
+4,South Carolina,Greenville County,11090,10.6
+4,South Carolina,Greenwood County,834,6
+4,South Carolina,Hampton County,105,3.3
+4,South Carolina,Horry County,4524,7.7
+4,South Carolina,Jasper County,729,14.8
+4,South Carolina,Kershaw County,764,6.4
+4,South Carolina,Lancaster County,1247,7.3
+4,South Carolina,Laurens County,737,6
+4,South Carolina,Lee County,84,3
+4,South Carolina,Lexington County,3859,6.7
+4,South Carolina,McCormick County,15,1.7
+4,South Carolina,Marion County,139,2.5
+4,South Carolina,Marlboro County,84,2
+4,South Carolina,Newberry County,652,9.9
+4,South Carolina,Oconee County,966,7.6
+4,South Carolina,Orangeburg County,342,2.1
+4,South Carolina,Pickens County,1096,4.1
+4,South Carolina,Richland County,5311,5.5
+4,South Carolina,Saluda County,576,17.8
+4,South Carolina,Spartanburg County,5002,8
+4,South Carolina,Sumter County,965,4.6
+4,South Carolina,Union County,97,2.1
+4,South Carolina,Williamsburg County,65,1.3
+4,South Carolina,York County,3790,6.7
+4,Tennessee,Anderson County,514,3.9
+4,Tennessee,Bedford County,1476,15.8
+4,Tennessee,Benton County,75,3
+4,Tennessee,Bledsoe County,57,2.9
+4,Tennessee,Blount County,1068,4.6
+4,Tennessee,Bradley County,1545,7.4
+4,Tennessee,Campbell County,152,2.2
+4,Tennessee,Cannon County,79,3.2
+4,Tennessee,Carroll County,171,3.6
+4,Tennessee,Carter County,240,2.6
+4,Tennessee,Cheatham County,276,3.7
+4,Tennessee,Chester County,110,3.1
+4,Tennessee,Claiborne County,103,1.8
+4,Tennessee,Clay County,32,2.8
+4,Tennessee,Cocke County,201,3.3
+4,Tennessee,Coffee County,587,5.7
+4,Tennessee,Crockett County,340,13.2
+4,Tennessee,Cumberland County,348,4.2
+4,Tennessee,Davidson County,16157,9.7
+4,Tennessee,Decatur County,78,4.3
+4,Tennessee,DeKalb County,358,10.3
+4,Tennessee,Dickson County,481,4.8
+4,Tennessee,Dyer County,274,3.9
+4,Tennessee,Fayette County,241,3.7
+4,Tennessee,Fentress County,55,1.9
+4,Tennessee,Franklin County,375,4.8
+4,Tennessee,Gibson County,304,3.4
+4,Tennessee,Giles County,196,3.9
+4,Tennessee,Grainger County,137,3.7
+4,Tennessee,Greene County,475,4.1
+4,Tennessee,Grundy County,32,1.4
+4,Tennessee,Hamblen County,1584,13.8
+4,Tennessee,Hamilton County,4617,6.3
+4,Tennessee,Hancock County,4,0.4
+4,Tennessee,Hardeman County,94,2.5
+4,Tennessee,Hardin County,116,2.8
+4,Tennessee,Hawkins County,200,2.1
+4,Tennessee,Haywood County,141,4.4
+4,Tennessee,Henderson County,146,2.9
+4,Tennessee,Henry County,184,3.6
+4,Tennessee,Hickman County,134,3.3
+4,Tennessee,Houston County,42,3
+4,Tennessee,Humphreys County,99,3.1
+4,Tennessee,Jackson County,50,2.8
+4,Tennessee,Jefferson County,424,4.6
+4,Tennessee,Johnson County,66,2.7
+4,Tennessee,Knox County,4932,5
+4,Tennessee,Lake County,29,3.6
+4,Tennessee,Lauderdale County,107,2.5
+4,Tennessee,Lawrence County,192,2.5
+4,Tennessee,Lewis County,61,3
+4,Tennessee,Lincoln County,249,4.4
+4,Tennessee,Loudon County,992,12.6
+4,Tennessee,McMinn County,549,5.8
+4,Tennessee,McNairy County,100,2.3
+4,Tennessee,Macon County,251,5.4
+4,Tennessee,Madison County,922,4.7
+4,Tennessee,Marion County,126,2.6
+4,Tennessee,Marshall County,438,6.8
+4,Tennessee,Maury County,1342,7.2
+4,Tennessee,Meigs County,63,3.1
+4,Tennessee,Monroe County,447,5.9
+4,Tennessee,Montgomery County,5463,11.3
+4,Tennessee,Moore County,37,3.4
+4,Tennessee,Morgan County,67,2.1
+4,Tennessee,Obion County,323,6.1
+4,Tennessee,Overton County,63,1.7
+4,Tennessee,Perry County,51,3.8
+4,Tennessee,Pickett County,25,3.5
+4,Tennessee,Polk County,88,3.2
+4,Tennessee,Putnam County,1154,7.2
+4,Tennessee,Rhea County,348,5.9
+4,Tennessee,Roane County,234,2.8
+4,Tennessee,Robertson County,1099,8.1
+4,Tennessee,Rutherford County,6796,9
+4,Tennessee,Scott County,50,1.2
+4,Tennessee,Sequatchie County,101,4.1
+4,Tennessee,Sevier County,1323,7.9
+4,Tennessee,Shelby County,12464,6.4
+4,Tennessee,Smith County,133,3.7
+4,Tennessee,Stewart County,116,5.2
+4,Tennessee,Sullivan County,699,2.6
+4,Tennessee,Sumner County,2294,6.3
+4,Tennessee,Tipton County,370,3.2
+4,Tennessee,Trousdale County,59,3.3
+4,Tennessee,Unicoi County,209,7.3
+4,Tennessee,Union County,81,2.4
+4,Tennessee,Van Buren County,27,3.1
+4,Tennessee,Warren County,699,9.5
+4,Tennessee,Washington County,1070,4.1
+4,Tennessee,Wayne County,57,2.4
+4,Tennessee,Weakley County,240,3.5
+4,Tennessee,White County,172,3.7
+4,Tennessee,Williamson County,2735,6.1
+4,Tennessee,Wilson County,1469,5.4
+5,Illinois,Adams County,249,2.2
+5,Illinois,Alexander County,18,2.1
+5,Illinois,Bond County,85,3.1
+5,Illinois,Boone County,2861,29.3
+5,Illinois,Brown County,22,2.8
+5,Illinois,Bureau County,653,12.3
+5,Illinois,Calhoun County,12,1.8
+5,Illinois,Carroll County,118,5.5
+5,Illinois,Cass County,507,24.2
+5,Illinois,Champaign County,3552,6.8
+5,Illinois,Christian County,97,1.9
+5,Illinois,Clark County,44,1.7
+5,Illinois,Clay County,40,1.8
+5,Illinois,Clinton County,202,3.2
+5,Illinois,Coles County,381,3.4
+5,Illinois,Cook County,301874,27.7
+5,Illinois,Crawford County,62,2.1
+5,Illinois,Cumberland County,29,1.6
+5,Illinois,DeKalb County,3229,13
+5,Illinois,De Witt County,98,3.7
+5,Illinois,Douglas County,300,8.6
+5,Illinois,DuPage County,30354,17.4
+5,Illinois,Edgar County,61,2.1
+5,Illinois,Edwards County,23,2.2
+5,Illinois,Effingham County,164,2.8
+5,Illinois,Fayette County,54,1.6
+5,Illinois,Ford County,106,4.7
+5,Illinois,Franklin County,140,2.1
+5,Illinois,Fulton County,112,2.1
+5,Illinois,Gallatin County,12,1.6
+5,Illinois,Greene County,32,1.5
+5,Illinois,Grundy County,1264,12.8
+5,Illinois,Hamilton County,29,2.1
+5,Illinois,Hancock County,71,2.6
+5,Illinois,Hardin County,21,3.7
+5,Illinois,Henderson County,25,2.5
+5,Illinois,Henry County,651,8.1
+5,Illinois,Iroquois County,450,10.2
+5,Illinois,Jackson County,782,5.9
+5,Illinois,Jasper County,33,2.1
+5,Illinois,Jefferson County,187,3.1
+5,Illinois,Jersey County,71,1.8
+5,Illinois,Jo Daviess County,130,4.5
+5,Illinois,Johnson County,53,3
+5,Illinois,Kane County,39171,38.5
+5,Illinois,Kankakee County,2772,12.9
+5,Illinois,Kendall County,6270,23.1
+5,Illinois,Knox County,576,6.9
+5,Illinois,Lake County,35344,27.3
+5,Illinois,LaSalle County,2372,12.9
+5,Illinois,Lawrence County,46,2
+5,Illinois,Lee County,407,7.9
+5,Illinois,Livingston County,343,5.5
+5,Illinois,Logan County,194,3.6
+5,Illinois,McDonough County,290,4.2
+5,Illinois,McHenry County,9591,17.3
+5,Illinois,McLean County,2331,5.8
+5,Illinois,Macon County,575,3
+5,Illinois,Macoupin County,132,1.7
+5,Illinois,Madison County,2054,4.2
+5,Illinois,Marion County,160,2.5
+5,Illinois,Marshall County,72,4.1
+5,Illinois,Mason County,33,1.5
+5,Illinois,Massac County,103,4.5
+5,Illinois,Menard County,43,2
+5,Illinois,Mercer County,106,4.3
+5,Illinois,Monroe County,134,2.3
+5,Illinois,Montgomery County,70,1.6
+5,Illinois,Morgan County,182,3.1
+5,Illinois,Moultrie County,59,2.3
+5,Illinois,Ogle County,1189,13.5
+5,Illinois,Peoria County,2060,6
+5,Illinois,Perry County,77,2.5
+5,Illinois,Piatt County,57,2.1
+5,Illinois,Pike County,37,1.5
+5,Illinois,Pope County,17,3
+5,Illinois,Pulaski County,34,4
+5,Illinois,Putnam County,78,8.8
+5,Illinois,Randolph County,130,2.8
+5,Illinois,Richland County,76,2.9
+5,Illinois,Rock Island County,4072,16
+5,Illinois,St. Clair County,2583,5.2
+5,Illinois,Saline County,101,2.5
+5,Illinois,Sangamon County,1200,3.3
+5,Illinois,Schuyler County,26,2.6
+5,Illinois,Scott County,15,1.8
+5,Illinois,Shelby County,49,1.4
+5,Illinois,Stark County,18,2.1
+5,Illinois,Stephenson County,378,5.3
+5,Illinois,Tazewell County,729,3.1
+5,Illinois,Union County,185,6.8
+5,Illinois,Vermilion County,830,6.5
+5,Illinois,Wabash County,59,3.2
+5,Illinois,Warren County,359,11.6
+5,Illinois,Washington County,57,2.5
+5,Illinois,Wayne County,67,2.5
+5,Illinois,White County,40,1.8
+5,Illinois,Whiteside County,1459,16
+5,Illinois,Will County,29044,21.7
+5,Illinois,Williamson County,390,3.3
+5,Illinois,Winnebago County,8983,17.2
+5,Illinois,Woodford County,149,2.2
+5,Indiana,Adams County,334,5.4
+5,Indiana,Allen County,6660,8.8
+5,Indiana,Bartholomew County,1279,8.2
+5,Indiana,Benton County,84,5.6
+5,Indiana,Blackford County,55,2.9
+5,Indiana,Boone County,519,4
+5,Indiana,Brown County,55,2.5
+5,Indiana,Carroll County,177,5.2
+5,Indiana,Cass County,1372,20.9
+5,Indiana,Clark County,1451,6.4
+5,Indiana,Clay County,81,1.7
+5,Indiana,Clinton County,1130,19.6
+5,Indiana,Crawford County,35,2.1
+5,Indiana,Daviess County,364,6.1
+5,Indiana,Dearborn County,134,1.6
+5,Indiana,Decatur County,111,2.4
+5,Indiana,DeKalb County,312,4
+5,Indiana,Delaware County,825,3.2
+5,Indiana,Dubois County,662,9.2
+5,Indiana,Elkhart County,7612,19.4
+5,Indiana,Fayette County,72,1.8
+5,Indiana,Floyd County,695,4.6
+5,Indiana,Fountain County,93,3.4
+5,Indiana,Franklin County,50,1.3
+5,Indiana,Fulton County,229,6.8
+5,Indiana,Gibson County,114,1.9
+5,Indiana,Grant County,598,4.6
+5,Indiana,Greene County,154,2.9
+5,Indiana,Hamilton County,3585,5.3
+5,Indiana,Hancock County,492,3.4
+5,Indiana,Harrison County,177,2.5
+5,Indiana,Hendricks County,1769,5.4
+5,Indiana,Henry County,162,2.1
+5,Indiana,Howard County,618,4.2
+5,Indiana,Huntington County,238,3.6
+5,Indiana,Jackson County,633,8
+5,Indiana,Jasper County,487,8
+5,Indiana,Jay County,121,3.6
+5,Indiana,Jefferson County,264,4.1
+5,Indiana,Jennings County,181,3.7
+5,Indiana,Johnson County,1380,4.4
+5,Indiana,Knox County,195,3
+5,Indiana,Kosciusko County,1400,9.6
+5,Indiana,LaGrange County,381,5.3
+5,Indiana,Lake County,21799,23.5
+5,Indiana,LaPorte County,1613,8.8
+5,Indiana,Lawrence County,173,2.3
+5,Indiana,Madison County,1187,5.1
+5,Indiana,Marion County,23684,11.1
+5,Indiana,Marshall County,1100,13.8
+5,Indiana,Martin County,28,1.7
+5,Indiana,Miami County,231,4.1
+5,Indiana,Monroe County,1625,4.1
+5,Indiana,Montgomery County,373,5.8
+5,Indiana,Morgan County,270,2.2
+5,Indiana,Newton County,208,9.1
+5,Indiana,Noble County,1157,13.4
+5,Indiana,Ohio County,28,3.1
+5,Indiana,Orange County,71,2.1
+5,Indiana,Owen County,67,2
+5,Indiana,Parke County,70,2.1
+5,Indiana,Perry County,55,1.9
+5,Indiana,Pike County,55,2.7
+5,Indiana,Porter County,4354,13.4
+5,Indiana,Posey County,62,1.5
+5,Indiana,Pulaski County,98,4.9
+5,Indiana,Putnam County,161,2.3
+5,Indiana,Randolph County,185,4.5
+5,Indiana,Ripley County,100,2
+5,Indiana,Rush County,74,2.6
+5,Indiana,St. Joseph County,5907,10.7
+5,Indiana,Scott County,109,2.5
+5,Indiana,Shelby County,414,5.3
+5,Indiana,Spencer County,140,4.2
+5,Indiana,Starke County,219,5.5
+5,Indiana,Steuben County,286,5
+5,Indiana,Sullivan County,41,1.3
+5,Indiana,Switzerland County,50,2.8
+5,Indiana,Tippecanoe County,4105,8.7
+5,Indiana,Tipton County,88,3.6
+5,Indiana,Union County,55,4.4
+5,Indiana,Vanderburgh County,1195,3.3
+5,Indiana,Vermillion County,52,2
+5,Indiana,Vigo County,548,2.6
+5,Indiana,Wabash County,181,3.3
+5,Indiana,Warren County,49,3.6
+5,Indiana,Warrick County,280,2.5
+5,Indiana,Washington County,84,1.7
+5,Indiana,Wayne County,498,4.2
+5,Indiana,Wells County,191,3.9
+5,Indiana,White County,481,12.3
+5,Indiana,Whitley County,178,3.1
+5,Michigan,Alcona County,24,2.2
+5,Michigan,Alger County,31,2.9
+5,Michigan,Allegan County,2034,9.8
+5,Michigan,Alpena County,78,1.8
+5,Michigan,Antrim County,112,3.5
+5,Michigan,Arenac County,56,2.6
+5,Michigan,Baraga County,26,2.5
+5,Michigan,Barry County,448,4.3
+5,Michigan,Bay County,1271,7.2
+5,Michigan,Benzie County,88,3.4
+5,Michigan,Berrien County,1944,7.3
+5,Michigan,Branch County,474,6.8
+5,Michigan,Calhoun County,1735,7
+5,Michigan,Cass County,413,5
+5,Michigan,Charlevoix County,119,3
+5,Michigan,Cheboygan County,77,2.2
+5,Michigan,Chippewa County,158,2.6
+5,Michigan,Clare County,139,3
+5,Michigan,Clinton County,876,6
+5,Michigan,Crawford County,61,3.1
+5,Michigan,Delta County,114,2.1
+5,Michigan,Dickinson County,97,2.5
+5,Michigan,Eaton County,1553,7.7
+5,Michigan,Emmet County,166,3
+5,Michigan,Genesee County,3563,4.7
+5,Michigan,Gladwin County,90,2.6
+5,Michigan,Gogebic County,48,2.5
+5,Michigan,Grand Traverse County,611,3.7
+5,Michigan,Gratiot County,513,7.5
+5,Michigan,Hillsdale County,226,2.9
+5,Michigan,Houghton County,142,2.2
+5,Michigan,Huron County,145,3.3
+5,Michigan,Ingham County,6124,8.8
+5,Michigan,Ionia County,638,5.9
+5,Michigan,Iosco County,131,3.9
+5,Michigan,Iron County,68,4.9
+5,Michigan,Isabella County,835,4.5
+5,Michigan,Jackson County,1248,4.6
+5,Michigan,Kalamazoo County,3703,6.3
+5,Michigan,Kalkaska County,79,2.7
+5,Michigan,Kent County,16579,12.1
+5,Michigan,Keweenaw County,7,2.9
+5,Michigan,Lake County,67,4.6
+5,Michigan,Lapeer County,916,6.4
+5,Michigan,Leelanau County,218,7.6
+5,Michigan,Lenawee County,1823,10.8
+5,Michigan,Livingston County,1118,3.5
+5,Michigan,Luce County,17,2.3
+5,Michigan,Mackinac County,45,3.1
+5,Michigan,Macomb County,5432,3.3
+5,Michigan,Manistee County,188,5.7
+5,Michigan,Marquette County,270,2
+5,Michigan,Mason County,318,7.1
+5,Michigan,Mecosta County,282,3.2
+5,Michigan,Menominee County,112,3.4
+5,Michigan,Midland County,553,3.7
+5,Michigan,Missaukee County,77,3.2
+5,Michigan,Monroe County,1337,5.1
+5,Michigan,Montcalm County,468,4.4
+5,Michigan,Montmorency County,21,1.9
+5,Michigan,Muskegon County,2241,7
+5,Michigan,Newaygo County,648,8.1
+5,Michigan,Oakland County,12991,5.6
+5,Michigan,Oceana County,831,19.9
+5,Michigan,Ogemaw County,106,3.5
+5,Michigan,Ontonagon County,18,3.1
+5,Michigan,Osceola County,120,3.1
+5,Michigan,Oscoda County,28,2.6
+5,Michigan,Otsego County,128,3.1
+5,Michigan,Ottawa County,6865,11.3
+5,Michigan,Presque Isle County,37,2.3
+5,Michigan,Roscommon County,101,3.5
+5,Michigan,Saginaw County,3538,10.2
+5,Michigan,St. Clair County,1262,4.7
+5,Michigan,St. Joseph County,1105,10.4
+5,Michigan,Sanilac County,315,4.8
+5,Michigan,Schoolcraft County,13,1.2
+5,Michigan,Shiawassee County,471,4
+5,Michigan,Tuscola County,393,4.7
+5,Michigan,Van Buren County,1819,14.2
+5,Michigan,Washtenaw County,5080,5.9
+5,Michigan,Wayne County,24378,7.1
+5,Michigan,Wexford County,169,3
+5,Minnesota,Aitkin County,45,2.4
+5,Minnesota,Anoka County,3975,5.9
+5,Minnesota,Becker County,158,2.8
+5,Minnesota,Beltrami County,238,2.5
+5,Minnesota,Benton County,276,3.4
+5,Minnesota,Big Stone County,18,2.6
+5,Minnesota,Blue Earth County,666,4.1
+5,Minnesota,Brown County,293,6.9
+5,Minnesota,Carlton County,112,1.9
+5,Minnesota,Carver County,1086,5.4
+5,Minnesota,Cass County,108,2.6
+5,Minnesota,Chippewa County,189,10.1
+5,Minnesota,Chisago County,235,2.4
+5,Minnesota,Clay County,704,4.8
+5,Minnesota,Clearwater County,33,2.4
+5,Minnesota,Cook County,37,4.9
+5,Minnesota,Cottonwood County,205,12
+5,Minnesota,Crow Wing County,229,2.2
+5,Minnesota,Dakota County,7532,9.2
+5,Minnesota,Dodge County,226,5.7
+5,Minnesota,Douglas County,143,2.4
+5,Minnesota,Faribault County,223,10.5
+5,Minnesota,Fillmore County,76,2.3
+5,Minnesota,Freeborn County,724,14.7
+5,Minnesota,Goodhue County,363,4.7
+5,Minnesota,Grant County,26,2.9
+5,Minnesota,Hennepin County,20754,7.8
+5,Minnesota,Houston County,50,1.7
+5,Minnesota,Hubbard County,93,3.1
+5,Minnesota,Isanti County,215,3
+5,Minnesota,Itasca County,169,2.5
+5,Minnesota,Jackson County,77,5.2
+5,Minnesota,Kanabec County,73,2.8
+5,Minnesota,Kandiyohi County,1226,16.8
+5,Minnesota,Kittson County,20,3.2
+5,Minnesota,Koochiching County,31,1.8
+5,Minnesota,Lac qui Parle County,38,4
+5,Minnesota,Lake County,31,2.1
+5,Minnesota,Lake of the Woods County,15,3
+5,Minnesota,Le Sueur County,462,9.2
+5,Minnesota,Lincoln County,27,3.3
+5,Minnesota,Lyon County,443,9.1
+5,Minnesota,McLeod County,518,8.4
+5,Minnesota,Mahnomen County,35,3.8
+5,Minnesota,Marshall County,96,6.6
+5,Minnesota,Martin County,214,7
+5,Minnesota,Meeker County,223,6
+5,Minnesota,Mille Lacs County,160,3.6
+5,Minnesota,Morrison County,141,2.6
+5,Minnesota,Mower County,1072,15.4
+5,Minnesota,Murray County,93,7.6
+5,Minnesota,Nicollet County,384,5.4
+5,Minnesota,Nobles County,1322,36.5
+5,Minnesota,Norman County,72,7.2
+5,Minnesota,Olmsted County,1839,5.8
+5,Minnesota,Otter Tail County,447,5.2
+5,Minnesota,Pennington County,141,5.7
+5,Minnesota,Pine County,137,3.3
+5,Minnesota,Pipestone County,173,11.9
+5,Minnesota,Polk County,440,8.1
+5,Minnesota,Pope County,47,2.8
+5,Minnesota,Ramsey County,9961,8.5
+5,Minnesota,Red Lake County,32,5
+5,Minnesota,Redwood County,119,4.9
+5,Minnesota,Renville County,290,12.9
+5,Minnesota,Rice County,1296,9.9
+5,Minnesota,Rock County,67,4.4
+5,Minnesota,Roseau County,43,1.8
+5,Minnesota,St. Louis County,858,2.3
+5,Minnesota,Scott County,1810,6.2
+5,Minnesota,Sherburne County,586,3.1
+5,Minnesota,Sibley County,288,11.7
+5,Minnesota,Stearns County,1287,3.9
+5,Minnesota,Steele County,670,10.5
+5,Minnesota,Stevens County,132,6.2
+5,Minnesota,Swift County,106,7.3
+5,Minnesota,Todd County,345,9.4
+5,Minnesota,Traverse County,26,5.6
+5,Minnesota,Wabasha County,130,3.9
+5,Minnesota,Wadena County,74,3.4
+5,Minnesota,Waseca County,396,10.8
+5,Minnesota,Washington County,2644,5.5
+5,Minnesota,Watonwan County,625,35.2
+5,Minnesota,Wilkin County,31,3.3
+5,Minnesota,Winona County,372,3.3
+5,Minnesota,Wright County,990,3.8
+5,Minnesota,Yellow Medicine County,95,6.2
+5,Ohio,Adams County,52,1.1
+5,Ohio,Allen County,751,4.1
+5,Ohio,Ashland County,236,2.4
+5,Ohio,Ashtabula County,932,5.9
+5,Ohio,Athens County,428,2.5
+5,Ohio,Auglaize County,182,2.4
+5,Ohio,Belmont County,142,1.4
+5,Ohio,Brown County,106,1.4
+5,Ohio,Butler County,4193,5.4
+5,Ohio,Carroll County,58,1.4
+5,Ohio,Champaign County,123,1.9
+5,Ohio,Clark County,908,3.7
+5,Ohio,Clermont County,875,2.3
+5,Ohio,Clinton County,153,2
+5,Ohio,Columbiana County,296,1.8
+5,Ohio,Coshocton County,111,1.8
+5,Ohio,Crawford County,177,2.5
+5,Ohio,Cuyahoga County,18693,7.8
+5,Ohio,Darke County,172,2
+5,Ohio,Defiance County,873,12.7
+5,Ohio,Delaware County,1256,3.2
+5,Ohio,Erie County,676,5.5
+5,Ohio,Fairfield County,845,2.9
+5,Ohio,Fayette County,120,2.4
+5,Ohio,Franklin County,17877,6
+5,Ohio,Fulton County,861,11.8
+5,Ohio,Gallia County,70,1.4
+5,Ohio,Geauga County,283,1.9
+5,Ohio,Greene County,1377,4.1
+5,Ohio,Guernsey County,86,1.3
+5,Ohio,Hamilton County,6281,3.8
+5,Ohio,Hancock County,983,6.9
+5,Ohio,Hardin County,141,2.3
+5,Ohio,Harrison County,34,1.4
+5,Ohio,Henry County,456,9.8
+5,Ohio,Highland County,158,2.1
+5,Ohio,Hocking County,72,1.5
+5,Ohio,Holmes County,101,1.2
+5,Ohio,Huron County,880,8.6
+5,Ohio,Jackson County,62,1.1
+5,Ohio,Jefferson County,295,2.6
+5,Ohio,Knox County,233,2
+5,Ohio,Lake County,2273,5.7
+5,Ohio,Lawrence County,115,1.1
+5,Ohio,Licking County,941,2.9
+5,Ohio,Logan County,204,2.6
+5,Ohio,Lorain County,7124,13
+5,Ohio,Lucas County,7469,9
+5,Ohio,Madison County,211,3
+5,Ohio,Mahoning County,2889,7.5
+5,Ohio,Marion County,353,3.3
+5,Ohio,Medina County,948,3
+5,Ohio,Meigs County,27,0.7
+5,Ohio,Mercer County,172,2.5
+5,Ohio,Miami County,431,2.3
+5,Ohio,Monroe County,32,1.5
+5,Ohio,Montgomery County,4138,4
+5,Ohio,Morgan County,25,1.1
+5,Ohio,Morrow County,115,1.9
+5,Ohio,Muskingum County,260,1.6
+5,Ohio,Noble County,12,0.6
+5,Ohio,Ottawa County,449,7.6
+5,Ohio,Paulding County,188,5.9
+5,Ohio,Perry County,72,1.1
+5,Ohio,Pickaway County,186,1.9
+5,Ohio,Pike County,68,1.4
+5,Ohio,Portage County,929,2.7
+5,Ohio,Preble County,102,1.5
+5,Ohio,Putnam County,447,7.8
+5,Ohio,Richland County,524,2.6
+5,Ohio,Ross County,204,1.6
+5,Ohio,Sandusky County,1272,12.7
+5,Ohio,Scioto County,187,1.4
+5,Ohio,Seneca County,637,6.3
+5,Ohio,Shelby County,185,2.2
+5,Ohio,Stark County,1747,2.6
+5,Ohio,Summit County,2874,2.9
+5,Ohio,Trumbull County,850,2.6
+5,Ohio,Tuscarawas County,563,3.6
+5,Ohio,Union County,303,2.4
+5,Ohio,Van Wert County,212,4.3
+5,Ohio,Vinton County,23,1.1
+5,Ohio,Warren County,1717,4
+5,Ohio,Washington County,150,1.5
+5,Ohio,Wayne County,492,2.4
+5,Ohio,Williams County,394,6.3
+5,Ohio,Wood County,1864,6.5
+5,Ohio,Wyandot County,160,4.4
+5,Wisconsin,Adams County,131,5.8
+5,Wisconsin,Ashland County,107,4.1
+5,Wisconsin,Barron County,257,3.6
+5,Wisconsin,Bayfield County,65,3.3
+5,Wisconsin,Brown County,5101,9.9
+5,Wisconsin,Buffalo County,75,3.7
+5,Wisconsin,Burnett County,55,2.8
+5,Wisconsin,Calumet County,485,5.4
+5,Wisconsin,Chippewa County,245,2.3
+5,Wisconsin,Clark County,320,5.7
+5,Wisconsin,Columbia County,463,4.8
+5,Wisconsin,Crawford County,50,2.1
+5,Wisconsin,Dane County,8806,7.1
+5,Wisconsin,Dodge County,911,6.5
+5,Wisconsin,Door County,218,5.9
+5,Wisconsin,Douglas County,171,2.2
+5,Wisconsin,Dunn County,208,2.1
+5,Wisconsin,Eau Claire County,652,2.8
+5,Wisconsin,Florence County,14,2.7
+5,Wisconsin,Fond du Lac County,1172,6.3
+5,Wisconsin,Forest County,43,3.2
+5,Wisconsin,Grant County,164,1.7
+5,Wisconsin,Green County,265,4.3
+5,Wisconsin,Green Lake County,189,6.5
+5,Wisconsin,Iowa County,86,2.2
+5,Wisconsin,Iron County,10,1.4
+5,Wisconsin,Jackson County,127,4.1
+5,Wisconsin,Jefferson County,1411,9.1
+5,Wisconsin,Juneau County,161,4.2
+5,Wisconsin,Kenosha County,5501,16.6
+5,Wisconsin,Kewaunee County,139,4.3
+5,Wisconsin,La Crosse County,650,2.5
+5,Wisconsin,Lafayette County,115,4.3
+5,Wisconsin,Langlade County,81,2.9
+5,Wisconsin,Lincoln County,86,2.1
+5,Wisconsin,Manitowoc County,744,5.9
+5,Wisconsin,Marathon County,894,3.8
+5,Wisconsin,Marinette County,179,3
+5,Wisconsin,Marquette County,114,5.3
+5,Wisconsin,Menominee County,48,6
+5,Wisconsin,Milwaukee County,34698,16.9
+5,Wisconsin,Monroe County,434,5.5
+5,Wisconsin,Oconto County,149,2.6
+5,Wisconsin,Oneida County,129,2.6
+5,Wisconsin,Outagamie County,1894,5.3
+5,Wisconsin,Ozaukee County,629,4.2
+5,Wisconsin,Pepin County,29,2.7
+5,Wisconsin,Pierce County,218,2.4
+5,Wisconsin,Polk County,190,2.8
+5,Wisconsin,Portage County,592,4.1
+5,Wisconsin,Price County,75,4.2
+5,Wisconsin,Racine County,6294,17.9
+5,Wisconsin,Richland County,82,3.2
+5,Wisconsin,Rock County,3390,11.2
+5,Wisconsin,Rusk County,61,3
+5,Wisconsin,St. Croix County,509,3.1
+5,Wisconsin,Sauk County,706,6.3
+5,Wisconsin,Sawyer County,83,3.9
+5,Wisconsin,Shawano County,244,3.8
+5,Wisconsin,Sheboygan County,1736,8.8
+5,Wisconsin,Taylor County,93,2.9
+5,Wisconsin,Trempealeau County,394,8.2
+5,Wisconsin,Vernon County,115,2.4
+5,Wisconsin,Vilas County,95,3.7
+5,Wisconsin,Walworth County,2629,13.6
+5,Wisconsin,Washburn County,41,1.9
+5,Wisconsin,Washington County,1043,4.6
+5,Wisconsin,Waukesha County,4561,6.5
+5,Wisconsin,Waupaca County,364,4.5
+5,Wisconsin,Waushara County,363,11.5
+5,Wisconsin,Winnebago County,1788,5.3
+5,Wisconsin,Wood County,465,3.9
+6,Arkansas,Arkansas County,99,3.2
+6,Arkansas,Ashley County,214,6.4
+6,Arkansas,Baxter County,204,3.5
+6,Arkansas,Benton County,11274,19.6
+6,Arkansas,Boone County,217,3.5
+6,Arkansas,Bradley County,352,18.7
+6,Arkansas,Calhoun County,32,4
+6,Arkansas,Carroll County,939,20.9
+6,Arkansas,Chicot County,127,8.6
+6,Arkansas,Clark County,250,4.7
+6,Arkansas,Clay County,64,2.6
+6,Arkansas,Cleburne County,148,4
+6,Arkansas,Cleveland County,35,2.6
+6,Arkansas,Columbia County,140,2.8
+6,Arkansas,Conway County,176,5
+6,Arkansas,Craighead County,1263,5.2
+6,Arkansas,Crawford County,1144,9.9
+6,Arkansas,Crittenden County,249,2.6
+6,Arkansas,Cross County,69,2.4
+6,Arkansas,Dallas County,39,3.6
+6,Arkansas,Desha County,186,8.8
+6,Arkansas,Drew County,153,4.2
+6,Arkansas,Faulkner County,1193,4.1
+6,Arkansas,Franklin County,111,3.7
+6,Arkansas,Fulton County,53,3
+6,Arkansas,Garland County,1252,7.5
+6,Arkansas,Grant County,117,3.5
+6,Arkansas,Greene County,308,3.6
+6,Arkansas,Hempstead County,577,15.1
+6,Arkansas,Hot Spring County,234,4.2
+6,Arkansas,Howard County,434,17.8
+6,Arkansas,Independence County,499,7.2
+6,Arkansas,Izard County,71,3.8
+6,Arkansas,Jackson County,103,3.3
+6,Arkansas,Jefferson County,289,2.3
+6,Arkansas,Johnson County,919,18.4
+6,Arkansas,Lafayette County,40,3.8
+6,Arkansas,Lawrence County,82,2.8
+6,Arkansas,Lee County,26,2.2
+6,Arkansas,Lincoln County,82,4.9
+6,Arkansas,Little River County,87,4.1
+6,Arkansas,Logan County,142,4
+6,Arkansas,Lonoke County,715,4.8
+6,Arkansas,Madison County,227,8.1
+6,Arkansas,Marion County,94,4.3
+6,Arkansas,Miller County,294,3.7
+6,Arkansas,Mississippi County,381,4.8
+6,Arkansas,Monroe County,28,2.6
+6,Arkansas,Montgomery County,84,6.9
+6,Arkansas,Nevada County,74,5.6
+6,Arkansas,Newton County,33,2.9
+6,Arkansas,Ouachita County,100,2.6
+6,Arkansas,Perry County,60,3.5
+6,Arkansas,Phillips County,71,2.2
+6,Arkansas,Pike County,138,7.8
+6,Arkansas,Poinsett County,164,3.8
+6,Arkansas,Polk County,269,8.4
+6,Arkansas,Pope County,1409,10.9
+6,Arkansas,Prairie County,26,2
+6,Arkansas,Pulaski County,5277,6.6
+6,Arkansas,Randolph County,70,2.2
+6,Arkansas,St. Francis County,92,2.4
+6,Arkansas,Saline County,1403,6
+6,Arkansas,Scott County,178,11
+6,Arkansas,Searcy County,43,3.7
+6,Arkansas,Sebastian County,4245,17.3
+6,Arkansas,Sevier County,1200,39.3
+6,Arkansas,Sharp County,97,3.8
+6,Arkansas,Stone County,54,3
+6,Arkansas,Union County,315,4.6
+6,Arkansas,Van Buren County,91,3.8
+6,Arkansas,Washington County,9960,18.2
+6,Arkansas,White County,823,5.3
+6,Arkansas,Woodruff County,17,1.7
+6,Arkansas,Yell County,925,25.4
+6,Louisiana,Acadia Parish,335,2.8
+6,Louisiana,Allen Parish,102,2.6
+6,Louisiana,Ascension Parish,1590,6.1
+6,Louisiana,Assumption Parish,134,3.4
+6,Louisiana,Avoyelles Parish,172,2.4
+6,Louisiana,Beauregard Parish,342,5.1
+6,Louisiana,Bienville Parish,57,2.5
+6,Louisiana,Bossier Parish,1830,7.1
+6,Louisiana,Caddo Parish,1380,2.9
+6,Louisiana,Calcasieu Parish,1886,4.6
+6,Louisiana,Caldwell Parish,75,4.5
+6,Louisiana,Cameron Parish,56,4.5
+6,Louisiana,Catahoula Parish,34,2.3
+6,Louisiana,Claiborne Parish,54,2.6
+6,Louisiana,Concordia Parish,51,1.6
+6,Louisiana,De Soto Parish,178,3.5
+6,Louisiana,East Baton Rouge Parish,3989,4
+6,Louisiana,East Carroll Parish,37,3.4
+6,Louisiana,East Feliciana Parish,52,1.8
+6,Louisiana,Evangeline Parish,121,2
+6,Louisiana,Franklin Parish,57,1.6
+6,Louisiana,Grant Parish,104,3
+6,Louisiana,Iberia Parish,534,4.1
+6,Louisiana,Iberville Parish,148,2.4
+6,Louisiana,Jackson Parish,48,1.9
+6,Louisiana,Jefferson Parish,12956,15.6
+6,Louisiana,Jefferson Davis Parish,157,2.7
+6,Louisiana,Lafayette Parish,2363,4.6
+6,Louisiana,Lafourche Parish,837,4.5
+6,Louisiana,LaSalle Parish,56,2.2
+6,Louisiana,Lincoln Parish,308,2.6
+6,Louisiana,Livingston Parish,1243,4.3
+6,Louisiana,Madison Parish,51,2.4
+6,Louisiana,Morehouse Parish,55,1.3
+6,Louisiana,Natchitoches Parish,191,2.3
+6,Louisiana,Orleans Parish,4745,5.4
+6,Louisiana,Ouachita Parish,702,2.2
+6,Louisiana,Plaquemines Parish,379,8.5
+6,Louisiana,Pointe Coupee Parish,150,4.1
+6,Louisiana,Rapides Parish,765,3.1
+6,Louisiana,Red River Parish,41,2.9
+6,Louisiana,Richland Parish,105,2.8
+6,Louisiana,Sabine Parish,178,4.4
+6,Louisiana,St. Bernard Parish,910,9
+6,Louisiana,St. Charles Parish,776,7.5
+6,Louisiana,St. Helena Parish,36,2
+6,Louisiana,St. James Parish,65,1.6
+6,Louisiana,St. John the Baptist Parish,581,7
+6,Louisiana,St. Landry Parish,364,2.4
+6,Louisiana,St. Martin Parish,330,3.3
+6,Louisiana,St. Mary Parish,594,6.8
+6,Louisiana,St. Tammany Parish,3030,6.4
+6,Louisiana,Tangipahoa Parish,1147,4.1
+6,Louisiana,Tensas Parish,16,2.5
+6,Louisiana,Terrebonne Parish,1062,4.9
+6,Louisiana,Union Parish,241,6.5
+6,Louisiana,Vermilion Parish,477,4.2
+6,Louisiana,Vernon Parish,1144,11.7
+6,Louisiana,Washington Parish,184,2.2
+6,Louisiana,Webster Parish,160,2.4
+6,Louisiana,West Baton Rouge Parish,184,3.5
+6,Louisiana,West Carroll Parish,87,4.8
+6,Louisiana,West Feliciana Parish,45,2.5
+6,Louisiana,Winn Parish,43,2
+6,New Mexico,Bernalillo County,76562,56
+6,New Mexico,Catron County,81,23.9
+6,New Mexico,Chaves County,8187,66
+6,New Mexico,Cibola County,1713,35.2
+6,New Mexico,Colfax County,984,58.3
+6,New Mexico,Curry County,4711,47.6
+6,New Mexico,De Baca County,123,51
+6,New Mexico,Dona Ana County,34345,74.2
+6,New Mexico,Eddy County,6374,56.6
+6,New Mexico,Grant County,2513,61.3
+6,New Mexico,Guadalupe County,542,84
+6,New Mexico,Harding County,33,50.8
+6,New Mexico,Hidalgo County,389,61.1
+6,New Mexico,Lea County,9240,65.5
+6,New Mexico,Lincoln County,1343,47.6
+6,New Mexico,Los Alamos County,808,24
+6,New Mexico,Luna County,3177,79
+6,New Mexico,McKinley County,1814,12.3
+6,New Mexico,Mora County,551,86.8
+6,New Mexico,Otero County,5406,43.9
+6,New Mexico,Quay County,646,52.4
+6,New Mexico,Rio Arriba County,4779,72.3
+6,New Mexico,Roosevelt County,1852,45.4
+6,New Mexico,Sandoval County,12786,47.3
+6,New Mexico,San Juan County,5187,21.6
+6,New Mexico,San Miguel County,3846,80.2
+6,New Mexico,Santa Fe County,15315,62.1
+6,New Mexico,Sierra County,586,46.8
+6,New Mexico,Socorro County,1521,53.5
+6,New Mexico,Taos County,3072,63.4
+6,New Mexico,Torrance County,1162,50
+6,New Mexico,Union County,242,46
+6,New Mexico,Valencia County,9341,68
+6,Oklahoma,Adair County,280,7
+6,Oklahoma,Alfalfa County,46,6.4
+6,Oklahoma,Atoka County,90,4.1
+6,Oklahoma,Beaver County,310,34.4
+6,Oklahoma,Beckham County,520,14.1
+6,Oklahoma,Blaine County,230,14.9
+6,Oklahoma,Bryan County,649,6.9
+6,Oklahoma,Caddo County,641,13.9
+6,Oklahoma,Canadian County,3388,11.2
+6,Oklahoma,Carter County,822,9.2
+6,Oklahoma,Cherokee County,690,6.7
+6,Oklahoma,Choctaw County,135,5.3
+6,Oklahoma,Cimarron County,100,31.6
+6,Oklahoma,Cleveland County,6855,10.7
+6,Oklahoma,Coal County,51,5.6
+6,Oklahoma,Comanche County,3966,16.2
+6,Oklahoma,Cotton County,88,9.6
+6,Oklahoma,Craig County,95,4.2
+6,Oklahoma,Creek County,675,5.4
+6,Oklahoma,Custer County,1202,19
+6,Oklahoma,Delaware County,350,5.2
+6,Oklahoma,Dewey County,76,9.3
+6,Oklahoma,Ellis County,57,9.3
+6,Oklahoma,Garfield County,1840,16.1
+6,Oklahoma,Garvin County,588,11.9
+6,Oklahoma,Grady County,773,7.6
+6,Oklahoma,Grant County,48,7.1
+6,Oklahoma,Greer County,135,16.9
+6,Oklahoma,Harmon County,178,42.7
+6,Oklahoma,Harper County,186,30.9
+6,Oklahoma,Haskell County,80,3.8
+6,Oklahoma,Hughes County,144,7.1
+6,Oklahoma,Jackson County,1387,28.9
+6,Oklahoma,Jefferson County,126,13.3
+6,Oklahoma,Johnston County,141,7.1
+6,Oklahoma,Kay County,717,9.3
+6,Oklahoma,Kingfisher County,564,19.6
+6,Oklahoma,Kiowa County,200,14.2
+6,Oklahoma,Latimer County,86,5
+6,Oklahoma,Le Flore County,718,8.2
+6,Oklahoma,Lincoln County,265,4.4
+6,Oklahoma,Logan County,696,7.6
+6,Oklahoma,Love County,371,20.2
+6,Oklahoma,McClain County,745,9.7
+6,Oklahoma,McCurtain County,392,6.7
+6,Oklahoma,McIntosh County,113,3.8
+6,Oklahoma,Major County,168,13.1
+6,Oklahoma,Marshall County,672,24.1
+6,Oklahoma,Mayes County,320,4.4
+6,Oklahoma,Murray County,211,8.8
+6,Oklahoma,Muskogee County,941,7.3
+6,Oklahoma,Noble County,84,4.5
+6,Oklahoma,Nowata County,67,4
+6,Oklahoma,Okfuskee County,89,4.8
+6,Oklahoma,Oklahoma County,31599,19
+6,Oklahoma,Okmulgee County,350,5.1
+6,Oklahoma,Osage County,363,4.7
+6,Oklahoma,Ottawa County,431,7.6
+6,Oklahoma,Pawnee County,124,4.5
+6,Oklahoma,Payne County,1047,5.1
+6,Oklahoma,Pittsburg County,444,6.1
+6,Oklahoma,Pontotoc County,421,5.4
+6,Oklahoma,Pottawatomie County,934,6.3
+6,Oklahoma,Pushmataha County,98,5.6
+6,Oklahoma,Roger Mills County,55,9.4
+6,Oklahoma,Rogers County,1081,6.3
+6,Oklahoma,Seminole County,261,5.8
+6,Oklahoma,Sequoyah County,369,5
+6,Oklahoma,Stephens County,803,10.5
+6,Oklahoma,Texas County,1923,51.6
+6,Oklahoma,Tillman County,414,36.2
+6,Oklahoma,Tulsa County,19380,14.6
+6,Oklahoma,Wagoner County,1291,8.4
+6,Oklahoma,Washington County,730,8
+6,Oklahoma,Washita County,249,12.9
+6,Oklahoma,Woods County,158,9.6
+6,Oklahoma,Woodward County,538,15.2
+6,Texas,Anderson County,1550,20.1
+6,Texas,Andrews County,2343,61
+6,Texas,Angelina County,4363,26.2
+6,Texas,Aransas County,1245,38.2
+6,Texas,Archer County,134,9.7
+6,Texas,Armstrong County,31,10.4
+6,Texas,Atascosa County,6772,68.5
+6,Texas,Austin County,1787,34.7
+6,Texas,Bailey County,969,73.7
+6,Texas,Bandera County,814,26.9
+6,Texas,Bastrop County,7367,47.1
+6,Texas,Baylor County,96,17.3
+6,Texas,Bee County,3581,73
+6,Texas,Bell County,22307,28
+6,Texas,Bexar County,276324,63.8
+6,Texas,Blanco County,441,26.6
+6,Texas,Borden County,14,16.1
+6,Texas,Bosque County,806,27.9
+6,Texas,Bowie County,1258,7.4
+6,Texas,Brazoria County,26808,35.5
+6,Texas,Brazos County,16341,26.5
+6,Texas,Brewster County,838,53.1
+6,Texas,Briscoe County,80,33.2
+6,Texas,Brooks County,1083,91.6
+6,Texas,Brown County,2041,29.8
+6,Texas,Burleson County,839,27.1
+6,Texas,Burnet County,2401,29.9
+6,Texas,Caldwell County,5106,58.9
+6,Texas,Calhoun County,2135,57.8
+6,Texas,Callahan County,289,12.2
+6,Texas,Cameron County,79552,93.7
+6,Texas,Camp County,790,33.3
+6,Texas,Carson County,117,11.5
+6,Texas,Cass County,306,6.2
+6,Texas,Castro County,1019,73.5
+6,Texas,Chambers County,2450,27.5
+6,Texas,Cherokee County,2632,28.7
+6,Texas,Childress County,327,32.3
+6,Texas,Clay County,164,10
+6,Texas,Cochran County,361,68.1
+6,Texas,Coke County,133,25.6
+6,Texas,Coleman County,273,23.3
+6,Texas,Collin County,38052,17.5
+6,Texas,Collingsworth County,227,44.8
+6,Texas,Colorado County,1315,39.1
+6,Texas,Comal County,9406,34.1
+6,Texas,Comanche County,771,37.4
+6,Texas,Concho County,147,41
+6,Texas,Cooke County,1698,23.5
+6,Texas,Coryell County,3903,21.2
+6,Texas,Cottle County,64,29.2
+6,Texas,Crane County,675,72.2
+6,Texas,Crockett County,436,72.9
+6,Texas,Crosby County,667,65
+6,Texas,Culberson County,259,74.6
+6,Texas,Dallam County,631,48.5
+6,Texas,Dallas County,246106,42.6
+6,Texas,Dawson County,1373,66.2
+6,Texas,Deaf Smith County,2960,81
+6,Texas,Delta County,94,10.8
+6,Texas,Denton County,42855,21.8
+6,Texas,DeWitt County,1296,42.3
+6,Texas,Dickens County,104,37.3
+6,Texas,Dimmit County,1756,90.2
+6,Texas,Donley County,88,15.3
+6,Texas,Duval County,1770,92.4
+6,Texas,Eastland County,666,21.9
+6,Texas,Ector County,23193,66.2
+6,Texas,Edwards County,155,64.8
+6,Texas,Ellis County,11589,31.5
+6,Texas,El Paso County,148940,85.2
+6,Texas,Erath County,2200,21.6
+6,Texas,Falls County,975,27.2
+6,Texas,Fannin County,789,13.9
+6,Texas,Fayette County,1221,31.4
+6,Texas,Fisher County,181,32.5
+6,Texas,Floyd County,693,69.6
+6,Texas,Foard County,36,20.4
+6,Texas,Fort Bend County,46461,27.8
+6,Texas,Franklin County,313,18
+6,Texas,Freestone County,629,20.1
+6,Texas,Frio County,2671,85.3
+6,Texas,Gaines County,1891,43.6
+6,Texas,Galveston County,19683,29.2
+6,Texas,Garza County,392,47.9
+6,Texas,Gillespie County,1369,35.5
+6,Texas,Glasscock County,100,40.5
+6,Texas,Goliad County,506,42
+6,Texas,Gonzales County,2194,58.7
+6,Texas,Gray County,1289,34.9
+6,Texas,Grayson County,4203,16.8
+6,Texas,Gregg County,5185,21.3
+6,Texas,Grimes County,1390,30.8
+6,Texas,Guadalupe County,14588,43.4
+6,Texas,Hale County,4193,67.5
+6,Texas,Hall County,229,47.8
+6,Texas,Hamilton County,223,17.5
+6,Texas,Hansford County,549,54.5
+6,Texas,Hardeman County,225,33.7
+6,Texas,Hardin County,770,7.2
+6,Texas,Harris County,467016,45.8
+6,Texas,Harrison County,2005,16.2
+6,Texas,Hartley County,222,29
+6,Texas,Haskell County,317,35.5
+6,Texas,Hays County,23512,42.8
+6,Texas,Hemphill County,303,41.3
+6,Texas,Henderson County,2388,17.4
+6,Texas,Hidalgo County,175130,95.2
+6,Texas,Hill County,1672,26.9
+6,Texas,Hockley County,2532,54.2
+6,Texas,Hood County,1683,17.4
+6,Texas,Hopkins County,1443,21.6
+6,Texas,Houston County,436,13.3
+6,Texas,Howard County,2958,47.7
+6,Texas,Hudspeth County,813,81.5
+6,Texas,Hunt County,3845,20.2
+6,Texas,Hutchinson County,1095,28.9
+6,Texas,Irion County,65,27.2
+6,Texas,Jack County,280,20.6
+6,Texas,Jackson County,983,37.5
+6,Texas,Jasper County,468,8
+6,Texas,Jeff Davis County,125,42.5
+6,Texas,Jefferson County,11008,23.4
+6,Texas,Jim Hogg County,844,94.6
+6,Texas,Jim Wells County,6287,82.2
+6,Texas,Johnson County,8792,26
+6,Texas,Jones County,722,29.9
+6,Texas,Karnes County,1631,66.6
+6,Texas,Kaufman County,7671,27.1
+6,Texas,Kendall County,2539,30.9
+6,Texas,Kenedy County,51,75
+6,Texas,Kent County,20,20
+6,Texas,Kerr County,3127,38.1
+6,Texas,Kimble County,216,34.6
+6,Texas,King County,9,20.9
+6,Texas,Kinney County,350,70.8
+6,Texas,Kleberg County,5421,77
+6,Texas,Knox County,257,42.8
+6,Texas,Lamar County,934,10.4
+6,Texas,Lamb County,1461,63.5
+6,Texas,Lampasas County,869,24.2
+6,Texas,La Salle County,1105,89.4
+6,Texas,Lavaca County,830,25.9
+6,Texas,Lee County,945,32.3
+6,Texas,Leon County,498,18.7
+6,Texas,Liberty County,5807,32.1
+6,Texas,Limestone County,1062,28.1
+6,Texas,Lipscomb County,213,40
+6,Texas,Live Oak County,844,47.3
+6,Texas,Llano County,498,19.7
+6,Texas,Loving County,3,9.7
+6,Texas,Lubbock County,27635,38
+6,Texas,Lynn County,512,50
+6,Texas,McCulloch County,503,38.8
+6,Texas,McLennan County,16209,29
+6,Texas,McMullen County,45,42.1
+6,Texas,Madison County,621,28
+6,Texas,Marion County,89,6.5
+6,Texas,Martin County,572,51.4
+6,Texas,Mason County,195,32.5
+6,Texas,Matagorda County,3210,49.8
+6,Texas,Maverick County,11240,95.3
+6,Texas,Medina County,5364,60.6
+6,Texas,Menard County,140,50.9
+6,Texas,Midland County,18809,50.2
+6,Texas,Milam County,1387,33.6
+6,Texas,Mills County,165,23.3
+6,Texas,Mitchell County,488,42.5
+6,Texas,Montague County,522,15.9
+6,Texas,Montgomery County,34829,29.2
+6,Texas,Moore County,2487,63.2
+6,Texas,Morris County,283,13.4
+6,Texas,Motley County,44,27
+6,Texas,Nacogdoches County,3031,20.1
+6,Texas,Navarro County,3204,35.2
+6,Texas,Newton County,121,5.6
+6,Texas,Nolan County,1184,46.6
+6,Texas,Nueces County,50776,68.7
+6,Texas,Ochiltree County,1181,60.6
+6,Texas,Oldham County,77,19.5
+6,Texas,Orange County,1478,9.5
+6,Texas,Palo Pinto County,1271,25.2
+6,Texas,Panola County,438,10.8
+6,Texas,Parker County,4087,15.6
+6,Texas,Parmer County,1243,72.6
+6,Texas,Pecos County,2069,78.7
+6,Texas,Polk County,1334,18.1
+6,Texas,Potter County,10213,45
+6,Texas,Presidio County,940,85.4
+6,Texas,Rains County,222,11.8
+6,Texas,Randall County,8136,28.4
+6,Texas,Reagan County,556,76.9
+6,Texas,Real County,176,36.7
+6,Texas,Red River County,173,9.4
+6,Texas,Reeves County,1935,80.7
+6,Texas,Refugio County,655,60.3
+6,Texas,Roberts County,16,10.8
+6,Texas,Robertson County,845,27.9
+6,Texas,Rockwall County,4539,21.9
+6,Texas,Runnels County,724,42.2
+6,Texas,Rusk County,1872,20.8
+6,Texas,Sabine County,100,7
+6,Texas,San Augustine County,121,10.4
+6,Texas,San Jacinto County,832,18.2
+6,Texas,San Patricio County,8072,63.4
+6,Texas,San Saba County,300,37.6
+6,Texas,Schleicher County,335,63.5
+6,Texas,Scurry County,1317,46.3
+6,Texas,Shackelford County,80,14.6
+6,Texas,Shelby County,968,21.7
+6,Texas,Sherman County,250,49.6
+6,Texas,Smith County,10964,23.4
+6,Texas,Somervell County,406,25
+6,Texas,Starr County,12855,96.8
+6,Texas,Stephens County,476,32
+6,Texas,Sterling County,95,41.1
+6,Texas,Stonewall County,48,23.3
+6,Texas,Sutton County,432,68.3
+6,Texas,Swisher County,612,51.1
+6,Texas,Tarrant County,145211,32
+6,Texas,Taylor County,8474,27.8
+6,Texas,Terrell County,50,49.5
+6,Texas,Terry County,1325,63.6
+6,Texas,Throckmorton County,46,23.1
+6,Texas,Titus County,3242,51.6
+6,Texas,Tom Green County,11127,45.4
+6,Texas,Travis County,104587,34.7
+6,Texas,Trinity County,337,15.2
+6,Texas,Tyler County,170,5.7
+6,Texas,Upshur County,789,10.8
+6,Texas,Upton County,414,59.6
+6,Texas,Uvalde County,4098,79
+6,Texas,Val Verde County,7917,84.2
+6,Texas,Van Zandt County,1429,14.8
+6,Texas,Victoria County,9718,53.6
+6,Texas,Walker County,2844,19.8
+6,Texas,Waller County,3796,29.5
+6,Texas,Ward County,1313,58.3
+6,Texas,Washington County,1345,21.5
+6,Texas,Webb County,56629,96.4
+6,Texas,Wharton County,3745,48
+6,Texas,Wheeler County,261,30.5
+6,Texas,Wichita County,5743,22.4
+6,Texas,Wilbarger County,864,35.8
+6,Texas,Willacy County,3408,92.8
+6,Texas,Williamson County,36134,28.6
+6,Texas,Wilson County,4152,45.3
+6,Texas,Winkler County,1042,67.4
+6,Texas,Wise County,3096,24.2
+6,Texas,Wood County,1007,14.8
+6,Texas,Yoakum County,1196,73.3
+6,Texas,Young County,700,23.2
+6,Texas,Zapata County,2767,97.4
+6,Texas,Zavala County,2171,94.5
+7,Iowa,Adair County,41,3.6
+7,Iowa,Adams County,8,1.5
+7,Iowa,Allamakee County,172,8.6
+7,Iowa,Appanoose County,59,3
+7,Iowa,Audubon County,22,2.6
+7,Iowa,Benton County,106,2.5
+7,Iowa,Black Hawk County,1476,5.3
+7,Iowa,Boone County,158,3.5
+7,Iowa,Bremer County,120,2.5
+7,Iowa,Buchanan County,81,2.3
+7,Iowa,Buena Vista County,1113,30.3
+7,Iowa,Butler County,44,1.9
+7,Iowa,Calhoun County,43,3.1
+7,Iowa,Carroll County,130,4
+7,Iowa,Cass County,56,2.8
+7,Iowa,Cedar County,102,3.3
+7,Iowa,Cerro Gordo County,471,6.8
+7,Iowa,Cherokee County,95,5.7
+7,Iowa,Chickasaw County,65,3.5
+7,Iowa,Clarke County,289,18.9
+7,Iowa,Clay County,169,6.2
+7,Iowa,Clayton County,76,3
+7,Iowa,Clinton County,315,4
+7,Iowa,Crawford County,1148,38.8
+7,Iowa,Dallas County,1416,7.2
+7,Iowa,Davis County,34,2.3
+7,Iowa,Decatur County,61,4.2
+7,Iowa,Delaware County,69,2.6
+7,Iowa,Des Moines County,304,4.6
+7,Iowa,Dickinson County,84,3.3
+7,Iowa,Dubuque County,677,3.7
+7,Iowa,Emmet County,202,12.7
+7,Iowa,Fayette County,96,3
+7,Iowa,Floyd County,127,5
+7,Iowa,Franklin County,261,16.3
+7,Iowa,Fremont County,41,4
+7,Iowa,Greene County,56,4
+7,Iowa,Grundy County,40,2
+7,Iowa,Guthrie County,61,3.7
+7,Iowa,Hamilton County,217,9
+7,Iowa,Hancock County,105,6.3
+7,Iowa,Hardin County,155,5.7
+7,Iowa,Harrison County,62,2.7
+7,Iowa,Henry County,200,6
+7,Iowa,Howard County,38,2.6
+7,Iowa,Humboldt County,108,7
+7,Iowa,Ida County,46,4.3
+7,Iowa,Iowa County,88,3.3
+7,Iowa,Jackson County,63,2.1
+7,Iowa,Jasper County,216,3.6
+7,Iowa,Jefferson County,132,5
+7,Iowa,Johnson County,2497,6.4
+7,Iowa,Jones County,94,2.9
+7,Iowa,Keokuk County,36,2.2
+7,Iowa,Kossuth County,126,5.5
+7,Iowa,Lee County,242,4.5
+7,Iowa,Linn County,1934,4.3
+7,Iowa,Louisa County,366,19.7
+7,Iowa,Lucas County,36,2.8
+7,Iowa,Lyon County,63,3.2
+7,Iowa,Madison County,92,3.3
+7,Iowa,Mahaska County,123,3.1
+7,Iowa,Marion County,156,2.6
+7,Iowa,Marshall County,2049,30.3
+7,Iowa,Mills County,118,4.7
+7,Iowa,Mitchell County,31,1.8
+7,Iowa,Monona County,37,2.7
+7,Iowa,Monroe County,45,3.5
+7,Iowa,Montgomery County,91,5.7
+7,Iowa,Muscatine County,1736,22.5
+7,Iowa,O'Brien County,157,7.1
+7,Iowa,Osceola County,80,9.4
+7,Iowa,Page County,109,4.8
+7,Iowa,Palo Alto County,53,3.8
+7,Iowa,Plymouth County,321,7.5
+7,Iowa,Pocahontas County,56,5.8
+7,Iowa,Polk County,9656,9.4
+7,Iowa,Pottawattamie County,1651,9.8
+7,Iowa,Poweshiek County,188,5.3
+7,Iowa,Ringgold County,28,3.7
+7,Iowa,Sac County,57,4
+7,Iowa,Scott County,2844,8.6
+7,Iowa,Shelby County,72,4.1
+7,Iowa,Sioux County,819,12.1
+7,Iowa,Story County,1066,4.3
+7,Iowa,Tama County,377,13.8
+7,Iowa,Taylor County,83,8.9
+7,Iowa,Union County,88,4
+7,Iowa,Van Buren County,26,2.4
+7,Iowa,Wapello County,796,12.7
+7,Iowa,Warren County,397,4.1
+7,Iowa,Washington County,332,8.8
+7,Iowa,Wayne County,20,1.9
+7,Iowa,Webster County,427,7
+7,Iowa,Winnebago County,118,6.9
+7,Iowa,Winneshiek County,99,2.6
+7,Iowa,Woodbury County,3900,19.6
+7,Iowa,Worth County,60,4.9
+7,Iowa,Wright County,321,16.4
+7,Kansas,Allen County,95,4.4
+7,Kansas,Anderson County,41,3.3
+7,Kansas,Atchison County,112,3.5
+7,Kansas,Barber County,41,6.1
+7,Kansas,Barton County,923,20.5
+7,Kansas,Bourbon County,76,3
+7,Kansas,Brown County,73,4.8
+7,Kansas,Butler County,758,6.2
+7,Kansas,Chase County,25,6.6
+7,Kansas,Chautauqua County,29,6.3
+7,Kansas,Cherokee County,109,3.2
+7,Kansas,Cheyenne County,39,10.2
+7,Kansas,Clark County,46,14
+7,Kansas,Clay County,46,3.6
+7,Kansas,Cloud County,71,4.9
+7,Kansas,Coffey County,47,3.6
+7,Kansas,Comanche County,38,14.8
+7,Kansas,Cowley County,810,12.9
+7,Kansas,Crawford County,600,7.3
+7,Kansas,Decatur County,25,6.3
+7,Kansas,Dickinson County,199,6.5
+7,Kansas,Doniphan County,53,3.9
+7,Kansas,Douglas County,2376,7.5
+7,Kansas,Edwards County,116,27.4
+7,Kansas,Elk County,25,7.7
+7,Kansas,Ellis County,516,8.2
+7,Kansas,Ellsworth County,58,7.2
+7,Kansas,Finney County,3883,55.1
+7,Kansas,Ford County,3888,62.1
+7,Kansas,Franklin County,256,5.6
+7,Kansas,Geary County,1343,18.5
+7,Kansas,Gove County,19,4.9
+7,Kansas,Graham County,19,5.5
+7,Kansas,Grant County,690,52.5
+7,Kansas,Gray County,228,20.4
+7,Kansas,Greeley County,49,24.1
+7,Kansas,Greenwood County,47,5.4
+7,Kansas,Hamilton County,203,45.1
+7,Kansas,Harper County,61,7.6
+7,Kansas,Harvey County,850,13.8
+7,Kansas,Haskell County,234,32.4
+7,Kansas,Hodgeman County,30,11.5
+7,Kansas,Jackson County,114,5.4
+7,Kansas,Jefferson County,124,4
+7,Kansas,Jewell County,15,4.4
+7,Kansas,Johnson County,11360,9.5
+7,Kansas,Kearny County,247,36
+7,Kansas,Kingman County,72,6.1
+7,Kansas,Kiowa County,31,7.3
+7,Kansas,Labette County,185,5.9
+7,Kansas,Lane County,30,12.6
+7,Kansas,Leavenworth County,1252,8.9
+7,Kansas,Lincoln County,22,5.2
+7,Kansas,Linn County,53,3.5
+7,Kansas,Logan County,38,8.4
+7,Kansas,Lyon County,1638,21.7
+7,Kansas,McPherson County,285,5.5
+7,Kansas,Marion County,128,6.5
+7,Kansas,Marshall County,52,3.4
+7,Kansas,Meade County,146,21.8
+7,Kansas,Miami County,269,4.6
+7,Kansas,Mitchell County,34,3.8
+7,Kansas,Montgomery County,429,8.1
+7,Kansas,Morris County,54,6.5
+7,Kansas,Morton County,83,22
+7,Kansas,Nemaha County,50,3.1
+7,Kansas,Neosho County,169,6.2
+7,Kansas,Ness County,76,18.5
+7,Kansas,Norton County,48,6.7
+7,Kansas,Osage County,108,4.2
+7,Kansas,Osborne County,11,2.2
+7,Kansas,Ottawa County,32,3.7
+7,Kansas,Pawnee County,76,8.4
+7,Kansas,Phillips County,52,6.4
+7,Kansas,Pottawatomie County,285,6.2
+7,Kansas,Pratt County,145,9.5
+7,Kansas,Rawlins County,35,10.3
+7,Kansas,Reno County,1337,12.7
+7,Kansas,Republic County,20,3.2
+7,Kansas,Rice County,211,12.9
+7,Kansas,Riley County,1859,9.2
+7,Kansas,Rooks County,24,3
+7,Kansas,Rush County,30,7.1
+7,Kansas,Russell County,50,4.8
+7,Kansas,Saline County,1456,15
+7,Kansas,Scott County,188,23.7
+7,Kansas,Sedgwick County,18077,17.6
+7,Kansas,Seward County,2962,69.1
+7,Kansas,Shawnee County,4958,15.1
+7,Kansas,Sheridan County,34,8.7
+7,Kansas,Sherman County,170,16.6
+7,Kansas,Smith County,19,3.9
+7,Kansas,Stafford County,102,16.9
+7,Kansas,Stanton County,136,39
+7,Kansas,Stevens County,409,42.9
+7,Kansas,Sumner County,278,7.3
+7,Kansas,Thomas County,143,9.3
+7,Kansas,Trego County,20,5
+7,Kansas,Wabaunsee County,61,5.6
+7,Kansas,Wallace County,28,12.2
+7,Kansas,Washington County,40,5.1
+7,Kansas,Wichita County,133,39.9
+7,Kansas,Wilson County,74,5.5
+7,Kansas,Woodson County,27,5.6
+7,Kansas,Wyandotte County,10741,31.9
+7,Missouri,Adair County,198,2.9
+7,Missouri,Andrew County,92,3
+7,Missouri,Atchison County,19,2.5
+7,Missouri,Audrain County,165,3.2
+7,Missouri,Barry County,704,12.4
+7,Missouri,Barton County,63,3.2
+7,Missouri,Bates County,89,3.3
+7,Missouri,Benton County,73,3.1
+7,Missouri,Bollinger County,33,1.7
+7,Missouri,Boone County,1720,3.8
+7,Missouri,Buchanan County,1184,7.4
+7,Missouri,Butler County,190,2.5
+7,Missouri,Caldwell County,45,3.1
+7,Missouri,Callaway County,231,2.8
+7,Missouri,Camden County,280,4.4
+7,Missouri,Cape Girardeau County,461,2.7
+7,Missouri,Carroll County,21,1.4
+7,Missouri,Carter County,39,3.9
+7,Missouri,Cass County,1076,5.6
+7,Missouri,Cedar County,70,3.2
+7,Missouri,Chariton County,8,0.7
+7,Missouri,Christian County,663,3.9
+7,Missouri,Clark County,11,1.1
+7,Missouri,Clay County,4142,8.2
+7,Missouri,Clinton County,95,2.7
+7,Missouri,Cole County,462,3.3
+7,Missouri,Cooper County,91,3.1
+7,Missouri,Crawford County,127,3.2
+7,Missouri,Dade County,41,3.7
+7,Missouri,Dallas County,70,2.5
+7,Missouri,Daviess County,25,1.9
+7,Missouri,DeKalb County,55,3.6
+7,Missouri,Dent County,48,1.9
+7,Missouri,Douglas County,41,2.2
+7,Missouri,Dunklin County,440,8.5
+7,Missouri,Franklin County,382,2.1
+7,Missouri,Gasconade County,44,1.9
+7,Missouri,Gentry County,21,1.9
+7,Missouri,Greene County,2793,4.4
+7,Missouri,Grundy County,55,3.4
+7,Missouri,Harrison County,28,2.2
+7,Missouri,Henry County,121,3.4
+7,Missouri,Hickory County,17,1.5
+7,Missouri,Holt County,17,2.8
+7,Missouri,Howard County,36,2
+7,Missouri,Howell County,203,2.9
+7,Missouri,Iron County,33,2
+7,Missouri,Jackson County,14560,10.1
+7,Missouri,Jasper County,2244,9.3
+7,Missouri,Jefferson County,1042,2.5
+7,Missouri,Johnson County,702,5.7
+7,Missouri,Knox County,10,1.7
+7,Missouri,Laclede County,216,3.5
+7,Missouri,Lafayette County,193,3.5
+7,Missouri,Lawrence County,654,9.8
+7,Missouri,Lewis County,48,2.7
+7,Missouri,Lincoln County,353,3.1
+7,Missouri,Linn County,84,4.2
+7,Missouri,Livingston County,86,2.6
+7,Missouri,McDonald County,529,13
+7,Missouri,Macon County,72,3
+7,Missouri,Madison County,64,3.2
+7,Missouri,Maries County,21,1.5
+7,Missouri,Marion County,110,2.1
+7,Missouri,Mercer County,24,4.3
+7,Missouri,Miller County,116,2.7
+7,Missouri,Mississippi County,55,2.7
+7,Missouri,Moniteau County,185,6.9
+7,Missouri,Monroe County,31,2.4
+7,Missouri,Montgomery County,27,1.5
+7,Missouri,Morgan County,85,2.8
+7,Missouri,New Madrid County,60,2
+7,Missouri,Newton County,688,6.8
+7,Missouri,Nodaway County,102,1.8
+7,Missouri,Oregon County,42,2.6
+7,Missouri,Osage County,25,1.1
+7,Missouri,Ozark County,29,2.4
+7,Missouri,Pemiscot County,85,2.9
+7,Missouri,Perry County,81,2.5
+7,Missouri,Pettis County,849,10.8
+7,Missouri,Phelps County,274,3.3
+7,Missouri,Pike County,67,2.5
+7,Missouri,Platte County,1617,7.8
+7,Missouri,Polk County,211,3.4
+7,Missouri,Pulaski County,1452,13.2
+7,Missouri,Putnam County,32,4.6
+7,Missouri,Ralls County,32,2
+7,Missouri,Randolph County,125,2.9
+7,Missouri,Ray County,121,3.2
+7,Missouri,Reynolds County,19,2.1
+7,Missouri,Ripley County,34,1.6
+7,Missouri,St. Charles County,3067,4
+7,Missouri,St. Clair County,38,2.9
+7,Missouri,Ste. Genevieve County,56,1.9
+7,Missouri,St. Francois County,202,1.8
+7,Missouri,St. Louis County,6669,3.5
+7,Missouri,Saline County,521,12.5
+7,Missouri,Schuyler County,27,3.5
+7,Missouri,Scotland County,13,1.6
+7,Missouri,Scott County,200,2.9
+7,Missouri,Shannon County,28,2.3
+7,Missouri,Shelby County,19,2
+7,Missouri,Stoddard County,118,2.3
+7,Missouri,Stone County,156,3.8
+7,Missouri,Sullivan County,229,23.5
+7,Missouri,Taney County,790,7.8
+7,Missouri,Texas County,114,3
+7,Missouri,Vernon County,122,3.3
+7,Missouri,Warren County,294,4.7
+7,Missouri,Washington County,57,1.4
+7,Missouri,Wayne County,38,2
+7,Missouri,Webster County,173,2.5
+7,Missouri,Worth County,4,1.3
+7,Missouri,Wright County,96,3.1
+7,Missouri,St. Louis City,2817,4.1
+7,Nebraska,Adams County,763,13.2
+7,Nebraska,Antelope County,37,4
+7,Nebraska,Arthur County,6,6.4
+7,Nebraska,Banner County,16,12.9
+7,Nebraska,Blaine County,0,0
+7,Nebraska,Boone County,22,2.9
+7,Nebraska,Box Butte County,291,15.8
+7,Nebraska,Boyd County,8,3.1
+7,Nebraska,Brown County,21,4.8
+7,Nebraska,Buffalo County,1069,10
+7,Nebraska,Burt County,47,4.9
+7,Nebraska,Butler County,83,6.7
+7,Nebraska,Cass County,218,5
+7,Nebraska,Cedar County,38,3.1
+7,Nebraska,Chase County,113,17.2
+7,Nebraska,Cherry County,30,3.5
+7,Nebraska,Cheyenne County,159,10.5
+7,Nebraska,Clay County,116,11.8
+7,Nebraska,Colfax County,880,52.2
+7,Nebraska,Cuming County,210,14.6
+7,Nebraska,Custer County,73,4.3
+7,Nebraska,Dakota County,1861,48.4
+7,Nebraska,Dawes County,133,7.1
+7,Nebraska,Dawson County,1654,39.9
+7,Nebraska,Deuel County,27,10.3
+7,Nebraska,Dixon County,154,17.1
+7,Nebraska,Dodge County,968,15.2
+7,Nebraska,Douglas County,16591,13.9
+7,Nebraska,Dundy County,27,11.3
+7,Nebraska,Fillmore County,60,6.8
+7,Nebraska,Franklin County,20,4.6
+7,Nebraska,Frontier County,24,5.7
+7,Nebraska,Furnas County,52,7.4
+7,Nebraska,Gage County,116,3.4
+7,Nebraska,Garden County,19,8.4
+7,Nebraska,Garfield County,8,2.9
+7,Nebraska,Gosper County,35,11.4
+7,Nebraska,Grant County,2,2.3
+7,Nebraska,Greeley County,12,3.2
+7,Nebraska,Hall County,3797,33.5
+7,Nebraska,Hamilton County,85,5.4
+7,Nebraska,Harlan County,17,3.8
+7,Nebraska,Hayes County,11,8.9
+7,Nebraska,Hitchcock County,28,6.8
+7,Nebraska,Holt County,96,6.3
+7,Nebraska,Hooker County,4,3.9
+7,Nebraska,Howard County,34,3.4
+7,Nebraska,Jefferson County,91,8.3
+7,Nebraska,Johnson County,75,12.4
+7,Nebraska,Kearney County,106,9.7
+7,Nebraska,Keith County,120,10.4
+7,Nebraska,Keya Paha County,1,1
+7,Nebraska,Kimball County,70,13.6
+7,Nebraska,Knox County,48,4.1
+7,Nebraska,Lancaster County,5535,8
+7,Nebraska,Lincoln County,680,11.2
+7,Nebraska,Logan County,13,10.7
+7,Nebraska,Loup County,5,5.3
+7,Nebraska,McPherson County,1,1.4
+7,Nebraska,Madison County,1145,17.7
+7,Nebraska,Merrick County,87,6.6
+7,Nebraska,Morrill County,159,21.6
+7,Nebraska,Nance County,15,2.7
+7,Nebraska,Nemaha County,54,4.2
+7,Nebraska,Nuckolls County,25,4.3
+7,Nebraska,Otoe County,267,10.2
+7,Nebraska,Pawnee County,11,3
+7,Nebraska,Perkins County,31,7.2
+7,Nebraska,Phelps County,109,7.4
+7,Nebraska,Pierce County,38,3.4
+7,Nebraska,Platte County,1519,26.3
+7,Nebraska,Polk County,61,7.8
+7,Nebraska,Red Willow County,120,6.6
+7,Nebraska,Richardson County,31,2.8
+7,Nebraska,Rock County,7,3.6
+7,Nebraska,Saline County,764,29.1
+7,Nebraska,Sarpy County,4384,11.5
+7,Nebraska,Saunders County,100,2.8
+7,Nebraska,Scotts Bluff County,1795,28.3
+7,Nebraska,Seward County,107,3.3
+7,Nebraska,Sheridan County,65,8.3
+7,Nebraska,Sherman County,13,3.2
+7,Nebraska,Sioux County,18,11.3
+7,Nebraska,Stanton County,61,6.2
+7,Nebraska,Thayer County,35,4.8
+7,Nebraska,Thomas County,7,7.3
+7,Nebraska,Thurston County,73,5.4
+7,Nebraska,Valley County,23,3.6
+7,Nebraska,Washington County,124,3.6
+7,Nebraska,Wayne County,166,7.7
+7,Nebraska,Webster County,37,7.1
+7,Nebraska,Wheeler County,2,2
+7,Nebraska,York County,168,6.9
+8,Colorado,Adams County,48615,43.8
+8,Colorado,Alamosa County,1814,50
+8,Colorado,Arapahoe County,31178,22.9
+8,Colorado,Archuleta County,498,25.4
+8,Colorado,Baca County,72,13.3
+8,Colorado,Bent County,220,38.1
+8,Colorado,Boulder County,10986,15.8
+8,Colorado,Broomfield County,2250,15.6
+8,Colorado,Chaffee County,294,10.2
+8,Colorado,Cheyenne County,37,12.9
+8,Colorado,Clear Creek County,137,9.6
+8,Colorado,Conejos County,726,52
+8,Colorado,Costilla County,394,70.5
+8,Colorado,Crowley County,179,36.5
+8,Colorado,Custer County,44,8.4
+8,Colorado,Delta County,898,20.1
+8,Colorado,Denver County,50200,27.8
+8,Colorado,Dolores County,17,5.9
+8,Colorado,Douglas County,7472,11.1
+8,Colorado,Eagle County,3669,33.9
+8,Colorado,Elbert County,425,10.1
+8,Colorado,El Paso County,30610,20.6
+8,Colorado,Fremont County,781,13
+8,Colorado,Garfield County,3799,33.3
+8,Colorado,Gilpin County,99,10.2
+8,Colorado,Grand County,354,13.4
+8,Colorado,Gunnison County,438,11.5
+8,Colorado,Hinsdale County,7,6.5
+8,Colorado,Huerfano County,356,43
+8,Colorado,Jackson County,34,16.1
+8,Colorado,Jefferson County,21789,19.3
+8,Colorado,Kiowa County,19,9
+8,Colorado,Kit Carson County,261,22
+8,Colorado,Lake County,601,37.5
+8,Colorado,La Plata County,1569,14.7
+8,Colorado,Larimer County,10705,13.7
+8,Colorado,Las Animas County,1031,48.4
+8,Colorado,Lincoln County,102,12.7
+8,Colorado,Logan County,597,17.4
+8,Colorado,Mesa County,5093,17.8
+8,Colorado,Mineral County,8,7.9
+8,Colorado,Moffat County,422,17.8
+8,Colorado,Montezuma County,661,15.6
+8,Colorado,Montrose County,1842,27.1
+8,Colorado,Morgan County,2236,41.6
+8,Colorado,Otero County,1524,46.9
+8,Colorado,Ouray County,58,8.8
+8,Colorado,Park County,240,9.3
+8,Colorado,Phillips County,182,26.5
+8,Colorado,Pitkin County,480,15.1
+8,Colorado,Prowers County,924,42.9
+8,Colorado,Pueblo County,15204,48.5
+8,Colorado,Rio Blanco County,140,12
+8,Colorado,Rio Grande County,998,51.3
+8,Colorado,Routt County,421,8.9
+8,Colorado,Saguache County,456,44.8
+8,Colorado,San Juan County,20,19.2
+8,Colorado,San Miguel County,212,13.7
+8,Colorado,Sedgwick County,83,23.1
+8,Colorado,Summit County,1035,17.3
+8,Colorado,Teller County,365,10.3
+8,Colorado,Washington County,92,11.9
+8,Colorado,Weld County,21980,32.7
+8,Colorado,Yuma County,509,30.5
+8,Montana,Beaverhead County,93,5.2
+8,Montana,Big Horn County,130,5.2
+8,Montana,Blaine County,35,2.9
+8,Montana,Broadwater County,39,4.2
+8,Montana,Carbon County,61,4
+8,Montana,Carter County,1,0.6
+8,Montana,Cascade County,921,6.3
+8,Montana,Chouteau County,36,3.8
+8,Montana,Custer County,98,5
+8,Montana,Daniels County,10,4.4
+8,Montana,Dawson County,71,4.9
+8,Montana,Deer Lodge County,52,4
+8,Montana,Fallon County,4,0.8
+8,Montana,Fergus County,63,3.7
+8,Montana,Flathead County,739,4.1
+8,Montana,Gallatin County,1226,4.7
+8,Montana,Garfield County,4,1.9
+8,Montana,Glacier County,106,4
+8,Montana,Golden Valley County,5,4.1
+8,Montana,Granite County,17,3.8
+8,Montana,Hill County,141,4.6
+8,Montana,Jefferson County,51,2.8
+8,Montana,Judith Basin County,11,3.9
+8,Montana,Lake County,293,5.8
+8,Montana,Lewis and Clark County,572,4.6
+8,Montana,Liberty County,4,1
+8,Montana,Lincoln County,210,7.8
+8,Montana,McCone County,8,3.4
+8,Montana,Madison County,77,6.5
+8,Montana,Meagher County,6,2.4
+8,Montana,Mineral County,30,5.4
+8,Montana,Missoula County,1133,4.2
+8,Montana,Musselshell County,43,6.7
+8,Montana,Park County,128,4.8
+8,Montana,Petroleum County,4,6.8
+8,Montana,Phillips County,31,5.6
+8,Montana,Pondera County,30,3.1
+8,Montana,Powder River County,11,4.7
+8,Montana,Powell County,24,3.3
+8,Montana,Prairie County,13,9.8
+8,Montana,Ravalli County,315,4.9
+8,Montana,Richland County,132,6.9
+8,Montana,Roosevelt County,49,2.4
+8,Montana,Rosebud County,72,4.6
+8,Montana,Sanders County,88,5.9
+8,Montana,Sheridan County,43,8.5
+8,Montana,Silver Bow County,340,5.4
+8,Montana,Stillwater County,90,6.2
+8,Montana,Sweet Grass County,22,4.3
+8,Montana,Teton County,20,2.1
+8,Montana,Toole County,31,4.9
+8,Montana,Treasure County,4,4.2
+8,Montana,Valley County,34,2.9
+8,Montana,Wheatland County,12,4
+8,Montana,Wibaux County,6,4.1
+8,Montana,Yellowstone County,2159,7
+8,North Dakota,Adams County,5,1.6
+8,North Dakota,Barnes County,35,2.1
+8,North Dakota,Benson County,26,2.3
+8,North Dakota,Billings County,7,5.3
+8,North Dakota,Bottineau County,25,2.8
+8,North Dakota,Bowman County,33,7.1
+8,North Dakota,Burke County,12,3.9
+8,North Dakota,Burleigh County,566,3.1
+8,North Dakota,Cass County,1270,3
+8,North Dakota,Cavalier County,16,3.2
+8,North Dakota,Dickey County,31,4
+8,North Dakota,Divide County,15,4.8
+8,North Dakota,Dunn County,36,5.2
+8,North Dakota,Eddy County,19,5.4
+8,North Dakota,Emmons County,6,1.4
+8,North Dakota,Foster County,5,1.1
+8,North Dakota,Golden Valley County,12,4.4
+8,North Dakota,Grand Forks County,859,5.4
+8,North Dakota,Grant County,3,1.1
+8,North Dakota,Griggs County,9,3.2
+8,North Dakota,Hettinger County,13,3
+8,North Dakota,Kidder County,25,7.7
+8,North Dakota,LaMoure County,17,3.1
+8,North Dakota,Logan County,11,4.3
+8,North Dakota,McHenry County,21,2.5
+8,North Dakota,McIntosh County,14,4.6
+8,North Dakota,McKenzie County,303,10.2
+8,North Dakota,McLean County,35,2.6
+8,North Dakota,Mercer County,46,3.8
+8,North Dakota,Morton County,273,4.7
+8,North Dakota,Mountrail County,172,9.2
+8,North Dakota,Nelson County,29,7.6
+8,North Dakota,Oliver County,4,1.5
+8,North Dakota,Pembina County,42,4.4
+8,North Dakota,Pierce County,14,2.4
+8,North Dakota,Ramsey County,68,3.7
+8,North Dakota,Ransom County,21,2.6
+8,North Dakota,Renville County,9,2.6
+8,North Dakota,Richland County,132,4.5
+8,North Dakota,Rolette County,30,1.2
+8,North Dakota,Sargent County,21,3.8
+8,North Dakota,Sheridan County,6,4.1
+8,North Dakota,Sioux County,40,5
+8,North Dakota,Slope County,1,1.1
+8,North Dakota,Stark County,394,6.5
+8,North Dakota,Steele County,12,4.3
+8,North Dakota,Stutsman County,114,3.2
+8,North Dakota,Towner County,13,4.7
+8,North Dakota,Traill County,71,5.3
+8,North Dakota,Walsh County,255,15.7
+8,North Dakota,Ward County,1199,8.5
+8,North Dakota,Wells County,7,1.5
+8,North Dakota,Williams County,727,9.7
+8,South Dakota,Aurora County,45,10.5
+8,South Dakota,Beadle County,400,13.1
+8,South Dakota,Bennett County,39,6.1
+8,South Dakota,Bon Homme County,29,3.6
+8,South Dakota,Brookings County,264,3
+8,South Dakota,Brown County,301,4
+8,South Dakota,Brule County,38,4.6
+8,South Dakota,Buffalo County,14,3.5
+8,South Dakota,Butte County,83,4.9
+8,South Dakota,Campbell County,13,7.6
+8,South Dakota,Charles Mix County,46,3
+8,South Dakota,Clark County,21,3.9
+8,South Dakota,Clay County,124,3.1
+8,South Dakota,Codington County,187,3.8
+8,South Dakota,Corson County,23,3.1
+8,South Dakota,Custer County,54,5
+8,South Dakota,Davison County,145,4
+8,South Dakota,Day County,24,3.1
+8,South Dakota,Deuel County,29,4.5
+8,South Dakota,Dewey County,26,2.3
+8,South Dakota,Douglas County,13,3.3
+8,South Dakota,Edmunds County,14,2.4
+8,South Dakota,Fall River County,47,5.1
+8,South Dakota,Faulk County,3,0.8
+8,South Dakota,Grant County,48,4.5
+8,South Dakota,Gregory County,10,1.7
+8,South Dakota,Haakon County,11,3.9
+8,South Dakota,Hamlin County,47,4.5
+8,South Dakota,Hand County,7,1.5
+8,South Dakota,Hanson County,11,1.8
+8,South Dakota,Harding County,8,4.2
+8,South Dakota,Hughes County,120,3.8
+8,South Dakota,Hutchinson County,41,3.7
+8,South Dakota,Hyde County,5,2.8
+8,South Dakota,Jackson County,8,1.4
+8,South Dakota,Jerauld County,16,5.7
+8,South Dakota,Jones County,6,5.1
+8,South Dakota,Kingsbury County,21,2.9
+8,South Dakota,Lake County,57,2.9
+8,South Dakota,Lawrence County,203,4.3
+8,South Dakota,Lincoln County,351,2.8
+8,South Dakota,Lyman County,17,2.7
+8,South Dakota,McCook County,60,6.5
+8,South Dakota,McPherson County,10,3.1
+8,South Dakota,Marshall County,56,8.3
+8,South Dakota,Meade County,318,5.9
+8,South Dakota,Mellette County,14,3.8
+8,South Dakota,Miner County,13,4
+8,South Dakota,Minnehaha County,2173,5.6
+8,South Dakota,Moody County,54,5.2
+8,South Dakota,Oglala Lakota County,90,3
+8,South Dakota,Pennington County,1277,6.3
+8,South Dakota,Perkins County,4,1
+8,South Dakota,Potter County,6,2
+8,South Dakota,Roberts County,42,2.6
+8,South Dakota,Sanborn County,15,4
+8,South Dakota,Spink County,26,2.6
+8,South Dakota,Stanley County,13,2.7
+8,South Dakota,Sully County,7,3.8
+8,South Dakota,Todd County,84,4
+8,South Dakota,Tripp County,20,2.5
+8,South Dakota,Turner County,44,3.3
+8,South Dakota,Union County,137,5
+8,South Dakota,Walworth County,20,2.5
+8,South Dakota,Yankton County,203,5.5
+8,South Dakota,Ziebach County,21,3.5
+8,Utah,Beaver County,175,13.8
+8,Utah,Box Elder County,1118,10.2
+8,Utah,Cache County,3296,10.4
+8,Utah,Carbon County,606,15.2
+8,Utah,Daggett County,5,3.8
+8,Utah,Davis County,8390,11.1
+8,Utah,Duchesne County,332,8.6
+8,Utah,Emery County,135,7.5
+8,Utah,Garfield County,66,8.3
+8,Utah,Grand County,235,12.8
+8,Utah,Iron County,1164,9.4
+8,Utah,Juab County,153,6.4
+8,Utah,Kane County,73,5.9
+8,Utah,Millard County,307,13.6
+8,Utah,Morgan County,87,3.8
+8,Utah,Piute County,31,14.1
+8,Utah,Rich County,34,7.7
+8,Utah,Salt Lake County,50631,19.7
+8,Utah,San Juan County,170,5.9
+8,Utah,Sanpete County,564,8.9
+8,Utah,Sevier County,265,6.6
+8,Utah,Summit County,1097,14.6
+8,Utah,Tooele County,2139,13.7
+8,Utah,Uintah County,600,8.3
+8,Utah,Utah County,18299,11.9
+8,Utah,Wasatch County,1066,15.9
+8,Utah,Washington County,4092,12.7
+8,Utah,Wayne County,47,11.1
+8,Utah,Weber County,11098,20
+8,Wyoming,Albany County,974,9.6
+8,Wyoming,Big Horn County,214,11.3
+8,Wyoming,Campbell County,888,9.7
+8,Wyoming,Carbon County,508,20.4
+8,Wyoming,Converse County,239,9.7
+8,Wyoming,Crook County,53,4.9
+8,Wyoming,Fremont County,500,7.4
+8,Wyoming,Goshen County,248,11.8
+8,Wyoming,Hot Springs County,44,7.1
+8,Wyoming,Johnson County,87,6.7
+8,Wyoming,Laramie County,3107,16.5
+8,Wyoming,Lincoln County,200,6.1
+8,Wyoming,Natrona County,1510,9.9
+8,Wyoming,Niobrara County,27,5.4
+8,Wyoming,Park County,351,7.5
+8,Wyoming,Platte County,127,10.3
+8,Wyoming,Sheridan County,334,6.3
+8,Wyoming,Sublette County,161,10.2
+8,Wyoming,Sweetwater County,1470,17.2
+8,Wyoming,Teton County,755,16.1
+8,Wyoming,Uinta County,401,10.7
+8,Wyoming,Washakie County,222,17.4
+8,Wyoming,Weston County,50,4.8
+9,Arizona,Apache County,789,5.9
+9,Arizona,Cochise County,9195,44.4
+9,Arizona,Coconino County,5451,15.1
+9,Arizona,Gila County,1812,24.1
+9,Arizona,Graham County,2361,33.3
+9,Arizona,Greenlee County,929,51.4
+9,Arizona,La Paz County,1216,47.2
+9,Arizona,Maricopa County,334382,36.9
+9,Arizona,Mohave County,6862,24.1
+9,Arizona,Navajo County,2193,11.6
+9,Arizona,Pima County,93240,45.9
+9,Arizona,Pinal County,29350,38
+9,Arizona,Santa Cruz County,7893,91.2
+9,Arizona,Yavapai County,6975,22.7
+9,Arizona,Yuma County,29523,76.8
+9,California,Alameda County,87325,24.2
+9,California,Alpine County,27,17.1
+9,California,Amador County,883,18.1
+9,California,Butte County,9558,21
+9,California,Calaveras County,1130,18
+9,California,Colusa County,2809,68.2
+9,California,Contra Costa County,68260,30.9
+9,California,Del Norte County,862,20.7
+9,California,El Dorado County,5228,17.1
+9,California,Fresno County,120340,57.9
+9,California,Glenn County,2567,49.2
+9,California,Humboldt County,4453,15.8
+9,California,Imperial County,30755,90
+9,California,Inyo County,824,29.3
+9,California,Kern County,108846,59.9
+9,California,Kings County,17439,60.1
+9,California,Lake County,2789,28.1
+9,California,Lassen County,711,18.1
+9,California,Los Angeles County,1105470,52.1
+9,California,Madera County,21225,64
+9,California,Marin County,8386,21.6
+9,California,Mariposa County,417,17.4
+9,California,Mendocino County,4783,33.3
+9,California,Merced County,37913,65.5
+9,California,Modoc County,264,20.5
+9,California,Mono County,879,31.7
+9,California,Monterey County,56985,66.8
+9,California,Napa County,10829,42.9
+9,California,Nevada County,2000,13.7
+9,California,Orange County,247302,39.3
+9,California,Placer County,12495,17.9
+9,California,Plumas County,353,13.2
+9,California,Riverside County,286782,57.8
+9,California,Sacramento County,85921,26.7
+9,California,San Benito County,8503,68.5
+9,California,San Bernardino County,275017,60
+9,California,San Diego County,265380,38.5
+9,California,San Francisco County,31513,15.5
+9,California,San Joaquin County,71617,46.3
+9,California,San Luis Obispo County,14701,27.4
+9,California,San Mateo County,40278,27.1
+9,California,Santa Barbara County,47067,49.6
+9,California,Santa Clara County,108460,27.8
+9,California,Santa Cruz County,22278,39
+9,California,Shasta County,4288,13.6
+9,California,Sierra County,66,18.4
+9,California,Siskiyou County,1149,17.8
+9,California,Solano County,27299,31.8
+9,California,Sonoma County,30900,34.5
+9,California,Stanislaus County,59368,53.2
+9,California,Sutter County,6819,36.4
+9,California,Tehama County,3473,31.4
+9,California,Trinity County,179,10.9
+9,California,Tulare County,68735,71
+9,California,Tuolumne County,1182,15.4
+9,California,Ventura County,82013,50.6
+9,California,Yolo County,17704,31.9
+9,California,Yuba County,5303,33.6
+9,Hawaii,Hawaii County,5277,15.3
+9,Hawaii,Honolulu County,22115,12
+9,Hawaii,Kalawao County,0,0
+9,Hawaii,Kauai County,1555,12.5
+9,Hawaii,Maui County,4249,14
+9,Nevada,Churchill County,860,19.4
+9,Nevada,Clark County,168268,36.7
+9,Nevada,Douglas County,1270,19
+9,Nevada,Elko County,2766,27.1
+9,Nevada,Esmeralda County,41,36.6
+9,Nevada,Eureka County,49,15.3
+9,Nevada,Humboldt County,981,32
+9,Nevada,Lander County,242,25.6
+9,Nevada,Lincoln County,91,12
+9,Nevada,Lyon County,2153,22.3
+9,Nevada,Mineral County,117,17.3
+9,Nevada,Nye County,1369,22.6
+9,Nevada,Pershing County,251,32.5
+9,Nevada,Storey County,72,13.9
+9,Nevada,Washoe County,27383,29.8
+9,Nevada,White Pine County,260,19.6
+9,Nevada,Carson City,2989,32.8
+10,Alaska,Aleutians East Borough,41,10.3
+10,Alaska,Aleutians West Census Area,99,12.2
+10,Alaska,Anchorage Municipality,6368,10.4
+10,Alaska,Bethel Census Area,66,1.8
+10,Alaska,Bristol Bay Borough,8,5.6
+10,Alaska,Chugach Census Area,21,5.2
+10,Alaska,Copper River Census Area,26,2.7
+10,Alaska,Denali Borough,1892,9.5
+10,Alaska,Dillingham Census Area,19,4.8
+10,Alaska,Fairbanks North Star Borough,29,9.5
+10,Alaska,Haines Borough,507,7.9
+10,Alaska,Hoonah-Angoon Census Area,525,5.3
+10,Alaska,Juneau City and Borough,187,7.3
+10,Alaska,Kenai Peninsula Borough,244,9.2
+10,Alaska,Ketchikan Gateway Borough,4,0.3
+10,Alaska,Kodiak Island Borough,13,4.2
+10,Alaska,Kusilvak Census Area,1257,6.1
+10,Alaska,Lake and Peninsula Borough,40,2
+10,Alaska,Matanuska-Susitna Borough,52,3.5
+10,Alaska,Nome Census Area,37,2.5
+10,Alaska,North Slope Borough,27,4.8
+10,Alaska,Northwest Arctic Borough,36,3.6
+10,Alaska,Petersburg Borough,133,8.2
+10,Alaska,Prince of Wales-Hyder Census Area,16,6.4
+10,Alaska,Sitka City and Borough,100,8.9
+10,Alaska,Skagway Municipality,,
+10,Alaska,Southeast Fairbanks Census Area,12,3.5
+10,Alaska,Wrangell City and Borough,1,1.1
+10,Alaska,Yakutat City and Borough,24,2.6
+10,Alaska,Yukon-Koyukuk Census Area,10202,10.5
+10,Idaho,Ada County,30,5.7
+10,Idaho,Adams County,1872,10.2
+10,Idaho,Bannock County,50,4.9
+10,Idaho,Bear Lake County,69,5.1
+10,Idaho,Benewah County,1772,19.9
+10,Idaho,Bingham County,1238,32.4
+10,Idaho,Blaine County,89,8.2
+10,Idaho,Boise County,352,5.2
+10,Idaho,Bonner County,3616,15.2
+10,Idaho,Bonneville County,123,6.5
+10,Idaho,Boundary County,34,8.6
+10,Idaho,Butte County,15,9.4
+10,Idaho,Camas County,13384,28.6
+10,Idaho,Canyon County,102,8.2
+10,Idaho,Caribou County,1372,30.7
+10,Idaho,Cassia County,92,54.8
+10,Idaho,Clark County,51,4.7
+10,Idaho,Clearwater County,42,7.4
+10,Idaho,Custer County,1083,20.3
+10,Idaho,Elmore County,192,7.4
+10,Idaho,Franklin County,351,15.1
+10,Idaho,Fremont County,355,12.2
+10,Idaho,Gem County,928,35.4
+10,Idaho,Gooding County,114,5.4
+10,Idaho,Idaho County,604,10.4
+10,Idaho,Jefferson County,1911,41.9
+10,Idaho,Jerome County,1882,6.3
+10,Idaho,Kootenai County,598,6.1
+10,Idaho,Latah County,53,4.8
+10,Idaho,Lemhi County,46,8.3
+10,Idaho,Lewis County,378,37.2
+10,Idaho,Lincoln County,882,7.7
+10,Idaho,Madison County,1593,41.9
+10,Idaho,Minidoka County,386,5.2
+10,Idaho,Nez Perce County,45,6.2
+10,Idaho,Oneida County,616,30
+10,Idaho,Owyhee County,907,21.5
+10,Idaho,Payette County,550,40.5
+10,Idaho,Power County,82,4.2
+10,Idaho,Shoshone County,438,19.2
+10,Idaho,Teton County,3352,19.4
+10,Idaho,Twin Falls County,111,6.5
+10,Idaho,Valley County,354,23.3
+10,Idaho,Washington County,154,6.7
+10,Oregon,Baker County,2129,9.6
+10,Oregon,Benton County,8836,11.5
+10,Oregon,Clackamas County,812,11.8
+10,Oregon,Clatsop County,659,7.3
+10,Oregon,Columbia County,988,9.9
+10,Oregon,Coos County,371,9.8
+10,Oregon,Crook County,314,11.4
+10,Oregon,Curry County,3953,11
+10,Oregon,Deschutes County,1428,8.2
+10,Oregon,Douglas County,27,10.6
+10,Oregon,Gilliam County,49,5
+10,Oregon,Grant County,70,6.1
+10,Oregon,Harney County,1654,37.7
+10,Oregon,Hood River County,6670,17.1
+10,Oregon,Jackson County,1031,25.6
+10,Oregon,Jefferson County,1368,10.2
+10,Oregon,Josephine County,1983,16.9
+10,Oregon,Klamath County,164,15.1
+10,Oregon,Lake County,8714,11.2
+10,Oregon,Lane County,1000,14
+10,Oregon,Lincoln County,2694,11.2
+10,Oregon,Linn County,2163,43.8
+10,Oregon,Malheur County,21696,32.1
+10,Oregon,Marion County,953,46.2
+10,Oregon,Morrow County,25283,13.5
+10,Oregon,Multnomah County,3010,17.1
+10,Oregon,Polk County,30,10.7
+10,Oregon,Sherman County,619,15.8
+10,Oregon,Tillamook County,4625,33
+10,Oregon,Umatilla County,371,7.4
+10,Oregon,Union County,54,5.2
+10,Oregon,Wallowa County,1169,25.1
+10,Oregon,Wasco County,24863,19.6
+10,Oregon,Washington County,15,10.4
+10,Oregon,Wheeler County,3872,18.9
+10,Oregon,Yamhill County,2651,71.1
+10,Washington,Adams County,249,6.7
+10,Washington,Asotin County,10954,27.9
+10,Washington,Benton County,4834,35.3
+10,Washington,Chelan County,1066,9.8
+10,Washington,Clallam County,11596,12.2
+10,Washington,Clark County,72,11.9
+10,Washington,Columbia County,2342,11.9
+10,Washington,Cowlitz County,3002,39.6
+10,Washington,Douglas County,67,6.5
+10,Washington,Ferry County,11647,59
+10,Washington,Franklin County,34,9.8
+10,Washington,Garfield County,9045,48.6
+10,Washington,Grant County,1599,13.7
+10,Washington,Grays Harbor County,1829,12.9
+10,Washington,Island County,238,6.5
+10,Washington,Jefferson County,54412,11.1
+10,Washington,King County,5394,10.9
+10,Washington,Kitsap County,1297,11.9
+10,Washington,Kittitas County,556,16.1
+10,Washington,Klickitat County,1820,13.4
+10,Washington,Lewis County,94,5.9
+10,Washington,Lincoln County,1370,13.7
+10,Washington,Mason County,1804,26.8
+10,Washington,Okanogan County,433,14.8
+10,Washington,Pacific County,102,5.5
+10,Washington,Pend Oreille County,24640,13.4
+10,Washington,Pierce County,269,11.8
+10,Washington,San Juan County,5747,25.4
+10,Washington,Skagit County,215,11.3
+10,Washington,Skamania County,20079,12.3
+10,Washington,Snohomish County,7924,7.6
+10,Washington,Spokane County,358,5.2
+10,Washington,Stevens County,6848,11.9
+10,Washington,Thurston County,60,10.7
+10,Washington,Wahkiakum County,3065,26.5
+10,Washington,Walla Walla County,5447,11.2
+10,Washington,Whatcom County,1146,7.8
+10,Washington,Whitman County,28344,57.6
+10,Washington,Yakima County,,

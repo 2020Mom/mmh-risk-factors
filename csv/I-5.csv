@@ -1,0 +1,965 @@
+STATE,YEAR,HLTHIND,N,PCT,PCT95CILB,PCT95CIUB
+Alabama,2016,Mistimed,,,,
+Alabama,2016,Unwanted pregnancy,,,,
+Alabama,2016,Unsure whether wanted pregnancy,,,,
+Alabama,2016,Intended pregnancy,,,,
+Alaska,2016,Mistimed,1153,17.2,14.6,20.2
+Alaska,2016,Unwanted pregnancy,1153,4.8,3.5,6.5
+Alaska,2016,Unsure whether wanted pregnancy,1153,16.5,14.1,19.1
+Alaska,2016,Intended pregnancy,1153,61.5,58,64.9
+Arizona,2016,Mistimed,,,,
+Arizona,2016,Unwanted pregnancy,,,,
+Arizona,2016,Unsure whether wanted pregnancy,,,,
+Arizona,2016,Intended pregnancy,,,,
+Arkansas,2016,Mistimed,894,21.5,17.7,25.8
+Arkansas,2016,Unwanted pregnancy,894,9.8,7.2,13
+Arkansas,2016,Unsure whether wanted pregnancy,894,17.7,14.3,21.6
+Arkansas,2016,Intended pregnancy,894,51.1,46.2,56
+Colorado,2016,Mistimed,1600,18.5,15.9,21.4
+Colorado,2016,Unwanted pregnancy,1600,4.3,3,6.2
+Colorado,2016,Unsure whether wanted pregnancy,1600,16,13.5,18.8
+Colorado,2016,Intended pregnancy,1600,61.2,57.7,64.6
+Connecticut,2016,Mistimed,1279,16.9,14.7,19.5
+Connecticut,2016,Unwanted pregnancy,1279,4.7,3.6,6.2
+Connecticut,2016,Unsure whether wanted pregnancy,1279,14.6,12.4,17.2
+Connecticut,2016,Intended pregnancy,1279,63.7,60.5,66.8
+Delaware,2016,Mistimed,926,20.8,18.1,23.8
+Delaware,2016,Unwanted pregnancy,926,8.1,6.4,10.2
+Delaware,2016,Unsure whether wanted pregnancy,926,16.1,13.7,18.8
+Delaware,2016,Intended pregnancy,926,55,51.6,58.4
+District of Columbia,2016,Mistimed,,,,
+District of Columbia,2016,Unwanted pregnancy,,,,
+District of Columbia,2016,Unsure whether wanted pregnancy,,,,
+District of Columbia,2016,Intended pregnancy,,,,
+Florida,2016,Mistimed,,,,
+Florida,2016,Unwanted pregnancy,,,,
+Florida,2016,Unsure whether wanted pregnancy,,,,
+Florida,2016,Intended pregnancy,,,,
+Georgia,2016,Mistimed,,,,
+Georgia,2016,Unwanted pregnancy,,,,
+Georgia,2016,Unsure whether wanted pregnancy,,,,
+Georgia,2016,Intended pregnancy,,,,
+Hawaii,2016,Mistimed,,,,
+Hawaii,2016,Unwanted pregnancy,,,,
+Hawaii,2016,Unsure whether wanted pregnancy,,,,
+Hawaii,2016,Intended pregnancy,,,,
+Illinois,2016,Mistimed,1373,21.2,18.8,23.7
+Illinois,2016,Unwanted pregnancy,1373,6.4,5.1,8
+Illinois,2016,Unsure whether wanted pregnancy,1373,14.4,12.4,16.6
+Illinois,2016,Intended pregnancy,1373,58.1,55.1,61
+Indiana,2016,Mistimed,,,,
+Indiana,2016,Unwanted pregnancy,,,,
+Indiana,2016,Unsure whether wanted pregnancy,,,,
+Indiana,2016,Intended pregnancy,,,,
+Iowa,2016,Mistimed,968,17.1,14,20.8
+Iowa,2016,Unwanted pregnancy,968,4.5,3,6.7
+Iowa,2016,Unsure whether wanted pregnancy,968,16.7,13.6,20.3
+Iowa,2016,Intended pregnancy,968,61.7,57.3,65.9
+Kansas,2016,Mistimed,,,,
+Kansas,2016,Unwanted pregnancy,,,,
+Kansas,2016,Unsure whether wanted pregnancy,,,,
+Kansas,2016,Intended pregnancy,,,,
+Kentucky,2016,Mistimed,,,,
+Kentucky,2016,Unwanted pregnancy,,,,
+Kentucky,2016,Unsure whether wanted pregnancy,,,,
+Kentucky,2016,Intended pregnancy,,,,
+Louisiana,2016,Mistimed,875,27.9,25,31
+Louisiana,2016,Unwanted pregnancy,875,8.8,7.1,10.9
+Louisiana,2016,Unsure whether wanted pregnancy,875,13.9,11.7,16.4
+Louisiana,2016,Intended pregnancy,875,49.5,46.1,52.9
+Maine,2016,Mistimed,806,16.4,13.4,19.9
+Maine,2016,Unwanted pregnancy,806,4.3,2.8,6.6
+Maine,2016,Unsure whether wanted pregnancy,806,16.3,13.2,20.1
+Maine,2016,Intended pregnancy,806,63,58.7,67.2
+Maryland,2016,Mistimed,1150,20.5,18,23.3
+Maryland,2016,Unwanted pregnancy,1150,5.8,4.5,7.6
+Maryland,2016,Unsure whether wanted pregnancy,1150,14.6,12.4,17.1
+Maryland,2016,Intended pregnancy,1150,59.1,55.8,62.3
+Massachusetts,2016,Mistimed,1302,14,11.9,16.4
+Massachusetts,2016,Unwanted pregnancy,1302,4.7,3.5,6.4
+Massachusetts,2016,Unsure whether wanted pregnancy,1302,14.6,12.2,17.4
+Massachusetts,2016,Intended pregnancy,1302,66.6,63.3,69.8
+Michigan,2016,Mistimed,1750,19.5,17.2,21.9
+Michigan,2016,Unwanted pregnancy,1750,6.1,4.9,7.6
+Michigan,2016,Unsure whether wanted pregnancy,1750,15.6,13.6,17.8
+Michigan,2016,Intended pregnancy,1750,58.9,56,61.7
+Minnesota,2016,Mistimed,,,,
+Minnesota,2016,Unwanted pregnancy,,,,
+Minnesota,2016,Unsure whether wanted pregnancy,,,,
+Minnesota,2016,Intended pregnancy,,,,
+Mississippi,2016,Mistimed,,,,
+Mississippi,2016,Unwanted pregnancy,,,,
+Mississippi,2016,Unsure whether wanted pregnancy,,,,
+Mississippi,2016,Intended pregnancy,,,,
+Missouri,2016,Mistimed,1035,18.2,15.6,21.1
+Missouri,2016,Unwanted pregnancy,1035,9.4,7.5,11.9
+Missouri,2016,Unsure whether wanted pregnancy,1035,18.1,15.5,21
+Missouri,2016,Intended pregnancy,1035,54.2,50.7,57.7
+Montana,2016,Mistimed,,,,
+Montana,2016,Unwanted pregnancy,,,,
+Montana,2016,Unsure whether wanted pregnancy,,,,
+Montana,2016,Intended pregnancy,,,,
+Nebraska,2016,Mistimed,1290,18.2,15.8,20.9
+Nebraska,2016,Unwanted pregnancy,1290,4.4,3.3,5.8
+Nebraska,2017,Mistimed,,,,
+Nebraska,2016,Unsure whether wanted pregnancy,1290,16.3,13.9,19
+Nebraska,2016,Intended pregnancy,1290,61.1,57.9,64.3
+New Hampshire,2016,Mistimed,563,14.4,11.2,18.3
+New Hampshire,2016,Unwanted pregnancy,563,2.9,1.6,5
+New Hampshire,2016,Unsure whether wanted pregnancy,563,12,9,15.8
+New Hampshire,2016,Intended pregnancy,563,70.8,66,75.1
+New Jersey,2016,Mistimed,1270,15.9,13.9,18.1
+New Jersey,2016,Unwanted pregnancy,1270,6,4.8,7.5
+New Jersey,2016,Unsure whether wanted pregnancy,1270,13.7,11.8,15.8
+New Jersey,2016,Intended pregnancy,1270,64.4,61.6,67
+New Mexico,2016,Mistimed,1157,15.9,13.9,18.1
+New Mexico,2016,Unwanted pregnancy,1157,5.7,4.4,7.2
+New Mexico,2016,Unsure whether wanted pregnancy,1157,20.4,18.2,22.9
+New Mexico,2016,Intended pregnancy,1157,58,55.2,60.9
+New York City,2016,Mistimed,1395,20.3,18.1,22.7
+New York City,2016,Unwanted pregnancy,1395,4.5,3.5,5.9
+New York City,2016,Unsure whether wanted pregnancy,1395,12.2,10.4,14.2
+New York City,2016,Intended pregnancy,1395,63,60.2,65.7
+New York,2016,Mistimed,939,18.3,15.4,21.7
+New York,2016,Unwanted pregnancy,939,5.2,3.6,7.4
+New York,2016,Unsure whether wanted pregnancy,939,13.6,11.1,16.7
+New York,2016,Intended pregnancy,939,62.8,58.8,66.6
+North Carolina,2016,Mistimed,,,,
+North Carolina,2016,Unwanted pregnancy,,,,
+North Carolina,2016,Unsure whether wanted pregnancy,,,,
+North Carolina,2016,Intended pregnancy,,,,
+North Dakota,2016,Mistimed,,,,
+North Dakota,2016,Unwanted pregnancy,,,,
+North Dakota,2016,Unsure whether wanted pregnancy,,,,
+North Dakota,2016,Intended pregnancy,,,,
+Oklahoma,2016,Mistimed,1835,19.8,17.4,22.5
+Oklahoma,2016,Unwanted pregnancy,1835,8.7,6.9,10.8
+Oklahoma,2016,Unsure whether wanted pregnancy,1835,17.5,15.2,20.2
+Oklahoma,2016,Intended pregnancy,1835,53.9,50.6,57.3
+Oregon,2016,Mistimed,,,,
+Oregon,2016,Unwanted pregnancy,,,,
+Oregon,2016,Unsure whether wanted pregnancy,,,,
+Oregon,2016,Intended pregnancy,,,,
+Pennsylvania,2016,Mistimed,1026,19.8,17,22.9
+Pennsylvania,2016,Unwanted pregnancy,1026,5.6,4.2,7.6
+Pennsylvania,2016,Unsure whether wanted pregnancy,1026,16.5,13.8,19.4
+Pennsylvania,2016,Intended pregnancy,1026,58.1,54.5,61.7
+Puerto Rico,2016,Mistimed,,,,
+Puerto Rico,2016,Unwanted pregnancy,,,,
+Puerto Rico,2016,Unsure whether wanted pregnancy,,,,
+Puerto Rico,2016,Intended pregnancy,,,,
+Rhode Island,2016,Mistimed,1134,16.9,14.6,19.4
+Rhode Island,2016,Unwanted pregnancy,1134,4.8,3.6,6.4
+Rhode Island,2016,Unsure whether wanted pregnancy,1134,16.9,14.6,19.4
+Rhode Island,2016,Intended pregnancy,1134,61.4,58.2,64.4
+South Dakota,2016,Mistimed,,,,
+South Dakota,2016,Unwanted pregnancy,,,,
+South Dakota,2016,Unsure whether wanted pregnancy,,,,
+South Dakota,2016,Intended pregnancy,,,,
+Tennessee,2016,Mistimed,,,,
+Tennessee,2016,Unwanted pregnancy,,,,
+Tennessee,2016,Unsure whether wanted pregnancy,,,,
+Tennessee,2016,Intended pregnancy,,,,
+Texas,2016,Mistimed,1821,22.9,20.6,25.4
+Texas,2016,Unwanted pregnancy,1821,8,6.6,9.8
+Texas,2016,Unsure whether wanted pregnancy,1821,14.3,12.4,16.4
+Texas,2016,Intended pregnancy,1821,54.8,51.9,57.5
+Utah,2016,Mistimed,1356,16.8,14.5,19.3
+Utah,2016,Unwanted pregnancy,1356,3.6,2.5,5
+Utah,2016,Unsure whether wanted pregnancy,1356,11.9,10.1,14.1
+Utah,2016,Intended pregnancy,1356,67.8,64.7,70.6
+Vermont,2016,Mistimed,900,17,14.6,19.8
+Vermont,2016,Unwanted pregnancy,900,5.6,4.2,7.5
+Vermont,2016,Unsure whether wanted pregnancy,900,14.4,12.2,16.9
+Vermont,2016,Intended pregnancy,900,63,59.6,66.2
+Virginia,2016,Mistimed,665,15.4,12.2,19.4
+Virginia,2016,Unwanted pregnancy,665,6.2,4.1,9.2
+Virginia,2016,Unsure whether wanted pregnancy,665,18.4,14.9,22.6
+Virginia,2016,Intended pregnancy,665,60,55.1,64.7
+Washington,2016,Mistimed,1235,15.2,12.8,17.9
+Washington,2016,Unwanted pregnancy,1235,5.5,4.1,7.4
+Washington,2016,Unsure whether wanted pregnancy,1235,14.2,11.9,17
+Washington,2016,Intended pregnancy,1235,65.1,61.6,68.4
+West Virginia,2016,Mistimed,797,14.6,11.9,17.7
+West Virginia,2016,Unwanted pregnancy,797,4.7,3.3,6.7
+West Virginia,2016,Unsure whether wanted pregnancy,797,20.9,17.7,24.5
+West Virginia,2016,Intended pregnancy,797,59.8,55.7,63.9
+Wisconsin,2016,Mistimed,1249,19.4,16.3,22.9
+Wisconsin,2016,Unwanted pregnancy,1249,3.9,2.7,5.7
+Wisconsin,2016,Unsure whether wanted pregnancy,1249,13.5,11.1,16.4
+Wisconsin,2016,Intended pregnancy,1249,63.2,59.2,67
+Wyoming,2016,Mistimed,608,21.9,18.2,26
+Wyoming,2016,Unwanted pregnancy,608,3.4,2.1,5.4
+Wyoming,2016,Unsure whether wanted pregnancy,608,15.9,12.8,19.7
+Wyoming,2016,Intended pregnancy,608,58.8,54.1,63.3
+Alabama,2017,Mistimed,873,24.3,21.4,27.5
+Alabama,2017,Unwanted pregnancy,873,8.6,6.8,10.8
+Alabama,2017,Unsure whether wanted pregnancy,873,17.7,15.2,20.6
+Nebraska,2017,Unwanted pregnancy,,,,
+Alabama,2017,Intended pregnancy,873,49.4,46,52.7
+Alaska,2017,Mistimed,1030,16.6,14,19.6
+Alaska,2017,Unwanted pregnancy,1030,5.2,3.7,7.2
+Alaska,2017,Unsure whether wanted pregnancy,1030,19.7,16.9,22.7
+Alaska,2017,Intended pregnancy,1030,58.5,54.8,62.2
+Arizona,2017,Mistimed,,,,
+Arizona,2017,Unwanted pregnancy,,,,
+Arizona,2017,Unsure whether wanted pregnancy,,,,
+Arizona,2017,Intended pregnancy,,,,
+Arkansas,2017,Mistimed,,,,
+Arkansas,2017,Unwanted pregnancy,,,,
+Arkansas,2017,Unsure whether wanted pregnancy,,,,
+Arkansas,2017,Intended pregnancy,,,,
+Colorado,2017,Mistimed,1111,19.4,16.9,22
+Colorado,2017,Unwanted pregnancy,1111,6.3,5,7.9
+Colorado,2017,Unsure whether wanted pregnancy,1111,14.5,12.4,17
+Colorado,2017,Intended pregnancy,1111,59.8,56.6,62.9
+Connecticut,2017,Mistimed,1442,15.9,13.7,18.3
+Connecticut,2017,Unwanted pregnancy,1442,4.2,3.1,5.6
+Connecticut,2017,Unsure whether wanted pregnancy,1442,14.4,12.2,16.8
+Connecticut,2017,Intended pregnancy,1442,65.6,62.4,68.6
+Delaware,2017,Mistimed,883,19.2,16.6,22.1
+Delaware,2017,Unwanted pregnancy,883,7.4,5.8,9.4
+Delaware,2017,Unsure whether wanted pregnancy,883,15.8,13.5,18.5
+Delaware,2017,Intended pregnancy,883,57.6,54.2,61
+District of Columbia,2017,Mistimed,,,,
+District of Columbia,2017,Unwanted pregnancy,,,,
+District of Columbia,2017,Unsure whether wanted pregnancy,,,,
+District of Columbia,2017,Intended pregnancy,,,,
+Florida,2017,Mistimed,,,,
+Florida,2017,Unwanted pregnancy,,,,
+Florida,2017,Unsure whether wanted pregnancy,,,,
+Florida,2017,Intended pregnancy,,,,
+Georgia,2017,Mistimed,941,20.2,16.8,24.2
+Georgia,2017,Unwanted pregnancy,941,8.4,6.2,11.3
+Georgia,2017,Unsure whether wanted pregnancy,941,14.7,11.7,18.3
+Georgia,2017,Intended pregnancy,941,56.7,52.1,61.1
+Hawaii,2017,Mistimed,,,,
+Hawaii,2017,Unwanted pregnancy,,,,
+Hawaii,2017,Unsure whether wanted pregnancy,,,,
+Hawaii,2017,Intended pregnancy,,,,
+Illinois,2017,Mistimed,1216,18.7,16.3,21.3
+Illinois,2017,Unwanted pregnancy,1216,8.4,6.8,10.4
+Illinois,2017,Unsure whether wanted pregnancy,1216,15.7,13.6,18.2
+Illinois,2017,Intended pregnancy,1216,57.2,54.1,60.3
+Indiana,2017,Mistimed,,,,
+Indiana,2017,Unwanted pregnancy,,,,
+Indiana,2017,Unsure whether wanted pregnancy,,,,
+Indiana,2017,Intended pregnancy,,,,
+Iowa,2017,Mistimed,1016,17.2,14,21
+Iowa,2017,Unwanted pregnancy,1016,3.8,2.4,5.8
+Iowa,2017,Unsure whether wanted pregnancy,1016,13.5,10.6,16.9
+Iowa,2017,Intended pregnancy,1016,65.6,61.1,69.8
+Kansas,2017,Mistimed,976,21.6,18.4,25.3
+Kansas,2017,Unwanted pregnancy,976,5.1,3.6,7.1
+Kansas,2017,Unsure whether wanted pregnancy,976,13.1,10.5,16.2
+Kansas,2017,Intended pregnancy,976,60.2,56.1,64.1
+Kentucky,2017,Mistimed,683,20.3,16.8,24.3
+Kentucky,2017,Unwanted pregnancy,683,5.9,4.2,8.4
+Kentucky,2017,Unsure whether wanted pregnancy,683,17.6,14.1,21.6
+Kentucky,2017,Intended pregnancy,683,56.3,51.5,60.9
+Louisiana,2017,Mistimed,887,26.1,23.1,29.2
+Louisiana,2017,Unwanted pregnancy,887,10.3,8.4,12.5
+Louisiana,2017,Unsure whether wanted pregnancy,887,18.8,16.2,21.7
+Louisiana,2017,Intended pregnancy,887,44.9,41.5,48.4
+Maine,2017,Mistimed,860,15.2,12.6,18.2
+Maine,2017,Unwanted pregnancy,860,5.2,3.7,7.2
+Maine,2017,Unsure whether wanted pregnancy,860,14.4,11.8,17.4
+Maine,2017,Intended pregnancy,860,65.2,61.4,68.8
+Maryland,2017,Mistimed,1042,20.8,18.1,23.9
+Maryland,2017,Unwanted pregnancy,1042,6,4.5,8
+Maryland,2017,Unsure whether wanted pregnancy,1042,14.7,12.4,17.4
+Maryland,2017,Intended pregnancy,1042,58.4,54.9,61.9
+Massachusetts,2017,Mistimed,1412,14.9,12.7,17.4
+Massachusetts,2017,Unwanted pregnancy,1412,4.8,3.5,6.4
+Massachusetts,2017,Unsure whether wanted pregnancy,1412,14.2,11.9,16.7
+Massachusetts,2017,Intended pregnancy,1412,66.2,63,69.3
+Michigan,2017,Mistimed,1862,18.9,16.7,21.3
+Michigan,2017,Unwanted pregnancy,1862,5.3,4.2,6.7
+Michigan,2017,Unsure whether wanted pregnancy,1862,19.9,17.7,22.4
+Michigan,2017,Intended pregnancy,1862,55.8,52.9,58.7
+Minnesota,2017,Mistimed,,,,
+Minnesota,2017,Unwanted pregnancy,,,,
+Minnesota,2017,Unsure whether wanted pregnancy,,,,
+Minnesota,2017,Intended pregnancy,,,,
+Mississippi,2017,Mistimed,,,,
+Mississippi,2017,Unwanted pregnancy,,,,
+Mississippi,2017,Unsure whether wanted pregnancy,,,,
+Mississippi,2017,Intended pregnancy,,,,
+Missouri,2017,Mistimed,1085,21.4,18.6,24.4
+Missouri,2017,Unwanted pregnancy,1085,6.9,5.3,8.9
+Missouri,2017,Unsure whether wanted pregnancy,1085,18.2,15.6,21.1
+Missouri,2017,Intended pregnancy,1085,53.5,50.1,57
+Montana,2017,Mistimed,931,17.6,15.2,20.3
+Montana,2017,Unwanted pregnancy,931,5.5,4.2,7.2
+Montana,2017,Unsure whether wanted pregnancy,931,18.5,16.2,21
+Montana,2017,Intended pregnancy,931,58.4,55.3,61.4
+Nebraska,2017,Unsure whether wanted pregnancy,,,,
+Nebraska,2017,Intended pregnancy,,,,
+New Hampshire,2017,Mistimed,564,14.6,11.2,18.9
+New Hampshire,2017,Unwanted pregnancy,564,3.6,2,6.5
+New Hampshire,2017,Unsure whether wanted pregnancy,564,8.6,6,12
+New Hampshire,2017,Intended pregnancy,564,73.2,68.2,77.7
+New Jersey,2017,Mistimed,1216,16.8,14.7,19.1
+New Jersey,2017,Unwanted pregnancy,1216,4.8,3.7,6.2
+New Jersey,2017,Unsure whether wanted pregnancy,1216,14.7,12.7,16.9
+New Jersey,2017,Intended pregnancy,1216,63.7,60.8,66.4
+New Mexico,2017,Mistimed,1160,19,16.8,21.4
+New Mexico,2017,Unwanted pregnancy,1160,6.6,5.3,8.3
+New Mexico,2017,Unsure whether wanted pregnancy,1160,19.8,17.6,22.3
+New Mexico,2017,Intended pregnancy,1160,54.5,51.6,57.4
+New York City,2017,Mistimed,1256,19.9,17.6,22.4
+New York City,2017,Unwanted pregnancy,1256,4.1,3,5.5
+New York City,2017,Unsure whether wanted pregnancy,1256,13.9,11.9,16.1
+New York City,2017,Intended pregnancy,1256,62.1,59.2,65
+New York,2017,Mistimed,837,16.3,13.1,20.1
+New York,2017,Unwanted pregnancy,837,3.7,2.3,6
+New York,2017,Unsure whether wanted pregnancy,837,16.6,13.4,20.4
+New York,2017,Intended pregnancy,837,63.4,58.8,67.7
+North Carolina,2017,Mistimed,988,23.4,20.3,26.7
+North Carolina,2017,Unwanted pregnancy,988,7.1,5.3,9.3
+North Carolina,2017,Unsure whether wanted pregnancy,988,13.4,11,16.1
+North Carolina,2017,Intended pregnancy,988,56.2,52.5,59.8
+North Dakota,2017,Mistimed,581,18.2,14.8,22.3
+North Dakota,2017,Unwanted pregnancy,581,6.9,4.8,9.8
+North Dakota,2017,Unsure whether wanted pregnancy,581,18.6,15.1,22.7
+North Dakota,2017,Intended pregnancy,581,56.3,51.4,61.1
+Oklahoma,2017,Mistimed,1615,23.3,20.5,26.5
+Oklahoma,2017,Unwanted pregnancy,1615,8.1,6.3,10.4
+Oklahoma,2017,Unsure whether wanted pregnancy,1615,19.1,16.4,22.2
+Oklahoma,2017,Intended pregnancy,1615,49.4,45.8,53
+Oregon,2017,Mistimed,,,,
+Oregon,2017,Unwanted pregnancy,,,,
+Oregon,2017,Unsure whether wanted pregnancy,,,,
+Oregon,2017,Intended pregnancy,,,,
+Pennsylvania,2017,Mistimed,1211,21.8,19.1,24.8
+Pennsylvania,2017,Unwanted pregnancy,1211,4.6,3.4,6.2
+Pennsylvania,2017,Unsure whether wanted pregnancy,1211,16.2,13.8,18.9
+Pennsylvania,2017,Intended pregnancy,1211,57.4,54,60.7
+Puerto Rico,2017,Mistimed,1019,35.3,31.6,39.2
+Puerto Rico,2017,Unwanted pregnancy,1019,10.1,8,12.8
+Puerto Rico,2017,Unsure whether wanted pregnancy,1019,11,8.7,13.7
+Puerto Rico,2017,Intended pregnancy,1019,43.6,39.8,47.6
+Rhode Island,2017,Mistimed,1087,16.5,14.1,19.3
+Rhode Island,2017,Unwanted pregnancy,1087,6.3,4.8,8.3
+Rhode Island,2017,Unsure whether wanted pregnancy,1087,13.2,11,15.7
+Rhode Island,2017,Intended pregnancy,1087,63.9,60.6,67.2
+South Dakota,2017,Mistimed,1092,18,15.6,20.7
+South Dakota,2017,Unwanted pregnancy,1092,6.8,5.4,8.6
+South Dakota,2017,Unsure whether wanted pregnancy,1092,17.7,15.4,20.4
+South Dakota,2017,Intended pregnancy,1092,57.4,54.1,60.6
+Tennessee,2017,Mistimed,,,,
+Tennessee,2017,Unwanted pregnancy,,,,
+Tennessee,2017,Unsure whether wanted pregnancy,,,,
+Tennessee,2017,Intended pregnancy,,,,
+Texas,2017,Mistimed,,,,
+Texas,2017,Unwanted pregnancy,,,,
+Texas,2017,Unsure whether wanted pregnancy,,,,
+Texas,2017,Intended pregnancy,,,,
+Utah,2017,Mistimed,1415,17.3,14.9,19.9
+Utah,2017,Unwanted pregnancy,1415,4.9,3.8,6.4
+Utah,2017,Unsure whether wanted pregnancy,1415,12.5,10.5,14.8
+Utah,2017,Intended pregnancy,1415,65.3,62.1,68.3
+Vermont,2017,Mistimed,831,14.8,12.4,17.7
+Vermont,2017,Unwanted pregnancy,831,4.5,3.2,6.2
+Vermont,2017,Unsure whether wanted pregnancy,831,14,11.7,16.7
+Vermont,2017,Intended pregnancy,831,66.7,63.2,70
+Virginia,2017,Mistimed,1057,17.3,13.8,21.5
+Virginia,2017,Unwanted pregnancy,1057,5.9,4,8.6
+Virginia,2017,Unsure whether wanted pregnancy,1057,12.7,9.7,16.3
+Virginia,2017,Intended pregnancy,1057,64.1,59.3,68.7
+Washington,2017,Mistimed,1217,17.2,14.7,20
+Washington,2017,Unwanted pregnancy,1217,4.2,3,5.9
+Washington,2017,Unsure whether wanted pregnancy,1217,14.1,11.8,16.8
+Washington,2017,Intended pregnancy,1217,64.5,61.1,67.8
+West Virginia,2017,Mistimed,685,17,13.9,20.5
+West Virginia,2017,Unwanted pregnancy,685,8.7,6.4,11.6
+West Virginia,2017,Unsure whether wanted pregnancy,685,19.4,16.2,23.1
+West Virginia,2017,Intended pregnancy,685,55,50.5,59.3
+Wisconsin,2017,Mistimed,1327,16.6,14,19.7
+Wisconsin,2017,Unwanted pregnancy,1327,6.7,5,9
+Wisconsin,2017,Unsure whether wanted pregnancy,1327,14.6,12,17.5
+Wisconsin,2017,Intended pregnancy,1327,62.1,58.2,65.9
+Wyoming,2017,Mistimed,493,19.1,15.2,23.6
+Wyoming,2017,Unwanted pregnancy,493,7.1,4.9,10.1
+Wyoming,2017,Unsure whether wanted pregnancy,493,13.8,10.6,17.8
+Wyoming,2017,Intended pregnancy,493,60.1,54.9,65
+Alabama,2018,Mistimed,801,21.7,18.9,24.9
+Alabama,2018,Unwanted pregnancy,801,7.3,5.7,9.4
+Alabama,2018,Unsure whether wanted pregnancy,801,17.3,14.7,20.2
+Alabama,2018,Intended pregnancy,801,53.6,50.1,57.1
+Alaska,2018,Mistimed,989,13.9,11.6,16.7
+Alaska,2018,Unwanted pregnancy,989,6.1,4.6,8.1
+Alaska,2018,Unsure whether wanted pregnancy,989,21.3,18.5,24.3
+Alaska,2018,Intended pregnancy,989,58.7,55.1,62.2
+Arizona,2018,Mistimed,,,,
+Arizona,2018,Unwanted pregnancy,,,,
+Arizona,2018,Unsure whether wanted pregnancy,,,,
+Arizona,2018,Intended pregnancy,,,,
+Arkansas,2018,Mistimed,892,19.6,15.7,24.2
+Arkansas,2018,Unwanted pregnancy,892,8.8,6.4,12.1
+Arkansas,2018,Unsure whether wanted pregnancy,892,19.2,15.4,23.6
+Arkansas,2018,Intended pregnancy,892,52.5,47.2,57.7
+Colorado,2018,Mistimed,1116,18.2,15.6,21.1
+Colorado,2018,Unwanted pregnancy,1116,6.1,4.5,8.3
+Colorado,2018,Unsure whether wanted pregnancy,1116,13.5,11.3,16.1
+Colorado,2018,Intended pregnancy,1116,62.1,58.6,65.5
+Connecticut,2018,Mistimed,1405,16.3,13.9,19.1
+Connecticut,2018,Unwanted pregnancy,1405,4.3,3.3,5.6
+Connecticut,2018,Unsure whether wanted pregnancy,1405,15.6,13.2,18.3
+Connecticut,2018,Intended pregnancy,1405,63.8,60.4,67
+Delaware,2018,Mistimed,842,20.1,17.3,23.2
+Delaware,2018,Unwanted pregnancy,842,6.9,5.3,8.9
+Delaware,2018,Unsure whether wanted pregnancy,842,17.7,15.1,20.6
+Delaware,2018,Intended pregnancy,842,55.3,51.7,58.8
+District of Columbia,2018,Mistimed,511,16.5,13.2,20.3
+District of Columbia,2018,Unwanted pregnancy,511,5.1,3.4,7.5
+District of Columbia,2018,Unsure whether wanted pregnancy,511,17.4,14,21.5
+District of Columbia,2018,Intended pregnancy,511,61,56.2,65.7
+Florida,2018,Mistimed,,,,
+Florida,2018,Unwanted pregnancy,,,,
+Florida,2018,Unsure whether wanted pregnancy,,,,
+Florida,2018,Intended pregnancy,,,,
+Georgia,2018,Mistimed,754,22.6,18.9,26.7
+Georgia,2018,Unwanted pregnancy,754,9.6,7.1,12.7
+Georgia,2018,Unsure whether wanted pregnancy,754,16.6,13.5,20.3
+Georgia,2018,Intended pregnancy,754,51.3,46.7,55.9
+Hawaii,2018,Mistimed,1047,17.9,14.9,21.4
+Hawaii,2018,Unwanted pregnancy,1047,5.4,3.8,7.7
+Hawaii,2018,Unsure whether wanted pregnancy,1047,20.4,17.2,24.1
+Hawaii,2018,Intended pregnancy,1047,56.3,52,60.4
+Illinois,2018,Mistimed,1298,17.6,15.5,20.1
+Illinois,2018,Unwanted pregnancy,1298,8.1,6.6,9.9
+Illinois,2018,Unsure whether wanted pregnancy,1298,16.3,14.2,18.7
+Illinois,2018,Intended pregnancy,1298,57.9,54.9,60.8
+Indiana,2018,Mistimed,849,29.2,25.2,33.6
+Indiana,2018,Unwanted pregnancy,849,7.2,5.3,9.7
+Indiana,2018,Unsure whether wanted pregnancy,849,15.9,12.9,19.5
+Indiana,2018,Intended pregnancy,849,47.7,43.3,52.1
+Iowa,2018,Mistimed,844,14.4,11.2,18.3
+Iowa,2018,Unwanted pregnancy,844,6.2,4,9.4
+Iowa,2018,Unsure whether wanted pregnancy,844,16,12.4,20.4
+Iowa,2018,Intended pregnancy,844,63.5,58.2,68.4
+Kansas,2018,Mistimed,955,17.6,14.6,21.2
+Kansas,2018,Unwanted pregnancy,955,5.5,3.9,7.8
+Kansas,2018,Unsure whether wanted pregnancy,955,16.6,13.5,20.1
+Kansas,2018,Intended pregnancy,955,60.3,56,64.4
+Kentucky,2018,Mistimed,741,16.4,13.3,20
+Kentucky,2018,Unwanted pregnancy,741,9.3,6.8,12.5
+Kentucky,2018,Unsure whether wanted pregnancy,741,17,13.8,20.9
+Kentucky,2018,Intended pregnancy,741,57.4,52.6,61.9
+Louisiana,2018,Mistimed,851,25.5,22.6,28.6
+Louisiana,2018,Unwanted pregnancy,851,9.6,7.7,11.9
+Louisiana,2018,Unsure whether wanted pregnancy,851,15.2,12.8,17.9
+Louisiana,2018,Intended pregnancy,851,49.7,46.2,53.3
+Maine,2018,Mistimed,808,15,12.3,18.2
+Maine,2018,Unwanted pregnancy,808,4.4,3,6.4
+Maine,2018,Unsure whether wanted pregnancy,808,13.2,10.5,16.3
+Maine,2018,Intended pregnancy,808,67.5,63.5,71.2
+Maryland,2018,Mistimed,1015,18.9,16,22.2
+Maryland,2018,Unwanted pregnancy,1015,7.6,5.8,10
+Maryland,2018,Unsure whether wanted pregnancy,1015,12.8,10.4,15.7
+Maryland,2018,Intended pregnancy,1015,60.7,56.8,64.4
+Massachusetts,2018,Mistimed,1424,14.3,12.2,16.6
+Massachusetts,2018,Unwanted pregnancy,1424,4.6,3.5,6.2
+Massachusetts,2018,Unsure whether wanted pregnancy,1424,12.8,10.7,15.3
+Massachusetts,2018,Intended pregnancy,1424,68.3,65.1,71.2
+Michigan,2018,Mistimed,1835,19.4,17.2,21.8
+Michigan,2018,Unwanted pregnancy,1835,6.3,5,7.8
+Michigan,2018,Unsure whether wanted pregnancy,1835,17.1,15,19.4
+Michigan,2018,Intended pregnancy,1835,57.2,54.4,60.1
+Minnesota,2018,Mistimed,1250,17.2,14.9,19.9
+Minnesota,2018,Unwanted pregnancy,1250,5,3.7,6.7
+Minnesota,2018,Unsure whether wanted pregnancy,1250,13,10.9,15.4
+Minnesota,2018,Intended pregnancy,1250,64.8,61.6,67.8
+Mississippi,2018,Mistimed,1195,26.7,23.7,30
+Mississippi,2018,Unwanted pregnancy,1195,9.7,7.8,12
+Mississippi,2018,Unsure whether wanted pregnancy,1195,18.3,15.8,21.2
+Mississippi,2018,Intended pregnancy,1195,45.2,41.8,48.7
+Missouri,2018,Mistimed,921,24,20.9,27.3
+Missouri,2018,Unwanted pregnancy,921,9.9,7.8,12.3
+Missouri,2018,Unsure whether wanted pregnancy,921,17,14.4,20
+Missouri,2018,Intended pregnancy,921,49.2,45.5,52.8
+Montana,2018,Mistimed,806,16.8,14.3,19.5
+Montana,2018,Unwanted pregnancy,806,6,4.6,8
+Montana,2018,Unsure whether wanted pregnancy,806,17.2,14.8,19.9
+Montana,2018,Intended pregnancy,806,60,56.7,63.3
+Nebraska,2018,Mistimed,1325,20.5,17.4,23.8
+Nebraska,2018,Unwanted pregnancy,1325,5.3,4,7
+Nebraska,2018,Unsure whether wanted pregnancy,1325,17.7,14.8,20.9
+Nebraska,2018,Intended pregnancy,1325,56.5,52.6,60.3
+New Hampshire,2018,Mistimed,575,14.3,11.2,18.2
+New Hampshire,2018,Unwanted pregnancy,575,3.1,1.7,5.4
+New Hampshire,2018,Unsure whether wanted pregnancy,575,11.9,9.1,15.5
+New Hampshire,2018,Intended pregnancy,575,70.7,66.1,75
+New Jersey,2018,Mistimed,1173,16.9,14.8,19.3
+New Jersey,2018,Unwanted pregnancy,1173,5.2,4,6.6
+New Jersey,2018,Unsure whether wanted pregnancy,1173,12.9,11.1,15.1
+New Jersey,2018,Intended pregnancy,1173,65,62.1,67.7
+New Mexico,2018,Mistimed,1192,18.5,16.4,20.9
+New Mexico,2018,Unwanted pregnancy,1192,6.6,5.3,8.2
+New Mexico,2018,Unsure whether wanted pregnancy,1192,19,16.9,21.4
+New Mexico,2018,Intended pregnancy,1192,55.8,52.9,58.6
+New York City,2018,Mistimed,1488,17.8,15.6,20.3
+New York City,2018,Unwanted pregnancy,1488,3.9,2.8,5.3
+New York City,2018,Unsure whether wanted pregnancy,1488,14.5,12.5,16.8
+New York City,2018,Intended pregnancy,1488,63.8,60.8,66.7
+New York,2018,Mistimed,761,18.4,14.9,22.6
+New York,2018,Unwanted pregnancy,761,3.8,2.4,6.2
+New York,2018,Unsure whether wanted pregnancy,761,16.5,13.1,20.5
+New York,2018,Intended pregnancy,761,61.3,56.4,65.9
+North Carolina,2018,Mistimed,910,20.2,17.2,23.6
+North Carolina,2018,Unwanted pregnancy,910,6.4,4.6,8.9
+North Carolina,2018,Unsure whether wanted pregnancy,910,14.6,12,17.6
+North Carolina,2018,Intended pregnancy,910,58.8,54.9,62.6
+North Dakota,2018,Mistimed,869,19.5,16.5,22.9
+North Dakota,2018,Unwanted pregnancy,869,4.5,3.1,6.5
+North Dakota,2018,Unsure whether wanted pregnancy,869,17.8,14.8,21.2
+North Dakota,2018,Intended pregnancy,869,58.2,54.2,62.1
+Oklahoma,2018,Mistimed,1373,20.8,17.9,23.9
+Oklahoma,2018,Unwanted pregnancy,1373,7.3,5.6,9.5
+Oklahoma,2018,Unsure whether wanted pregnancy,1373,16.6,14,19.6
+Oklahoma,2018,Intended pregnancy,1373,55.4,51.6,59.1
+Oregon,2018,Mistimed,1574,14.6,12.1,17.6
+Oregon,2018,Unwanted pregnancy,1574,4.4,3,6.5
+Oregon,2018,Unsure whether wanted pregnancy,1574,15.7,13,18.9
+Oregon,2018,Intended pregnancy,1574,65.2,61.4,68.9
+Pennsylvania,2018,Mistimed,950,19.2,16.4,22.3
+Pennsylvania,2018,Unwanted pregnancy,950,6.4,4.7,8.6
+Pennsylvania,2018,Unsure whether wanted pregnancy,950,16.2,13.6,19.2
+Pennsylvania,2018,Intended pregnancy,950,58.2,54.5,61.8
+Puerto Rico,2018,Mistimed,946,36.6,32.8,40.5
+Puerto Rico,2018,Unwanted pregnancy,946,6.2,4.6,8.5
+Puerto Rico,2018,Unsure whether wanted pregnancy,946,10.8,8.6,13.6
+Puerto Rico,2018,Intended pregnancy,946,46.3,42.4,50.3
+Rhode Island,2018,Mistimed,1088,16.1,13.7,18.9
+Rhode Island,2018,Unwanted pregnancy,1088,5.6,4.3,7.4
+Rhode Island,2018,Unsure whether wanted pregnancy,1088,14.2,11.9,16.8
+Rhode Island,2018,Intended pregnancy,1088,64,60.6,67.3
+South Dakota,2018,Mistimed,988,18,15.3,21
+South Dakota,2018,Unwanted pregnancy,988,5.3,3.9,7.1
+South Dakota,2018,Unsure whether wanted pregnancy,988,15.8,13.4,18.5
+South Dakota,2018,Intended pregnancy,988,61,57.4,64.4
+Tennessee,2018,Mistimed,,,,
+Tennessee,2018,Unwanted pregnancy,,,,
+Tennessee,2018,Unsure whether wanted pregnancy,,,,
+Tennessee,2018,Intended pregnancy,,,,
+Texas,2018,Mistimed,,,,
+Texas,2018,Unwanted pregnancy,,,,
+Texas,2018,Unsure whether wanted pregnancy,,,,
+Texas,2018,Intended pregnancy,,,,
+Utah,2018,Mistimed,1221,17.3,14.8,20
+Utah,2018,Unwanted pregnancy,1221,3.9,2.9,5.3
+Utah,2018,Unsure whether wanted pregnancy,1221,13.5,11.4,16
+Utah,2018,Intended pregnancy,1221,65.3,62,68.4
+Vermont,2018,Mistimed,849,15.6,13.1,18.4
+Vermont,2018,Unwanted pregnancy,849,5.5,4.1,7.4
+Vermont,2018,Unsure whether wanted pregnancy,849,13,10.8,15.6
+Vermont,2018,Intended pregnancy,849,65.9,62.5,69.2
+Virginia,2018,Mistimed,1127,18.4,14.8,22.6
+Virginia,2018,Unwanted pregnancy,1127,6.9,4.8,10
+Virginia,2018,Unsure whether wanted pregnancy,1127,15.4,12.1,19.3
+Virginia,2018,Intended pregnancy,1127,59.3,54.4,64.1
+Washington,2018,Mistimed,1124,17.4,14.8,20.2
+Washington,2018,Unwanted pregnancy,1124,4.9,3.6,6.7
+Washington,2018,Unsure whether wanted pregnancy,1124,15.9,13.5,18.7
+Washington,2018,Intended pregnancy,1124,61.8,58.3,65.2
+West Virginia,2018,Mistimed,684,17.6,14.4,21.3
+West Virginia,2018,Unwanted pregnancy,684,5.2,3.6,7.5
+West Virginia,2018,Unsure whether wanted pregnancy,684,21,17.6,24.8
+West Virginia,2018,Intended pregnancy,684,56.2,51.8,60.6
+Wisconsin,2018,Mistimed,1042,18.4,15.3,21.9
+Wisconsin,2018,Unwanted pregnancy,1042,6.1,4.4,8.4
+Wisconsin,2018,Unsure whether wanted pregnancy,1042,14.5,11.8,17.6
+Wisconsin,2018,Intended pregnancy,1042,61,56.8,65
+Wyoming,2018,Mistimed,536,22.3,18.3,26.8
+Wyoming,2018,Unwanted pregnancy,536,3.9,2.5,6
+Wyoming,2018,Unsure whether wanted pregnancy,536,16.7,13.2,20.9
+Wyoming,2018,Intended pregnancy,536,57.2,52.1,62.2
+Alabama,2019,Mistimed,786,21.6,18.9,24.7
+Alabama,2019,Unwanted pregnancy,786,8.8,6.9,11
+Alabama,2019,Unsure whether wanted pregnancy,786,20.9,18.1,23.9
+Alabama,2019,Intended pregnancy,786,48.7,45.3,52.2
+Alaska,2019,Mistimed,1056,16.8,14.2,19.7
+Alaska,2019,Unwanted pregnancy,1056,6.3,4.9,8.2
+Alaska,2019,Unsure whether wanted pregnancy,1056,17.8,15.4,20.5
+Alaska,2019,Intended pregnancy,1056,59.1,55.6,62.4
+Arizona,2019,Mistimed,,,,
+Arizona,2019,Unwanted pregnancy,,,,
+Arizona,2019,Unsure whether wanted pregnancy,,,,
+Arizona,2019,Intended pregnancy,,,,
+Arkansas,2019,Mistimed,966,20.4,16.6,24.9
+Arkansas,2019,Unwanted pregnancy,966,8,5.7,11.2
+Arkansas,2019,Unsure whether wanted pregnancy,966,19.5,15.7,23.9
+Arkansas,2019,Intended pregnancy,966,52,46.9,57.1
+Colorado,2019,Mistimed,1090,15.2,12.6,18.2
+Colorado,2019,Unwanted pregnancy,1090,5.2,3.9,7
+Colorado,2019,Unsure whether wanted pregnancy,1090,15.9,13.3,18.9
+Colorado,2019,Intended pregnancy,1090,63.7,60,67.2
+Connecticut,2019,Mistimed,1187,15.7,13.4,18.4
+Connecticut,2019,Unwanted pregnancy,1187,5.3,4,7.1
+Connecticut,2019,Unsure whether wanted pregnancy,1187,13.1,11,15.5
+Connecticut,2019,Intended pregnancy,1187,65.9,62.5,69
+Delaware,2019,Mistimed,920,21.3,18.5,24.3
+Delaware,2019,Unwanted pregnancy,920,7.4,5.8,9.4
+Delaware,2019,Unsure whether wanted pregnancy,920,17.1,14.7,19.9
+Delaware,2019,Intended pregnancy,920,54.2,50.7,57.6
+District of Columbia,2019,Mistimed,509,15.5,12.3,19.5
+District of Columbia,2019,Unwanted pregnancy,509,6.4,4.2,9.5
+District of Columbia,2019,Unsure whether wanted pregnancy,509,15.6,12.3,19.7
+District of Columbia,2019,Intended pregnancy,509,62.5,57.6,67.2
+Florida,2019,Mistimed,1028,26.8,23.5,30.4
+Florida,2019,Unwanted pregnancy,1028,8.5,6.7,10.7
+Florida,2019,Unsure whether wanted pregnancy,1028,16,13.5,19
+Florida,2019,Intended pregnancy,1028,48.6,44.8,52.5
+Georgia,2019,Mistimed,778,21.8,18.3,25.8
+Georgia,2019,Unwanted pregnancy,778,5.6,3.9,8
+Georgia,2019,Unsure whether wanted pregnancy,778,15.6,12.6,19.2
+Georgia,2019,Intended pregnancy,778,56.9,52.4,61.3
+Hawaii,2019,Mistimed,620,13.9,10.4,18.3
+Hawaii,2019,Unwanted pregnancy,620,5,3.2,7.7
+Hawaii,2019,Unsure whether wanted pregnancy,620,18,14,22.8
+Hawaii,2019,Intended pregnancy,620,63.2,57.6,68.4
+Illinois,2019,Mistimed,1228,19.9,17.5,22.5
+Illinois,2019,Unwanted pregnancy,1228,6.8,5.4,8.5
+Illinois,2019,Unsure whether wanted pregnancy,1228,15.5,13.3,17.9
+Illinois,2019,Intended pregnancy,1228,57.9,54.8,60.9
+Indiana,2019,Mistimed,,,,
+Indiana,2019,Unwanted pregnancy,,,,
+Indiana,2019,Unsure whether wanted pregnancy,,,,
+Indiana,2019,Intended pregnancy,,,,
+Iowa,2019,Mistimed,842,15.7,12.1,20.1
+Iowa,2019,Unwanted pregnancy,842,5.4,3.4,8.5
+Iowa,2019,Unsure whether wanted pregnancy,842,12.9,9.7,16.9
+Iowa,2019,Intended pregnancy,842,66.1,60.8,71
+Kansas,2019,Mistimed,985,18.9,15.8,22.4
+Kansas,2019,Unwanted pregnancy,985,7.8,5.8,10.4
+Kansas,2019,Unsure whether wanted pregnancy,985,13.4,10.8,16.5
+Kansas,2019,Intended pregnancy,985,59.9,55.8,63.9
+Kentucky,2019,Mistimed,901,20,16.7,23.7
+Kentucky,2019,Unwanted pregnancy,901,7,5.1,9.7
+Kentucky,2019,Unsure whether wanted pregnancy,901,18.1,15,21.8
+Kentucky,2019,Intended pregnancy,901,54.8,50.4,59.2
+Louisiana,2019,Mistimed,1065,23.4,20.4,26.6
+Louisiana,2019,Unwanted pregnancy,1065,8.3,6.6,10.5
+Louisiana,2019,Unsure whether wanted pregnancy,1065,21.8,19,24.9
+Louisiana,2019,Intended pregnancy,1065,46.5,43,50.1
+Maine,2019,Mistimed,814,16.8,13.9,20.2
+Maine,2019,Unwanted pregnancy,814,5.3,3.7,7.5
+Maine,2019,Unsure whether wanted pregnancy,814,17.9,15,21.4
+Maine,2019,Intended pregnancy,814,59.9,55.8,63.8
+Maryland,2019,Mistimed,943,20.6,17.5,23.9
+Maryland,2019,Unwanted pregnancy,943,6,4.4,8.2
+Maryland,2019,Unsure whether wanted pregnancy,943,14.8,12.3,17.8
+Maryland,2019,Intended pregnancy,943,58.6,54.8,62.3
+Massachusetts,2019,Mistimed,1681,16.4,14.3,18.8
+Massachusetts,2019,Unwanted pregnancy,1681,4.6,3.4,6
+Massachusetts,2019,Unsure whether wanted pregnancy,1681,12.2,10.4,14.2
+Massachusetts,2019,Intended pregnancy,1681,66.9,64,69.6
+Michigan,2019,Mistimed,1374,17.6,15.3,20.3
+Michigan,2019,Unwanted pregnancy,1374,6.7,5.3,8.6
+Michigan,2019,Unsure whether wanted pregnancy,1374,15.9,13.7,18.4
+Michigan,2019,Intended pregnancy,1374,59.8,56.6,62.9
+Minnesota,2019,Mistimed,1034,14.3,11.8,17.4
+Minnesota,2019,Unwanted pregnancy,1034,5.3,3.7,7.7
+Minnesota,2019,Unsure whether wanted pregnancy,1034,12.4,10,15.4
+Minnesota,2019,Intended pregnancy,1034,67.9,64,71.5
+Mississippi,2019,Mistimed,1250,26.1,23.3,29.2
+Mississippi,2019,Unwanted pregnancy,1250,11.6,9.6,14
+Mississippi,2019,Unsure whether wanted pregnancy,1250,19.8,17.2,22.7
+Mississippi,2019,Intended pregnancy,1250,42.4,39.1,45.8
+Missouri,2019,Mistimed,1580,19.6,17.2,22.3
+Missouri,2019,Unwanted pregnancy,1580,7.8,6.2,9.7
+Missouri,2019,Unsure whether wanted pregnancy,1580,17.9,15.6,20.6
+Missouri,2019,Intended pregnancy,1580,54.7,51.5,57.8
+Montana,2019,Mistimed,716,16.5,13.9,19.5
+Montana,2019,Unwanted pregnancy,716,7.8,5.9,10.1
+Montana,2019,Unsure whether wanted pregnancy,716,18.3,15.6,21.4
+Montana,2019,Intended pregnancy,716,57.4,53.8,60.9
+Nebraska,2019,Mistimed,1612,16.2,13.9,18.8
+Nebraska,2019,Unwanted pregnancy,1612,6,4.6,7.8
+Nebraska,2019,Unsure whether wanted pregnancy,1612,14.4,12.2,16.8
+Nebraska,2019,Intended pregnancy,1612,63.4,60.2,66.6
+New Hampshire,2019,Mistimed,653,12.3,9.3,16.2
+New Hampshire,2019,Unwanted pregnancy,653,5.8,3.8,8.9
+New Hampshire,2019,Unsure whether wanted pregnancy,653,12.6,9.6,16.3
+New Hampshire,2019,Intended pregnancy,653,69.3,64.4,73.7
+New Jersey,2019,Mistimed,1104,16.6,14.4,19.1
+New Jersey,2019,Unwanted pregnancy,1104,5,3.9,6.5
+New Jersey,2019,Unsure whether wanted pregnancy,1104,15.4,13.2,17.7
+New Jersey,2019,Intended pregnancy,1104,63,60,65.9
+New Mexico,2019,Mistimed,1142,16,14,18.4
+New Mexico,2019,Unwanted pregnancy,1142,5.9,4.6,7.5
+New Mexico,2019,Unsure whether wanted pregnancy,1142,17.9,15.7,20.4
+New Mexico,2019,Intended pregnancy,1142,60.1,57.2,63
+New York City,2019,Mistimed,1226,17.3,15,19.9
+New York City,2019,Unwanted pregnancy,1226,3.6,2.6,5
+New York City,2019,Unsure whether wanted pregnancy,1226,13.3,11.2,15.7
+New York City,2019,Intended pregnancy,1226,65.7,62.6,68.7
+New York,2019,Mistimed,742,13.1,10,17.1
+New York,2019,Unwanted pregnancy,742,7.8,5.5,11.1
+New York,2019,Unsure whether wanted pregnancy,742,12.5,9.7,16.1
+New York,2019,Intended pregnancy,742,66.5,61.7,71
+North Carolina,2019,Mistimed,866,19.2,16.1,22.6
+North Carolina,2019,Unwanted pregnancy,866,5.8,4.2,7.8
+North Carolina,2019,Unsure whether wanted pregnancy,866,19.2,16.2,22.6
+North Carolina,2019,Intended pregnancy,866,55.9,51.9,59.7
+North Dakota,2019,Mistimed,754,17.3,14.2,20.9
+North Dakota,2019,Unwanted pregnancy,754,5.2,3.6,7.6
+North Dakota,2019,Unsure whether wanted pregnancy,754,15,12.1,18.4
+North Dakota,2019,Intended pregnancy,754,62.5,58.1,66.6
+Oklahoma,2019,Mistimed,,,,
+Oklahoma,2019,Unwanted pregnancy,,,,
+Oklahoma,2019,Unsure whether wanted pregnancy,,,,
+Oklahoma,2019,Intended pregnancy,,,,
+Oregon,2019,Mistimed,2416,15.3,13.2,17.6
+Oregon,2019,Unwanted pregnancy,2416,4.6,3.5,6.1
+Oregon,2019,Unsure whether wanted pregnancy,2416,14.1,12.1,16.4
+Oregon,2019,Intended pregnancy,2416,66,63,68.9
+Pennsylvania,2019,Mistimed,1116,20,16.5,24
+Pennsylvania,2019,Unwanted pregnancy,1116,6.6,5,8.7
+Pennsylvania,2019,Unsure whether wanted pregnancy,1116,15.9,12.9,19.4
+Pennsylvania,2019,Intended pregnancy,1116,57.5,53.1,61.9
+Puerto Rico,2019,Mistimed,1019,37.1,33.5,40.9
+Puerto Rico,2019,Unwanted pregnancy,1019,7,5.3,9.2
+Puerto Rico,2019,Unsure whether wanted pregnancy,1019,9.6,7.6,12.1
+Puerto Rico,2019,Intended pregnancy,1019,46.2,42.4,50.1
+Rhode Island,2019,Mistimed,973,19,16.3,22
+Rhode Island,2019,Unwanted pregnancy,973,5,3.7,6.8
+Rhode Island,2019,Unsure whether wanted pregnancy,973,16.6,14,19.6
+Rhode Island,2019,Intended pregnancy,973,59.4,55.9,62.9
+South Dakota,2019,Mistimed,985,18.6,16,21.5
+South Dakota,2019,Unwanted pregnancy,985,5.4,4.2,7
+South Dakota,2019,Unsure whether wanted pregnancy,985,17.3,14.9,20
+South Dakota,2019,Intended pregnancy,985,58.6,55.3,62
+Tennessee,2019,Mistimed,655,21,16.8,26
+Tennessee,2019,Unwanted pregnancy,655,10.1,7.2,14
+Tennessee,2019,Unsure whether wanted pregnancy,655,18.8,14.9,23.6
+Tennessee,2019,Intended pregnancy,655,50.1,44.6,55.5
+Texas,2019,Mistimed,,,,
+Texas,2019,Unwanted pregnancy,,,,
+Texas,2019,Unsure whether wanted pregnancy,,,,
+Texas,2019,Intended pregnancy,,,,
+Utah,2019,Mistimed,1693,15.1,13,17.5
+Utah,2019,Unwanted pregnancy,1693,4.5,3.4,6
+Utah,2019,Unsure whether wanted pregnancy,1693,11.5,9.7,13.6
+Utah,2019,Intended pregnancy,1693,68.9,66,71.7
+Vermont,2019,Mistimed,764,12.1,9.8,14.8
+Vermont,2019,Unwanted pregnancy,764,4.6,3.3,6.4
+Vermont,2019,Unsure whether wanted pregnancy,764,16.3,13.7,19.3
+Vermont,2019,Intended pregnancy,764,66.9,63.3,70.3
+Virginia,2019,Mistimed,972,21,17,25.5
+Virginia,2019,Unwanted pregnancy,972,6.1,4.1,9.2
+Virginia,2019,Unsure whether wanted pregnancy,972,13,9.9,16.9
+Virginia,2019,Intended pregnancy,972,59.8,54.7,64.7
+Washington,2019,Mistimed,1176,16.5,14.2,19.2
+Washington,2019,Unwanted pregnancy,1176,4.9,3.6,6.5
+Washington,2019,Unsure whether wanted pregnancy,1176,13.5,11.3,16
+Washington,2019,Intended pregnancy,1176,65.1,61.8,68.3
+West Virginia,2019,Mistimed,,,,
+West Virginia,2019,Unwanted pregnancy,,,,
+West Virginia,2019,Unsure whether wanted pregnancy,,,,
+West Virginia,2019,Intended pregnancy,,,,
+Wisconsin,2019,Mistimed,841,15.9,13,19.4
+Wisconsin,2019,Unwanted pregnancy,841,6.4,4.6,8.8
+Wisconsin,2019,Unsure whether wanted pregnancy,841,16.3,13.3,19.8
+Wisconsin,2019,Intended pregnancy,841,61.4,57.1,65.6
+Wyoming,2019,Mistimed,486,17.6,13.8,22.1
+Wyoming,2019,Unwanted pregnancy,486,4.1,2.4,7
+Wyoming,2019,Unsure whether wanted pregnancy,486,13.7,10.4,17.9
+Wyoming,2019,Intended pregnancy,486,64.6,59.2,69.6
+Overall,2020,Mistimed,,17.7,17.2,18.4
+Overall,2020,Unwanted pregnancy,,6.3,6,6.7
+Overall,2020,Unsure whether wanted pregnancy,,15.5,15,16.1
+Overall,2020,Intended pregnancy,,60.4,59.6,61.1
+Alabama,2020,Mistimed,637,18.5,15.6,21.7
+Alabama,2020,Unwanted pregnancy,637,8.4,6.5,10.9
+Alabama,2020,Unsure whether wanted pregnancy,637,18.5,15.6,21.8
+Alabama,2020,Intended pregnancy,637,54.6,50.7,58.4
+Alaska,2020,Mistimed,998,14.6,12.1,17.3
+Alaska,2020,Unwanted pregnancy,998,5.9,4.4,7.8
+Alaska,2020,Unsure whether wanted pregnancy,998,17.7,15.3,20.4
+Alaska,2020,Intended pregnancy,998,61.8,58.4,65.2
+Arizona,2020,Mistimed,774,18,15.4,21
+Arizona,2020,Unwanted pregnancy,774,6.5,4.9,8.7
+Arizona,2020,Unsure whether wanted pregnancy,774,15.8,13.3,18.7
+Arizona,2020,Intended pregnancy,774,59.6,56.1,63.1
+Arkansas,2020,Mistimed,912,18.7,15.1,23
+Arkansas,2020,Unwanted pregnancy,912,8.2,6,11.2
+Arkansas,2020,Unsure whether wanted pregnancy,912,20.2,16.5,24.4
+Arkansas,2020,Intended pregnancy,912,52.9,47.9,57.9
+Colorado,2020,Mistimed,1030,16.4,13.9,19.2
+Colorado,2020,Unwanted pregnancy,1030,5.3,3.9,7.2
+Colorado,2020,Unsure whether wanted pregnancy,1030,14.8,12.4,17.5
+Colorado,2020,Intended pregnancy,1030,63.5,60,66.9
+Connecticut,2020,Mistimed,1348,15.2,13.1,17.6
+Connecticut,2020,Unwanted pregnancy,1348,5.2,4,6.8
+Connecticut,2020,Unsure whether wanted pregnancy,1348,14.5,12.4,16.8
+Connecticut,2020,Intended pregnancy,1348,65.1,62,68.1
+Delaware,2020,Mistimed,846,20.6,17.7,23.8
+Delaware,2020,Unwanted pregnancy,846,7.4,5.6,9.6
+Delaware,2020,Unsure whether wanted pregnancy,846,17,14.4,20
+Delaware,2020,Intended pregnancy,846,55,51.4,58.7
+District of Columbia,2020,Mistimed,552,13.8,10.9,17.3
+District of Columbia,2020,Unwanted pregnancy,552,6.5,4.5,9.2
+District of Columbia,2020,Unsure whether wanted pregnancy,552,15.7,12.7,19.2
+District of Columbia,2020,Intended pregnancy,552,64.1,59.6,68.4
+Florida,2020,Mistimed,1075,23.5,20.4,26.9
+Florida,2020,Unwanted pregnancy,1075,8,6.3,10
+Florida,2020,Unsure whether wanted pregnancy,1075,17.1,14.5,19.9
+Florida,2020,Intended pregnancy,1075,51.5,47.7,55.3
+Georgia,2020,Mistimed,685,17.8,14.4,21.7
+Georgia,2020,Unwanted pregnancy,685,6,4.1,8.8
+Georgia,2020,Unsure whether wanted pregnancy,685,12.1,9.3,15.7
+Georgia,2020,Intended pregnancy,685,64.1,59.3,68.6
+Hawaii,2020,Mistimed,1201,14.4,12,17.2
+Hawaii,2020,Unwanted pregnancy,1201,5.9,4.3,8
+Hawaii,2020,Unsure whether wanted pregnancy,1201,21.3,18.3,24.7
+Hawaii,2020,Intended pregnancy,1201,58.3,54.6,62
+Illinois,2020,Mistimed,1200,16.5,14.3,19
+Illinois,2020,Unwanted pregnancy,1200,7.1,5.6,8.9
+Illinois,2020,Unsure whether wanted pregnancy,1200,14.7,12.6,17.1
+Illinois,2020,Intended pregnancy,1200,61.7,58.6,64.7
+Indiana,2020,Mistimed,,,,
+Indiana,2020,Unwanted pregnancy,,,,
+Indiana,2020,Unsure whether wanted pregnancy,,,,
+Indiana,2020,Intended pregnancy,,,,
+Iowa,2020,Mistimed,704,12.1,9.3,15.6
+Iowa,2020,Unwanted pregnancy,704,5.5,3.7,8.2
+Iowa,2020,Unsure whether wanted pregnancy,704,13.8,10.7,17.4
+Iowa,2020,Intended pregnancy,704,68.6,64,72.9
+Kansas,2020,Mistimed,1136,20.8,17.9,24
+Kansas,2020,Unwanted pregnancy,1136,7,5.3,9.1
+Kansas,2020,Unsure whether wanted pregnancy,1136,14.9,12.5,17.7
+Kansas,2020,Intended pregnancy,1136,57.3,53.6,60.8
+Kentucky,2020,Mistimed,797,21.7,18.2,25.7
+Kentucky,2020,Unwanted pregnancy,797,7.4,5.4,10.2
+Kentucky,2020,Unsure whether wanted pregnancy,797,13.7,10.9,17
+Kentucky,2020,Intended pregnancy,797,57.1,52.6,61.5
+Louisiana,2020,Mistimed,692,24.7,21.5,28.1
+Louisiana,2020,Unwanted pregnancy,692,7.4,5.6,9.7
+Louisiana,2020,Unsure whether wanted pregnancy,692,20.8,18,23.9
+Louisiana,2020,Intended pregnancy,692,47.2,43.4,51
+Maine,2020,Mistimed,880,15.5,12.9,18.5
+Maine,2020,Unwanted pregnancy,880,5.5,4,7.6
+Maine,2020,Unsure whether wanted pregnancy,880,15.1,12.6,18.1
+Maine,2020,Intended pregnancy,880,63.9,60.1,67.5
+Maryland,2020,Mistimed,991,18.3,15.4,21.7
+Maryland,2020,Unwanted pregnancy,991,6,4.4,8.1
+Maryland,2020,Unsure whether wanted pregnancy,991,13,10.6,16
+Maryland,2020,Intended pregnancy,991,62.7,58.8,66.4
+Massachusetts,2020,Mistimed,1385,13.5,11.4,15.9
+Massachusetts,2020,Unwanted pregnancy,1385,3.5,2.4,5.1
+Massachusetts,2020,Unsure whether wanted pregnancy,1385,12.7,10.6,15.2
+Massachusetts,2020,Intended pregnancy,1385,70.3,67.1,73.3
+Michigan,2020,Mistimed,1382,16.5,14.4,18.9
+Michigan,2020,Unwanted pregnancy,1382,7.3,5.8,9
+Michigan,2020,Unsure whether wanted pregnancy,1382,16.5,14.3,18.9
+Michigan,2020,Intended pregnancy,1382,59.8,56.7,62.8
+Minnesota,2020,Mistimed,602,11.6,8.5,15.7
+Minnesota,2020,Unwanted pregnancy,602,4,2.3,6.9
+Minnesota,2020,Unsure whether wanted pregnancy,602,19.5,15.3,24.4
+Minnesota,2020,Intended pregnancy,602,64.9,59.4,70
+Mississippi,2020,Mistimed,995,21.5,18.5,24.9
+Mississippi,2020,Unwanted pregnancy,995,8.4,6.5,10.9
+Mississippi,2020,Unsure whether wanted pregnancy,995,21.9,18.7,25.4
+Mississippi,2020,Intended pregnancy,995,48.2,44.1,52.2
+Missouri,2020,Mistimed,951,16.2,13.7,19
+Missouri,2020,Unwanted pregnancy,951,6,4.5,7.9
+Missouri,2020,Unsure whether wanted pregnancy,951,21.3,18.4,24.4
+Missouri,2020,Intended pregnancy,951,56.5,52.9,60.1
+Montana,2020,Mistimed,699,14.2,11.5,17.5
+Montana,2020,Unwanted pregnancy,699,5.5,4,7.6
+Montana,2020,Unsure whether wanted pregnancy,699,15.6,13,18.7
+Montana,2020,Intended pregnancy,699,64.6,60.6,68.4
+Nebraska,2020,Mistimed,1480,15.6,13.3,18.1
+Nebraska,2020,Unwanted pregnancy,1480,4.3,3.2,5.8
+Nebraska,2020,Unsure whether wanted pregnancy,1480,13.8,11.7,16.3
+Nebraska,2020,Intended pregnancy,1480,66.3,63,69.4
+New Hampshire,2020,Mistimed,636,16.4,13.1,20.4
+New Hampshire,2020,Unwanted pregnancy,636,3,1.7,5.1
+New Hampshire,2020,Unsure whether wanted pregnancy,636,10.7,8,14.1
+New Hampshire,2020,Intended pregnancy,636,69.9,65.3,74.1
+New Jersey,2020,Mistimed,1073,15.8,13.6,18.2
+New Jersey,2020,Unwanted pregnancy,1073,4.3,3.3,5.8
+New Jersey,2020,Unsure whether wanted pregnancy,1073,14.2,12.1,16.6
+New Jersey,2020,Intended pregnancy,1073,65.6,62.6,68.5
+New Mexico,2020,Mistimed,1032,19.3,16.8,22
+New Mexico,2020,Unwanted pregnancy,1032,5.5,4.2,7.2
+New Mexico,2020,Unsure whether wanted pregnancy,1032,21.3,18.7,24
+New Mexico,2020,Intended pregnancy,1032,54,50.8,57
+New York City,2020,Mistimed,1175,15.9,13.6,18.5
+New York City,2020,Unwanted pregnancy,1175,5,3.7,6.7
+New York City,2020,Unsure whether wanted pregnancy,1175,13.3,11.2,15.7
+New York City,2020,Intended pregnancy,1175,65.8,62.6,68.9
+New York,2020,Mistimed,,,,
+New York,2020,Unwanted pregnancy,,,,
+New York,2020,Unsure whether wanted pregnancy,,,,
+New York,2020,Intended pregnancy,,,,
+North Carolina,2020,Mistimed,,,,
+North Carolina,2020,Unwanted pregnancy,,,,
+North Carolina,2020,Unsure whether wanted pregnancy,,,,
+North Carolina,2020,Intended pregnancy,,,,
+North Dakota,2020,Mistimed,769,12.2,9.5,15.5
+North Dakota,2020,Unwanted pregnancy,769,4.1,2.7,6.3
+North Dakota,2020,Unsure whether wanted pregnancy,769,19.8,16.5,23.6
+North Dakota,2020,Intended pregnancy,769,63.9,59.5,68
+Oklahoma,2020,Mistimed,,,,
+Oklahoma,2020,Unwanted pregnancy,,,,
+Oklahoma,2020,Unsure whether wanted pregnancy,,,,
+Oklahoma,2020,Intended pregnancy,,,,
+Oregon,2020,Mistimed,1636,15.3,12.8,18.3
+Oregon,2020,Unwanted pregnancy,1636,5.5,4,7.5
+Oregon,2020,Unsure whether wanted pregnancy,1636,16.5,13.8,19.6
+Oregon,2020,Intended pregnancy,1636,62.7,58.9,66.3
+Pennsylvania,2020,Mistimed,1183,14.7,12.5,17.2
+Pennsylvania,2020,Unwanted pregnancy,1183,6.6,5.1,8.5
+Pennsylvania,2020,Unsure whether wanted pregnancy,1183,17.8,15.4,20.5
+Pennsylvania,2020,Intended pregnancy,1183,60.9,57.6,64
+Puerto Rico,2020,Mistimed,871,39.1,35.3,42.9
+Puerto Rico,2020,Unwanted pregnancy,871,7.1,5.3,9.4
+Puerto Rico,2020,Unsure whether wanted pregnancy,871,9.5,7.4,12.1
+Puerto Rico,2020,Intended pregnancy,871,44.3,40.5,48.2
+Rhode Island,2020,Mistimed,,,,
+Rhode Island,2020,Unwanted pregnancy,,,,
+Rhode Island,2020,Unsure whether wanted pregnancy,,,,
+Rhode Island,2020,Intended pregnancy,,,,
+South Dakota,2020,Mistimed,965,18.7,16.1,21.8
+South Dakota,2020,Unwanted pregnancy,965,6.4,5,8.2
+South Dakota,2020,Unsure whether wanted pregnancy,965,17.5,15,20.2
+South Dakota,2020,Intended pregnancy,965,57.4,53.9,60.8
+Tennessee,2020,Mistimed,617,22.7,18.6,27.5
+Tennessee,2020,Unwanted pregnancy,617,12.4,9.2,16.6
+Tennessee,2020,Unsure whether wanted pregnancy,617,14.4,11,18.5
+Tennessee,2020,Intended pregnancy,617,50.5,45.2,55.8
+Texas,2020,Mistimed,,,,
+Texas,2020,Unwanted pregnancy,,,,
+Texas,2020,Unsure whether wanted pregnancy,,,,
+Texas,2020,Intended pregnancy,,,,
+Utah,2020,Mistimed,1385,15.3,13.2,17.6
+Utah,2020,Unwanted pregnancy,1385,3.6,2.7,4.8
+Utah,2020,Unsure whether wanted pregnancy,1385,12.1,10.3,14.2
+Utah,2020,Intended pregnancy,1385,69,66.1,71.7
+Vermont,2020,Mistimed,803,12.7,10.5,15.4
+Vermont,2020,Unwanted pregnancy,803,3.9,2.8,5.5
+Vermont,2020,Unsure whether wanted pregnancy,803,15,12.7,17.8
+Vermont,2020,Intended pregnancy,803,68.3,64.9,71.5
+Virginia,2020,Mistimed,929,19.2,15.4,23.5
+Virginia,2020,Unwanted pregnancy,929,5.9,3.9,8.8
+Virginia,2020,Unsure whether wanted pregnancy,929,13.8,10.5,17.8
+Virginia,2020,Intended pregnancy,929,61.2,56.1,66
+Washington,2020,Mistimed,1216,13.9,11.7,16.4
+Washington,2020,Unwanted pregnancy,1216,4.4,3.1,6.1
+Washington,2020,Unsure whether wanted pregnancy,1216,11.1,9.1,13.5
+Washington,2020,Intended pregnancy,1216,70.7,67.4,73.8
+West Virginia,2020,Mistimed,591,13.4,10.3,17.1
+West Virginia,2020,Unwanted pregnancy,591,4.5,2.9,7
+West Virginia,2020,Unsure whether wanted pregnancy,591,18.5,15,22.7
+West Virginia,2020,Intended pregnancy,591,63.6,58.7,68.2
+Wisconsin,2020,Mistimed,1667,15.7,13.3,18.4
+Wisconsin,2020,Unwanted pregnancy,1667,5.3,4,7
+Wisconsin,2020,Unsure whether wanted pregnancy,1667,14.2,11.8,16.9
+Wisconsin,2020,Intended pregnancy,1667,64.9,61.4,68.2
+Wyoming,2020,Mistimed,460,19.2,15,24.2
+Wyoming,2020,Unwanted pregnancy,460,6,3.8,9.4
+Wyoming,2020,Unsure whether wanted pregnancy,460,15.5,11.8,20.2
+Wyoming,2020,Intended pregnancy,460,59.3,53.5,64.8

@@ -533,7 +533,7 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
 
 The folder [pgSQL](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv](csv).
 
-Various database clients may be able to run the SQL files listed below, however the database was constructed in PostgreSQL, so for best performance we recommend using PostgreSQL 13 or higher.
+Various database clients may be able to run the SQL files listed below, however the mmh-risk-factors database was constructed in PostgreSQL, so for best performance we recommend using PostgreSQL 13 or higher.
 
 The file [pgSQL/factors-county.sql](pgSQL/factors-county.sql) defines the basic tables for all county level risk factors and loads each table from CSV.
 

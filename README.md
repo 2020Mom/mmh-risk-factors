@@ -545,10 +545,6 @@ The file [pgSQL/prfs-state.sql](pgSQL/prfs-state.sql) defines the summary tables
 
 The file [pgSQL/scores.sql](pgSQL/scoring.sql) aggregates all of the factor data and scoring, and the composite score for each county, into one table, and exports to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)
 
-The file [pgSQL/providers.sql](pgSQL/providers.sql) constructs the PSI Certified MH Providers table and loads the data from CSV.
-
-The file [pgSQL/copy2json.sql](pgSQL/copy2json.sql) creates JSON files for each table in the perinatal_risk_factors database.
-
 ## Perinatal Risk Factor Scores
 
 The data was aggregated in [pgSQL/scores.sql](pgSQL/scoring.sql) and exported to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)\

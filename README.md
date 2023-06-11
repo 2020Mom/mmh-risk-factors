@@ -31,8 +31,6 @@
 &emsp;&emsp;&emsp;[Poor mental health among mothers](#20)\
 &emsp;&emsp;&emsp;[Mothers not coping well with raising their child](#21)\
 &emsp;&emsp;&emsp;[Births and birth rates for reproductive age women](#22)
-- [Perinatal Mental Healthcare Providers](#perinatal-mental-healthcare-providers)\
-&emsp;&emsp;&emsp;[Certified Providers, by County](#23)
 - [PostgreSQL Tables and Queries](#postgresql-tables-and-queries)
 - [Perinatal Risk Factor Scores](#perinatal-risk-factor-scores)
 ## Overview
@@ -529,31 +527,6 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "BIRTHRATE"     (#) Births Divided by Total Population
     "FEMPOP"        (#) Females aged 15-44 years
     "FERTRATE"      (#) Births Divided by (#) Females aged 15-44 years
-</pre>
-
-## Perinatal Mental Healthcare Providers
-
-Perinatal mental healthcare providers are essential to the task of responding to and treating mothers experiencing mental distress. Without access to professional help, new mothers are left alone to struggle with their own thoughts and feelings, while they are also responsible for providing all the normal care required by their infants and young children.
-
-The detrimental effects of a supply deficit in perinatal mental healthcare can spiral outward, as at-risk mothers left untreated begin to suffer collateral consequences, which can also involve their children and result in a diminishment in the level of care they receive.
-
-We have gathered data from a variety of authoritative sources in order to quantify the level of provider care available in each county where risk factor scores have been produced.
-
-### PSI Certified Mental Healthcare Providers
-
-Factor:&emsp;&emsp;&emsp;&emsp;&nbsp;<a name="23"/>[PMH Certified Providers](csv/pmh_providers.csv)\
-Source:&emsp;&emsp;&emsp;&emsp;(2022) Postpartum Support International, Member Roles\
-Description:&emsp;&emsp;List of Certified Providers by Zip Code\
-Key Variable:&emsp;&ensp;&nbsp;Count of providers by Zip Code\
-
-<img src="png/providers_cert_county.png">
-<img src="png/providers_cert_state.png">
-<pre>
-    "ACCOUNT_ID"    Certification Holder Account ID
-    "CITY"          City of Residence
-    "STATE"         State of Residence
-    "ZIP"           ZIP Code of Residence
-    "OCCUPATION"    Professional role
 </pre>
 
 ## PostgreSQL Tables and Queries

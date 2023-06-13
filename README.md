@@ -3,6 +3,8 @@
 
 ## Contents
 - [Overview](#overview)
+- [Database Tables and Queries](#database-tables-and-queries)
+- [Perinatal Risk Factor Scores](#perinatal-risk-factor-scores)
 - [Geography](#geography)
 - [Risk Factors](#risk-factors)\
 &emsp;- [Tier I (18 pts max)](#tier-i-18-pts-max)\
@@ -31,19 +33,49 @@
 &emsp;&emsp;&emsp;[Poor mental health among mothers](#20)\
 &emsp;&emsp;&emsp;[Mothers not coping well with raising their child](#21)\
 &emsp;&emsp;&emsp;[Births and birth rates for reproductive age women](#22)
-- [Database Tables and Queries](#database-tables-and-queries)
-- [Perinatal Risk Factor Scores](#perinatal-risk-factor-scores)
+
 ## Overview
 
 Risk Factors Scores for Perinatal Mental Health are derived by an algorithm incorporating:
 
 - 19 factors that are shown to be associated with a greater risk of perinatal mental health disorders, and
 
-- 3 factors which are direct measures of need.
+- 3 factors which represent direct measures of need.
 
 US regions with compounded perinatal mental health risk factors may be in greater need of high-quality, person-centered perinatal mental health support.
 
 <img src="png/prfs_composite_map.png">
+
+## Database Tables and Scoring Queries
+
+The folder [pgSQL](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv](csv).
+
+Various database clients may be able to run the SQL files listed below, however the mmh-risk-factors database was constructed in PostgreSQL. For best performance PostgreSQL 13 or higher is recommended.
+
+### Installing PostgreSQL
+
+Download PostgreSQL [here](https://www.postgresql.org/download/) and follow the installation instructions for your operating system.  PostgreSQL ships with the psql client interface built-in. The following
+
+### Base Tables
+
+The file [pgSQL/factors-county.sql](pgSQL/factors-county.sql) defines the basic tables for all county level risk factors and loads each table from CSV.
+
+The file [pgSQL/factors-state.sql](pgSQL/factors-county.sql) defines the basic tables for all state level risk factors and loads each table from CSV.
+
+### Summary Tables
+
+The file [pgSQL/prfs-county.sql](pgSQL/prfs-county.sql) defines the summary tables for each county level risk factor.
+
+The file [pgSQL/prfs-state.sql](pgSQL/prfs-state.sql) defines the summary tables for each state level risk factor.
+
+### Scoring
+
+The file [pgSQL/scores.sql](pgSQL/scoring.sql) aggregates all of the factor data and scoring, and the composite score for each county, into one table, and exports to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)
+
+## Perinatal Risk Factor Scores
+
+The data was aggregated in [pgSQL/scores.sql](pgSQL/scoring.sql) and exported to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)\
+The aforementioned file is a table containing each county's FIPS identifier along with the risk factor scores for each of the 22 risk factors, and an aggregate column "PRFS".  Each risk factor includes the factor, the factor score, and the quartile of the factor within the national dataset.
 
 ## Geography
 
@@ -187,7 +219,7 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 3pts; Second-Hi
     "CIPPCTASIAN"   (%) (Asian)
     "CIPPCTBLACK"   (%) (Black)
     "CIPPCTHSP"     (%) (Hispanic)
-    "CIPPCTWH"      (%) (white)  
+    "CIPPCTWH"      (%) (white)
 </pre>
 
 ### Tier II (12 pts max)
@@ -528,26 +560,3 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "FEMPOP"        (#) Females aged 15-44 years
     "FERTRATE"      (#) Births Divided by (#) Females aged 15-44 years
 </pre>
-
-## Database Tables and Queries
-
-The folder [pgSQL](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv](csv).
-
-Various database clients may be able to run the SQL files listed below, however the mmh-risk-factors database was constructed in PostgreSQL, so for best performance we recommend using PostgreSQL 13 or higher.
-
-### Base Tables
-
-The file [pgSQL/factors-county.sql](pgSQL/factors-county.sql) defines the basic tables for all county level risk factors and loads each table from CSV.
-
-The file [pgSQL/factors-state.sql](pgSQL/factors-county.sql) defines the basic tables for all state level risk factors and loads each table from CSV.
-
-The file [pgSQL/prfs-county.sql](pgSQL/prfs-county.sql) defines the summary tables for each county level risk factor.
-
-The file [pgSQL/prfs-state.sql](pgSQL/prfs-state.sql) defines the summary tables for each state level risk factor.
-
-The file [pgSQL/scores.sql](pgSQL/scoring.sql) aggregates all of the factor data and scoring, and the composite score for each county, into one table, and exports to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)
-
-## Perinatal Risk Factor Scores
-
-The data was aggregated in [pgSQL/scores.sql](pgSQL/scoring.sql) and exported to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)\
-The aforementioned file is a table containing each county's FIPS identifier along with the risk factor scores for each of the 22 risk factors, and an aggregate column "PRFS".  Each risk factor includes the factor, the factor score, and the quartile of the factor within the national dataset.

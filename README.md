@@ -9,7 +9,7 @@ The repository is distributed under 'CC BY-SA 4.0'.  Users are free to copy and 
 
 ### Attribution
 
- You must give appropriate credit to The Policy Center for Maternal Mental Health, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+ You must give appropriate credit to The Policy Center for Maternal Mental Health, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the Policy Center endorses you or your use. 
 
 ### ShareAlike
 

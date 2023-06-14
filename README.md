@@ -58,7 +58,7 @@ The Risk Factors Scores for Maternal Mental Health are derived by an algorithm i
 
 - 3 factors which represent direct measures of need.
 
-US regions with compounded perinatal mental health risk factors may be in greater need of high-quality, person-centered maternal mental health support.
+US regions with compounded maternal mental health risk factors may be in greater need of high-quality, person-centered maternal mental health support.
 
 <img src="png/prfs_composite_map.png">
 
@@ -66,16 +66,16 @@ US regions with compounded perinatal mental health risk factors may be in greate
 
 The Policy Center for Maternal Mental Health conducted an extensive
 review of research studies examining the risk factors associated with
-poor perinatal mental health. This review identified 22 factors that: 1)
-have been shown to be associated with a greater risk of perinatal mental
+poor maternal mental health. This review identified 22 factors that: 1)
+have been shown to be associated with a greater risk of maternal mental
 health disorders, **and** 2) are currently measured via population-based
 surveys.
 
-Key research studies supporting each perinatal mental health risk factor
+Key research studies supporting each maternal mental health risk factor
 are linked below. Please note that the risk factors with more supporting
 research are considered "Tier I" or "Tier 2" factors.
 
-***Tier I: Risk factors that have been associated with poor perinatal
+***Tier I: Risk factors that have been associated with poor maternal
 mental health in multiple systematic reviews.***
 
 -   I-1 Intimate Partner Psychological Aggression [^1] [^2] [^3]
@@ -91,7 +91,7 @@ mental health in multiple systematic reviews.***
 -   I-6 Poverty Among Households with Children [^13] [^14]
 
 ***Tier II: Risk factors that have a known association with poor
-perinatal mental health, but with less supporting research.***
+maternal mental health, but with less supporting research.***
 
 -   II-7 Educational Attainment [^15]
 
@@ -106,7 +106,7 @@ perinatal mental health, but with less supporting research.***
 -   II-12 Preterm Birth Rates [^20]
 
 ***Tier III: Environmental stressors and hazards that are well known,
-but for which research substantiating a direct link to poor perinatal
+but for which research substantiating a direct link to poor maternal
 mental health is currently absent.***
 
 -   III-13 Mental Health Provider Rate
@@ -194,7 +194,7 @@ Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIP
 
 
 
-Perinatal health risk factors are divided into three tiers, using a scale which allocates:\
+The maternal mental health health risk factors are divided into three tiers, using a scale which allocates:\
 &emsp;&emsp;up to (3) points per Tier I qualifier,\
 &emsp;&emsp;up to (2) points per Tier II qualifier, and\
 &emsp;&emsp;up to (1) point per Tier III qualifier.\

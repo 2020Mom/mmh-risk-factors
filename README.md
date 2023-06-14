@@ -48,6 +48,7 @@ If you remix, transform, or build upon the material, you must distribute your co
 &emsp;&emsp;&emsp;[Mothers not coping well with raising their child](#21)\
 &emsp;&emsp;&emsp;[Births and birth rates for reproductive age women](#22)
 - [Contributors](#contributors)
+- [References](#references)
 
 ## Overview
 
@@ -129,192 +130,6 @@ mental health is currently absent.***
 -   DMN-21: Mothers Not Coping Well with Raising Child
 
 -   DMN-22: Fertility Rates for Women of Reproductive Age
-
-[^1]: Based on a 2022 systematic review, PMS/PMDD, **violent
-    experiences**, and unintended pregnancy had robust associations with
-    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
-    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
-    depressive symptoms: Umbrella review of current evidence from
-    systematic reviews and meta-analyses of observational studies. The
-    British Journal of Psychiatry, 221(4), 591-602.
-    doi:10.1192/bjp.2021.222
-
-[^2]: A 2020 umbrella review found that the most common risk factors for
-    PPD were high life stress, prenatal depression, lack of social
-    support, **current or past abuse**, and partner dissatisfaction,
-    with the two strongest being prenatal depression and current abuse.
-    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
-    Depression: An Umbrella Review. *Journal of midwifery & women\'s
-    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
-
-[^3]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD:
-    **violence and abuse**, gestational diabetes, cesarean section,
-    depressive history, vitamin D deficiency, postpartum sleep
-    disruption and poor postpartum sleep, lack of social support,
-    preterm and low-birth-weight infants, postpartum anemia, and
-    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
-    factors for postpartum depression: An evidence-based systematic
-    review of systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
-
-[^4]: Based on a 2022 systematic review, PMS/PMDD, **violent
-    experiences**, and unintended pregnancy had robust associations with
-    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
-    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
-    depressive symptoms: Umbrella review of current evidence from
-    systematic reviews and meta-analyses of observational studies. The
-    British Journal of Psychiatry, 221(4), 591-602.
-    doi:10.1192/bjp.2021.222
-
-[^5]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD:
-    **violence and abuse**, gestational diabetes, cesarean section,
-    depressive history, vitamin D deficiency, postpartum sleep
-    disruption and poor postpartum sleep, lack of social support,
-    preterm and low-birth-weight infants, postpartum anemia, and
-    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
-    factors for postpartum depression: An evidence-based systematic
-    review of systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
-
-[^6]: A 2020 umbrella review found that the most common risk factors for
-    PPD were **high life stress, prenatal depression**, lack of social
-    support, current or past abuse, and partner dissatisfaction, with
-    the two strongest being prenatal depression and current abuse.
-    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
-    Depression: An Umbrella Review. *Journal of midwifery & women\'s
-    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
-
-[^7]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD: violence
-    and abuse, gestational diabetes, cesarean section, **depressive
-    history,** vitamin D deficiency, postpartum sleep disruption and
-    poor postpartum sleep, lack of social support, preterm and
-    low-birth-weight infants, postpartum anemia, and negative birth
-    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
-    postpartum depression: An evidence-based systematic review of
-    systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
-
-[^8]: A 2020 umbrella review found that the most common risk factors for
-    PPD were high life stress, prenatal depression**, lack of social
-    support**, current or past abuse, and partner dissatisfaction, with
-    the two strongest being prenatal depression and current abuse.
-    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
-    Depression: An Umbrella Review. *Journal of midwifery & women\'s
-    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
-
-[^9]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD: violence
-    and abuse, gestational diabetes, cesarean section, depressive
-    history, vitamin D deficiency, postpartum sleep disruption and poor
-    postpartum sleep, **lack of social support,** preterm and
-    low-birth-weight infants, postpartum anemia, and negative birth
-    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
-    postpartum depression: An evidence-based systematic review of
-    systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
-
-[^10]: Based on a 2022 systematic review, PMS/PMDD, violent experiences,
-    and **unintended pregnancy** had robust associations with PPD.
-    Gastaldon, C., Solmi, M., Correll, C., Barbui, C., & Schoretsanitis,
-    G. (2022). Risk factors of postpartum depression and depressive
-    symptoms: Umbrella review of current evidence from systematic
-    reviews and meta-analyses of observational studies. The British
-    Journal of Psychiatry, 221(4), 591-602. doi:10.1192/bjp.2021.222
-
-[^11]: 2016 systematic review finding that women with unintended
-    pregnancies are significantly more likely to develop PPD Abajobir,
-    A. A., Maravilla, J. C., Alati, R., & Najman, J. M. (2016). A
-    systematic review and meta-analysis of the association between
-    unintended pregnancy and perinatal depression. *Journal of affective
-    disorders*, *192*, 56--63. https://doi.org/10.1016/j.jad.2015.12.008
-
-[^12]: 2020 systematic review finding that women with unintended
-    pregnancies are significantly more likely to develop PPD: Qiu, X.,
-    Zhang, S., Sun, X., Li, H., & Wang, D. (2020). Unintended pregnancy
-    and postpartum depression: A meta-analysis of cohort and
-    case-control studies. *Journal of psychosomatic research*, *138*,
-    110259. https://doi.org/10.1016/j.jpsychores.2020.110259
-
-[^13]: Based on Goyal 2010, women having four key socioeconomic risk
-    factors (**low-income**, no college education, single mother,
-    unemployed) were 11x more likely than women with no SES risk factors
-    to have a clinically elevated depression score at 3 months
-    postpartum, even after controlling for prenatal depressive symptoms.
-    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
-    increase the risk of prenatal and postpartum depressive symptoms.
-    Women\'s Health Issues. 20(2): 96--104.
-    doi:10.1016/j.whi.2009.11.003*
-
-[^14]: A 2018 systematic review showing that **economic factors and
-    income inequality** are major contributories to PPD prevalence.
-    Hahn-Holbrook, J., Cornwell-Hinrichs, T., & Anaya, I. (2018).
-    Economic and Health Predictors of National Postpartum Depression
-    Prevalence: A Systematic Review, Meta-analysis, and Meta-Regression
-    of 291 Studies from 56 Countries. *Frontiers in psychiatry*, *8*,
-    248. https://doi.org/10.3389/fpsyt.2017.00248
-
-[^15]: Based on Goyal 2010, women having four key socioeconomic risk
-    factors (low-income, **no college education**, single mother,
-    unemployed) were 11x more likely than women with no SES risk factors
-    to have a clinically elevated depression score at 3 months
-    postpartum, even after controlling for prenatal depressive symptoms.
-    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
-    increase the risk of prenatal and postpartum depressive symptoms.
-    Women\'s Health Issues. 20(2): 96--104.
-    doi:10.1016/j.whi.2009.11.003*
-
-[^16]: Based on Goyal 2010, women having four key socioeconomic risk
-    factors (low-income, no college education**, single mother**,
-    unemployed) were 11x more likely than women with no SES risk factors
-    to have a clinically elevated depression score at 3 months
-    postpartum, even after controlling for prenatal depressive symptoms.
-    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
-    increase the risk of prenatal and postpartum depressive symptoms.
-    Women\'s Health Issues. 20(2): 96--104.
-    doi:10.1016/j.whi.2009.11.003*
-
-[^17]: Based on Goyal 2010, women having four key socioeconomic risk
-    factors (low-income, no college education, single mother,
-    **unemployed**) were 11x more likely than women with no SES risk
-    factors to have a clinically elevated depression score at 3 months
-    postpartum, even after controlling for prenatal depressive symptoms.
-    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
-    increase the risk of prenatal and postpartum depressive symptoms.
-    Women\'s Health Issues. 20(2): 96--104.
-    doi:10.1016/j.whi.2009.11.003*
-
-[^18]: 2006 article showing a high rate of depressive symptoms among
-    teen mothers: Schmidt, R. M., Wiemann, C. M., Rickert, V. I., &
-    Smith, E. O. (2006). Moderate to severe depressive symptoms among
-    adolescent mothers followed four years postpartum. *The Journal of
-    adolescent health : official publication of the Society for
-    Adolescent Medicine*, *38*(6), 712--718.
-    https://doi.org/10.1016/j.jadohealth.2005.05.023
-
-[^19]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD: violence
-    and abuse, gestational diabetes, **cesarean section,** depressive
-    history, vitamin D deficiency, postpartum sleep disruption and poor
-    postpartum sleep, lack of social support, preterm and
-    low-birth-weight infants, postpartum anemia, and negative birth
-    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
-    postpartum depression: An evidence-based systematic review of
-    systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
-
-[^20]: A 2020 systematic review of systematic reviews and meta-analyses
-    found the following risk factors to be associated with PPD: violence
-    and abuse, gestational diabetes, cesarean section, depressive
-    history, vitamin D deficiency, postpartum sleep disruption and poor
-    postpartum sleep, lack of social support, **preterm and
-    low-birth-weight infants**, postpartum anemia, and negative birth
-    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
-    postpartum depression: An evidence-based systematic review of
-    systematic reviews and meta-analyses. *Asian journal of
-    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
 
 ## Database Tables and Scoring Queries
 
@@ -853,4 +668,190 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
 
 The Maternal Mental Health Risk Factors index was created by Caitlin Murphy, Rebecca Britt, and Joy Burkhard, with technical guidance provided by Adam Childers.
 
-**References**
+## References ##
+
+[^1]: Based on a 2022 systematic review, PMS/PMDD, **violent
+    experiences**, and unintended pregnancy had robust associations with
+    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
+    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
+    depressive symptoms: Umbrella review of current evidence from
+    systematic reviews and meta-analyses of observational studies. The
+    British Journal of Psychiatry, 221(4), 591-602.
+    doi:10.1192/bjp.2021.222
+
+[^2]: A 2020 umbrella review found that the most common risk factors for
+    PPD were high life stress, prenatal depression, lack of social
+    support, **current or past abuse**, and partner dissatisfaction,
+    with the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^3]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD:
+    **violence and abuse**, gestational diabetes, cesarean section,
+    depressive history, vitamin D deficiency, postpartum sleep
+    disruption and poor postpartum sleep, lack of social support,
+    preterm and low-birth-weight infants, postpartum anemia, and
+    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
+    factors for postpartum depression: An evidence-based systematic
+    review of systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^4]: Based on a 2022 systematic review, PMS/PMDD, **violent
+    experiences**, and unintended pregnancy had robust associations with
+    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
+    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
+    depressive symptoms: Umbrella review of current evidence from
+    systematic reviews and meta-analyses of observational studies. The
+    British Journal of Psychiatry, 221(4), 591-602.
+    doi:10.1192/bjp.2021.222
+
+[^5]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD:
+    **violence and abuse**, gestational diabetes, cesarean section,
+    depressive history, vitamin D deficiency, postpartum sleep
+    disruption and poor postpartum sleep, lack of social support,
+    preterm and low-birth-weight infants, postpartum anemia, and
+    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
+    factors for postpartum depression: An evidence-based systematic
+    review of systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^6]: A 2020 umbrella review found that the most common risk factors for
+    PPD were **high life stress, prenatal depression**, lack of social
+    support, current or past abuse, and partner dissatisfaction, with
+    the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^7]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, **depressive
+    history,** vitamin D deficiency, postpartum sleep disruption and
+    poor postpartum sleep, lack of social support, preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^8]: A 2020 umbrella review found that the most common risk factors for
+    PPD were high life stress, prenatal depression**, lack of social
+    support**, current or past abuse, and partner dissatisfaction, with
+    the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^9]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, **lack of social support,** preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^10]: Based on a 2022 systematic review, PMS/PMDD, violent experiences,
+    and **unintended pregnancy** had robust associations with PPD.
+    Gastaldon, C., Solmi, M., Correll, C., Barbui, C., & Schoretsanitis,
+    G. (2022). Risk factors of postpartum depression and depressive
+    symptoms: Umbrella review of current evidence from systematic
+    reviews and meta-analyses of observational studies. The British
+    Journal of Psychiatry, 221(4), 591-602. doi:10.1192/bjp.2021.222
+
+[^11]: 2016 systematic review finding that women with unintended
+    pregnancies are significantly more likely to develop PPD Abajobir,
+    A. A., Maravilla, J. C., Alati, R., & Najman, J. M. (2016). A
+    systematic review and meta-analysis of the association between
+    unintended pregnancy and perinatal depression. *Journal of affective
+    disorders*, *192*, 56--63. https://doi.org/10.1016/j.jad.2015.12.008
+
+[^12]: 2020 systematic review finding that women with unintended
+    pregnancies are significantly more likely to develop PPD: Qiu, X.,
+    Zhang, S., Sun, X., Li, H., & Wang, D. (2020). Unintended pregnancy
+    and postpartum depression: A meta-analysis of cohort and
+    case-control studies. *Journal of psychosomatic research*, *138*,
+    110259. https://doi.org/10.1016/j.jpsychores.2020.110259
+
+[^13]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (**low-income**, no college education, single mother,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^14]: A 2018 systematic review showing that **economic factors and
+    income inequality** are major contributories to PPD prevalence.
+    Hahn-Holbrook, J., Cornwell-Hinrichs, T., & Anaya, I. (2018).
+    Economic and Health Predictors of National Postpartum Depression
+    Prevalence: A Systematic Review, Meta-analysis, and Meta-Regression
+    of 291 Studies from 56 Countries. *Frontiers in psychiatry*, *8*,
+    248. https://doi.org/10.3389/fpsyt.2017.00248
+
+[^15]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, **no college education**, single mother,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^16]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, no college education**, single mother**,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^17]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, no college education, single mother,
+    **unemployed**) were 11x more likely than women with no SES risk
+    factors to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^18]: 2006 article showing a high rate of depressive symptoms among
+    teen mothers: Schmidt, R. M., Wiemann, C. M., Rickert, V. I., &
+    Smith, E. O. (2006). Moderate to severe depressive symptoms among
+    adolescent mothers followed four years postpartum. *The Journal of
+    adolescent health : official publication of the Society for
+    Adolescent Medicine*, *38*(6), 712--718.
+    https://doi.org/10.1016/j.jadohealth.2005.05.023
+
+[^19]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, **cesarean section,** depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, lack of social support, preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^20]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, lack of social support, **preterm and
+    low-birth-weight infants**, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353

@@ -130,8 +130,6 @@ mental health is currently absent.***
 
 -   DMN-22: Fertility Rates for Women of Reproductive Age
 
-**References**
-
 [^1]: Based on a 2022 systematic review, PMS/PMDD, **violent
     experiences**, and unintended pregnancy had robust associations with
     PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
@@ -854,3 +852,5 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
 ## Contributors
 
 The Maternal Mental Health Risk Factors index was created by Caitlin Murphy, Rebecca Britt, and Joy Burkhard, with technical guidance provided by Adam Childers.
+
+**References**

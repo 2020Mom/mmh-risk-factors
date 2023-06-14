@@ -1,10 +1,24 @@
 
 # Maternal Mental Health Risk Factors
 
+## About this repository
+
+The Policy Center for Maternal Mental Health invites members of the public to clone this repository and construct the database on a local machine, and to use the data for strategic planning, fund-raising, policy implementation, or to increase public awareness.
+
+The repository is distributed under 'CC BY-SA 4.0'.  Users are free to copy and redistribute the material in any medium or format, to remix, transform, and build upon the material for any purpose, even commercially, subject to the following terms:
+
+### Attribution
+
+ You must give appropriate credit to The Policy Center for Maternal Mental Health, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
+
+### ShareAlike
+
+If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
+
 ## Contents
 - [Overview](#overview)
-- [Database Tables and Queries](#database-tables-and-queries)
-- [Perinatal Risk Factor Scores](#perinatal-risk-factor-scores)
+- [Supporting Research](#supporting-research)
+- [Database Tables and Scoring Queries](#database-tables-and-queries)
 - [Geography](#geography)
 - [Risk Factors](#risk-factors)\
 &emsp;- [Tier I (18 pts max)](#tier-i-18-pts-max)\
@@ -33,49 +47,323 @@
 &emsp;&emsp;&emsp;[Poor mental health among mothers](#20)\
 &emsp;&emsp;&emsp;[Mothers not coping well with raising their child](#21)\
 &emsp;&emsp;&emsp;[Births and birth rates for reproductive age women](#22)
+- [Contributors](#contributors)
 
 ## Overview
 
-Risk Factors Scores for Perinatal Mental Health are derived by an algorithm incorporating:
+Risk Factors Scores for Maternal Mental Health are derived by an algorithm incorporating:
 
 - 19 factors that are shown to be associated with a greater risk of perinatal mental health disorders, and
 
 - 3 factors which represent direct measures of need.
 
-US regions with compounded perinatal mental health risk factors may be in greater need of high-quality, person-centered perinatal mental health support.
+US regions with compounded perinatal mental health risk factors may be in greater need of high-quality, person-centered maternal mental health support.
 
 <img src="png/prfs_composite_map.png">
 
+## Supporting Research
+
+The Policy Center for Maternal Mental Health conducted an extensive
+review of research studies examining the risk factors associated with
+poor perinatal mental health. This review identified 22 factors that: 1)
+have been shown to be associated with a greater risk of perinatal mental
+health disorders, **and** 2) are currently measured via population-based
+surveys.
+
+Key research studies supporting each perinatal mental health risk factor
+are linked below. Please note that the risk factors with more supporting
+research are considered "Tier I" or "Tier 2" factors.
+
+***Tier I: Risk factors that have been associated with poor perinatal
+mental health in multiple systematic reviews.***
+
+-   I-1 Intimate Partner Psychological Aggression [^1] [^2] [^3]
+
+-   I-2 Violent Crime Rate [^4] [^5]
+
+-   I-3 Poor Prenatal Mental Health [^6] [^7]
+
+-   I-4 Mother Lacks Emotional Support [^8] [^9]
+
+-   I-5 Unintended Pregnancy [^10] [^11] [^12]
+
+-   I-6 Poverty Among Households with Children [^13] [^14]
+
+***Tier II: Risk factors that have a known association with poor
+perinatal mental health, but with less supporting research.***
+
+-   II-7 Educational Attainment [^15]
+
+-   II-8 Single Mother [^16]
+
+-   II-9 Household with at Least One Unemployed Parent [^17]
+
+-   II-10 Teen Births [^18]
+
+-   II-11 C-Section Rates [^19]
+
+-   II-12 Preterm Birth Rates [^20]
+
+***Tier III: Environmental stressors and hazards that are well known,
+but for which research substantiating a direct link to poor perinatal
+mental health is currently absent.***
+
+-   III-13 Mental Health Provider Rate
+
+-   III-14 Income Inequality
+
+-   III-15 % Women of Reproductive Age who are White
+
+-   III-16 % Women of Reproductive Age who are Hispanic
+
+-   III-17 Lack of Insurance Coverage
+
+-   III-18 Severe Housing Problems
+
+-   III-19 Food Insecurity
+
+***Director Measures of Maternal Mental Healthcare:***
+
+-   DMN-20: Poor Mental Health Among Mothers
+
+-   DMN-21: Mothers Not Coping Well with Raising Child
+
+-   DMN-22: Fertility Rates for Women of Reproductive Age
+
+**References**
+
+[^1]: Based on a 2022 systematic review, PMS/PMDD, **violent
+    experiences**, and unintended pregnancy had robust associations with
+    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
+    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
+    depressive symptoms: Umbrella review of current evidence from
+    systematic reviews and meta-analyses of observational studies. The
+    British Journal of Psychiatry, 221(4), 591-602.
+    doi:10.1192/bjp.2021.222
+
+[^2]: A 2020 umbrella review found that the most common risk factors for
+    PPD were high life stress, prenatal depression, lack of social
+    support, **current or past abuse**, and partner dissatisfaction,
+    with the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^3]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD:
+    **violence and abuse**, gestational diabetes, cesarean section,
+    depressive history, vitamin D deficiency, postpartum sleep
+    disruption and poor postpartum sleep, lack of social support,
+    preterm and low-birth-weight infants, postpartum anemia, and
+    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
+    factors for postpartum depression: An evidence-based systematic
+    review of systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^4]: Based on a 2022 systematic review, PMS/PMDD, **violent
+    experiences**, and unintended pregnancy had robust associations with
+    PPD. Gastaldon, C., Solmi, M., Correll, C., Barbui, C., &
+    Schoretsanitis, G. (2022). Risk factors of postpartum depression and
+    depressive symptoms: Umbrella review of current evidence from
+    systematic reviews and meta-analyses of observational studies. The
+    British Journal of Psychiatry, 221(4), 591-602.
+    doi:10.1192/bjp.2021.222
+
+[^5]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD:
+    **violence and abuse**, gestational diabetes, cesarean section,
+    depressive history, vitamin D deficiency, postpartum sleep
+    disruption and poor postpartum sleep, lack of social support,
+    preterm and low-birth-weight infants, postpartum anemia, and
+    negative birth experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk
+    factors for postpartum depression: An evidence-based systematic
+    review of systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^6]: A 2020 umbrella review found that the most common risk factors for
+    PPD were **high life stress, prenatal depression**, lack of social
+    support, current or past abuse, and partner dissatisfaction, with
+    the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^7]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, **depressive
+    history,** vitamin D deficiency, postpartum sleep disruption and
+    poor postpartum sleep, lack of social support, preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^8]: A 2020 umbrella review found that the most common risk factors for
+    PPD were high life stress, prenatal depression**, lack of social
+    support**, current or past abuse, and partner dissatisfaction, with
+    the two strongest being prenatal depression and current abuse.
+    Hutchens, B. F., & Kearney, J. (2020). Risk Factors for Postpartum
+    Depression: An Umbrella Review. *Journal of midwifery & women\'s
+    health*, *65*(1), 96--108. https://doi.org/10.1111/jmwh.13067
+
+[^9]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, **lack of social support,** preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^10]: Based on a 2022 systematic review, PMS/PMDD, violent experiences,
+    and **unintended pregnancy** had robust associations with PPD.
+    Gastaldon, C., Solmi, M., Correll, C., Barbui, C., & Schoretsanitis,
+    G. (2022). Risk factors of postpartum depression and depressive
+    symptoms: Umbrella review of current evidence from systematic
+    reviews and meta-analyses of observational studies. The British
+    Journal of Psychiatry, 221(4), 591-602. doi:10.1192/bjp.2021.222
+
+[^11]: 2016 systematic review finding that women with unintended
+    pregnancies are significantly more likely to develop PPD Abajobir,
+    A. A., Maravilla, J. C., Alati, R., & Najman, J. M. (2016). A
+    systematic review and meta-analysis of the association between
+    unintended pregnancy and perinatal depression. *Journal of affective
+    disorders*, *192*, 56--63. https://doi.org/10.1016/j.jad.2015.12.008
+
+[^12]: 2020 systematic review finding that women with unintended
+    pregnancies are significantly more likely to develop PPD: Qiu, X.,
+    Zhang, S., Sun, X., Li, H., & Wang, D. (2020). Unintended pregnancy
+    and postpartum depression: A meta-analysis of cohort and
+    case-control studies. *Journal of psychosomatic research*, *138*,
+    110259. https://doi.org/10.1016/j.jpsychores.2020.110259
+
+[^13]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (**low-income**, no college education, single mother,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^14]: A 2018 systematic review showing that **economic factors and
+    income inequality** are major contributories to PPD prevalence.
+    Hahn-Holbrook, J., Cornwell-Hinrichs, T., & Anaya, I. (2018).
+    Economic and Health Predictors of National Postpartum Depression
+    Prevalence: A Systematic Review, Meta-analysis, and Meta-Regression
+    of 291 Studies from 56 Countries. *Frontiers in psychiatry*, *8*,
+    248. https://doi.org/10.3389/fpsyt.2017.00248
+
+[^15]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, **no college education**, single mother,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^16]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, no college education**, single mother**,
+    unemployed) were 11x more likely than women with no SES risk factors
+    to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^17]: Based on Goyal 2010, women having four key socioeconomic risk
+    factors (low-income, no college education, single mother,
+    **unemployed**) were 11x more likely than women with no SES risk
+    factors to have a clinically elevated depression score at 3 months
+    postpartum, even after controlling for prenatal depressive symptoms.
+    *(Goyal, Gay, Lee. (2010). How much does socioeconomic status
+    increase the risk of prenatal and postpartum depressive symptoms.
+    Women\'s Health Issues. 20(2): 96--104.
+    doi:10.1016/j.whi.2009.11.003*
+
+[^18]: 2006 article showing a high rate of depressive symptoms among
+    teen mothers: Schmidt, R. M., Wiemann, C. M., Rickert, V. I., &
+    Smith, E. O. (2006). Moderate to severe depressive symptoms among
+    adolescent mothers followed four years postpartum. *The Journal of
+    adolescent health : official publication of the Society for
+    Adolescent Medicine*, *38*(6), 712--718.
+    https://doi.org/10.1016/j.jadohealth.2005.05.023
+
+[^19]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, **cesarean section,** depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, lack of social support, preterm and
+    low-birth-weight infants, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^20]: A 2020 systematic review of systematic reviews and meta-analyses
+    found the following risk factors to be associated with PPD: violence
+    and abuse, gestational diabetes, cesarean section, depressive
+    history, vitamin D deficiency, postpartum sleep disruption and poor
+    postpartum sleep, lack of social support, **preterm and
+    low-birth-weight infants**, postpartum anemia, and negative birth
+    experiences. Zhao, X. H., & Zhang, Z. H. (2020). Risk factors for
+    postpartum depression: An evidence-based systematic review of
+    systematic reviews and meta-analyses. *Asian journal of
+    psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
 ## Database Tables and Scoring Queries
 
-The folder [pgSQL](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv](csv).
+The folder [pgSQL/](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv/](csv).
 
-Various database clients may be able to run the SQL files listed below, however the mmh-risk-factors database was constructed in PostgreSQL. For best performance PostgreSQL 13 or higher is recommended.
+Various database clients may be able to run the SQL files located in [pgSQL/](pgSQL), however the mmh-risk-factors database was constructed with PostgreSQL. For best performance PostgreSQL 13 or higher is recommended.
 
 ### Installing PostgreSQL
 
-Download PostgreSQL [here](https://www.postgresql.org/download/) and follow the installation instructions for your operating system.  PostgreSQL ships with the psql client interface built-in. The following
+Download PostgreSQL [here](https://www.postgresql.org/download/) and follow the installation instructions for your operating system.  PostgreSQL ships with the psql client interface built-in.
 
 ### Base Tables
 
-The file [pgSQL/factors-county.sql](pgSQL/factors-county.sql) defines the basic tables for all county level risk factors and loads each table from CSV.
+The file [pgSQL/base-tables.sql](pgSQL/base-tables.sql) defines the primary tables for all county level risk factors and loads each table from CSV. All data definitions can be found in the [Risk Factors](#risk-factors) section below.  To run the file and produce the primary tables, <code>cd</code> to the root directory [mmh-risk-factors/](/mmh-risk-factors/) and open the psql client, then run the file:
 
-The file [pgSQL/factors-state.sql](pgSQL/factors-county.sql) defines the basic tables for all state level risk factors and loads each table from CSV.
+<code>
+$ psql -U -p username -d dbname
+<br><br>
+$ \i pgSQL/base-tables.sql
+<br><br>
+</code>
 
 ### Summary Tables
 
-The file [pgSQL/prfs-county.sql](pgSQL/prfs-county.sql) defines the summary tables for each county level risk factor.
+The file [pgSQL/prfs-summaries.sql](pgSQL/prfs-summaries.sql) defines the summary tables for each county level risk factor, consisting of the raw data along with the score allocation, and a determination of the quartile ranking of the county score within the national dataset.
 
-The file [pgSQL/prfs-state.sql](pgSQL/prfs-state.sql) defines the summary tables for each state level risk factor.
+To answer questions about particular risk factors, use the summary tables; for example:
+
+<code>
+$ select * from i_2_prfs limit 5;
+<br><br>
+ FIPS  |  STATE  | COUNTY  | AAVC | VCR | QRT1 | QRT2 | QRT3 | QRT4 | I_2 | QRT
+-------+---------+---------+------+-----+------+------+------+------+-----+-----
+ 01001 | Alabama | Autauga |  149 | 272 |  118 |  205 |  335 | 1820 |   2 |   3
+ 01003 | Alabama | Baldwin |  408 | 204 |  118 |  205 |  335 | 1820 |   0 |   2
+ 01005 | Alabama | Barbour |  106 | 414 |  118 |  205 |  335 | 1820 |   3 |   4
+ 01007 | Alabama | Bibb    |   20 |  89 |  118 |  205 |  335 | 1820 |   0 |   1
+ 01009 | Alabama | Blount  |  279 | 483 |  118 |  205 |  335 | 1820 |   3 |   4
+(5 rows)
+<br><br>
+</code>
+
+Data definitions are available in the section [Risk Factors](#risk-factors) below.
 
 ### Scoring
 
-The file [pgSQL/scores.sql](pgSQL/scoring.sql) aggregates all of the factor data and scoring, and the composite score for each county, into one table, and exports to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)
-
-## Perinatal Risk Factor Scores
-
-The data was aggregated in [pgSQL/scores.sql](pgSQL/scoring.sql) and exported to CSV at [csv/prfs_counties.csv](csv/prfs_counties.csv)\
-The aforementioned file is a table containing each county's FIPS identifier along with the risk factor scores for each of the 22 risk factors, and an aggregate column "PRFS".  Each risk factor includes the factor, the factor score, and the quartile of the factor within the national dataset.
+All of the factor data and scoring are consolidated in the file [pgSQL/prfs-scores.sql](pgSQL/prfs-scores.sql), which exports the final table to CSV at [csv/prfs_scores.csv](csv/prfs_counties.csv)
 
 ## Geography
 
@@ -90,6 +378,8 @@ Data from the CDC on Cesarean section deliveries includes Wade Hampton census ar
 Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIPS:02270), which in 2015 was renamed Oglala County (SD FIPS:02158); the data was adjusted accordingly.
 
 ## Risk Factors
+
+
 
 Perinatal health risk factors are divided into three tiers, using a scale which allocates:\
 &emsp;&emsp;up to (3) points per Tier I qualifier,\
@@ -560,3 +850,7 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "FEMPOP"        (#) Females aged 15-44 years
     "FERTRATE"      (#) Births Divided by (#) Females aged 15-44 years
 </pre>
+
+## Contributors
+
+The Maternal Mental Health Risk Factors index was created by Caitlin Murphy, Rebecca Britt, and Joy Burkhard, with technical guidance provided by Adam Childers.

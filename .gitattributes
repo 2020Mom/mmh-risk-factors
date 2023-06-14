@@ -1,7 +1,0 @@
-* text=auto eol=lf
-*.{cmd,[cC][mM][dD]} text eol=crlf
-*.{bat,[bB][aA][tT]} text eol=crlf
-
-*.vue linguist-language=JavaScript
-*.html linguist-detectable=false
-*.sql linguist-language=PLpgSQL

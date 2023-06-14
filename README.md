@@ -135,7 +135,7 @@ mental health is currently absent.***
 
 The folder [pgSQL/](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv/](csv).
 
-Various database clients may be able to run the SQL files located in [pgSQL/](pgSQL), however the mmh-risk-factors database was constructed with PostgreSQL. For best performance PostgreSQL 13 or higher is recommended.
+Various database clients may be able to run the SQL files located in [pgSQL/](pgSQL), however the mmh-risk-factors database was constructed with PostgreSQL. For best performance, PostgreSQL 13 or higher is recommended.
 
 ### Installing PostgreSQL
 
@@ -146,7 +146,7 @@ Download PostgreSQL [here](https://www.postgresql.org/download/) and follow the 
 The file [pgSQL/base-tables.sql](pgSQL/base-tables.sql) defines the primary tables for all county level risk factors and loads each table from CSV. All data definitions can be found in the [Risk Factors](#risk-factors) section below.  To run the file and produce the primary tables, <code>cd</code> to the root directory [mmh-risk-factors/](/mmh-risk-factors/) and open the psql client, then run the file:
 
 <code>
-$ psql -U -p username -d dbname
+$ psql -U username -d dbname
 <br><br>
 $ \i pgSQL/base-tables.sql
 <br><br>

@@ -52,7 +52,7 @@ If you remix, transform, or build upon the material, you must distribute your co
 
 ## Overview
 
-Risk Factors Scores for Maternal Mental Health are derived by an algorithm incorporating:
+The Risk Factors Scores for Maternal Mental Health are derived by an algorithm incorporating:
 
 - 19 factors that are shown to be associated with a greater risk of perinatal mental health disorders, and
 

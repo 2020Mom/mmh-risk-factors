@@ -1,5 +1,6 @@
 
-# Maternal Mental Health Risk Factors
+
+# <img style="height:1em" src="png/Policy%20Center%20ICON%20logo-RGB.svg"> Maternal Mental Health Risk Factors
 
 ## About this repository
 

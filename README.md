@@ -150,22 +150,18 @@ Download PostgreSQL [here](https://www.postgresql.org/download/) and follow the 
 
 The file [pgSQL/base-tables.sql](pgSQL/base-tables.sql) defines the primary tables for all county level risk factors and loads each table from CSV. All data definitions can be found in the [Risk Factors](#risk-factors) section below.  To run the file and produce the primary tables, <code>cd</code> to the root directory [mmh-risk-factors/](/mmh-risk-factors/) and open the psql client, then run the file:
 
-<code>
+<pre>
 $ psql -U username -d dbname
-<br><br>
 $ \i pgSQL/risk-factors.sql
-<br><br>
-</code>
+</pre>
 
 ### Summary Tables
 
 The file [pgSQL/prfs-summaries.sql](pgSQL/prfs-summaries.sql) defines the summary tables for each county level risk factor, consisting of the raw data along with the score allocation, and a determination of the quartile ranking of the county score within the national dataset.
 
 To answer questions about particular risk factors, use the summary tables; for example:
-
-<code>
+<pre>
 $ select * from i_2_prfs limit 5;
-<br><br>
  FIPS  |  STATE  | COUNTY  | AAVC | VCR | QRT1 | QRT2 | QRT3 | QRT4 | I_2 | QRT
 -------+---------+---------+------+-----+------+------+------+------+-----+-----
  01001 | Alabama | Autauga |  149 | 272 |  118 |  205 |  335 | 1820 |   2 |   3
@@ -174,9 +170,7 @@ $ select * from i_2_prfs limit 5;
  01007 | Alabama | Bibb    |   20 |  89 |  118 |  205 |  335 | 1820 |   0 |   1
  01009 | Alabama | Blount  |  279 | 483 |  118 |  205 |  335 | 1820 |   3 |   4
 (5 rows)
-<br><br>
-</code>
-
+</pre>
 Data definitions are available in the section [Risk Factors](#risk-factors) below.
 
 ### Scoring
@@ -199,9 +193,9 @@ The total numbers  of 'Providers' and 'Prescribers' are aggregated at county and
 
 The SQL tables corresponding to the CSV's above are defined in [pgSQL/care-coverage.sql](pgSQL/care-coverage.sql) and can be loaded via psql as follows:
 
-<code>$ psql -U username -d dbname</code>
+<pre>$ psql -U username -d dbname</pre>
 
-<code>$ \i pgSQL/care-coverage.sql</code>
+<pre>$ \i pgSQL/care-coverage.sql</pre>
 
 ## Care Coverage Summary CSV
 
@@ -250,14 +244,14 @@ The 2021 ACS 5-year data was accessed via the U.S. Census Bureau API, using a pr
 
 For example, in Nevada County (CA), we estimate an annual birthrate of approximately 939, based on an estimated reproductive-aged female population of 15,089 and the applicable fertility rate (62.25), expressed in births per thousand population.
 
-<code>
+<pre>
 $ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST" from care_coverage where "COUNTY"='Nevada County' AND "STATE"='California';
 
  FIPS  |    COUNTY     |   STATE    | RPRAFEM | FERTRATE | BIRTHS_EST
 -------+---------------+------------+---------+----------+------------
  06057 | Nevada County | California |   15089 |    62.25 |        939
 (1 row)
-</code>
+</pre>
 
 ### Required Number of Providers
 
@@ -271,14 +265,14 @@ The difference between the actual present number of providers and the required n
 
 In Nevada County (CA), 939 estimated births requires approximately 5 certified MMH providers; the actual total of 3 providers leaves a Provider Shortage Gap of 2.
 
-<code>
+<pre>
 $ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST","PROVIDERS","REQPROV","GAP" from care_coverage where "COUNTY"='Nevada County' AND "STATE"='California';
 
  FIPS  |    COUNTY     |   STATE    | RPRAFEM | FERTRATE | BIRTHS_EST | PROVIDERS | REQPROV | GAP
 -------+---------------+------------+---------+----------+------------+-----------+---------+-----
  06057 | Nevada County | California |   15089 |    62.25 |        939 |         3 |       5 |   2
 (1 row)
-</code>
+</pre>
 
 ## Geography
 

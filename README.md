@@ -19,6 +19,11 @@ If you remix, transform, or build upon the material, you must distribute your co
 - [Overview](#overview)
 - [Supporting Research](#supporting-research)
 - [Database Tables and Scoring Queries](#database-tables-and-queries)
+- [Care Coverage](#care-coverage)\
+&emsp;- [The Provider Shortage Gap](#the-provider-shortage-gap)\
+&emsp;&emsp;&emsp;[Estimated Number of Births](#estimated-number-of-births)\
+&emsp;&emsp;&emsp;[Required Number of Providers](#required-number-of-providers)\
+&emsp;&emsp;&emsp;[The Gap](#the-gap)
 - [Geography](#geography)
 - [Risk Factors](#risk-factors)\
 &emsp;- [Tier I (18 pts max)](#tier-i-18-pts-max)\
@@ -78,58 +83,58 @@ research are considered "Tier I" or "Tier 2" factors.
 ***Tier I: Risk factors that have been associated with poor maternal
 mental health in multiple systematic reviews.***
 
--   I-1 Intimate Partner Psychological Aggression [^1] [^2] [^3]
+-   [I-1](#1) Intimate Partner Psychological Aggression [^1] [^2] [^3]
 
--   I-2 Violent Crime Rate [^4] [^5]
+-   [I-2](#2) Violent Crime Rate [^4] [^5]
 
--   I-3 Poor Prenatal Mental Health [^6] [^7]
+-   [I-3](#3) Poor Prenatal Mental Health [^6] [^7]
 
--   I-4 Mother Lacks Emotional Support [^8] [^9]
+-   [I-4](#4) Mother Lacks Emotional Support [^8] [^9]
 
--   I-5 Unintended Pregnancy [^10] [^11] [^12]
+-   [I-5](#5) Unintended Pregnancy [^10] [^11] [^12]
 
--   I-6 Poverty Among Households with Children [^13] [^14]
+-   [I-6](#6) Poverty Among Households with Children [^13] [^14]
 
 ***Tier II: Risk factors that have a known association with poor
 maternal mental health, but with less supporting research.***
 
--   II-7 Educational Attainment [^15]
+-   [II-7](#7) Educational Attainment [^15]
 
--   II-8 Single Mother [^16]
+-   [II-8](#8) Single Mother [^16]
 
--   II-9 Household with at Least One Unemployed Parent [^17]
+-   [II-9](#9) Household with at Least One Unemployed Parent [^17]
 
--   II-10 Teen Births [^18]
+-   [II-10](#10) Teen Births [^18]
 
--   II-11 C-Section Rates [^19]
+-   [II-11](#11) C-Section Rates [^19]
 
--   II-12 Preterm Birth Rates [^20]
+-   [II-12](#12) Preterm Birth Rates [^20]
 
 ***Tier III: Environmental stressors and hazards that are well known,
 but for which research substantiating a direct link to poor maternal
 mental health is currently absent.***
 
--   III-13 Mental Health Provider Rate
+-   [III-13](#13) Mental Health Provider Rate
 
--   III-14 Income Inequality
+-   [III-14](#14) Income Inequality
 
--   III-15 % Women of Reproductive Age who are White
+-   [III-15](#15) % Women of Reproductive Age who are White
 
--   III-16 % Women of Reproductive Age who are Hispanic
+-   [III-16](#16) % Women of Reproductive Age who are Hispanic
 
--   III-17 Lack of Insurance Coverage
+-   [III-17](#17) Lack of Insurance Coverage
 
--   III-18 Severe Housing Problems
+-   [III-18](#18) Severe Housing Problems
 
--   III-19 Food Insecurity
+-   [III-19](#19) Food Insecurity
 
 ***Director Measures of Maternal Mental Healthcare:***
 
--   DMN-20: Poor Mental Health Among Mothers
+-   [DMN-20](#20) Poor Mental Health Among Mothers
 
--   DMN-21: Mothers Not Coping Well with Raising Child
+-   [DMN-21](#21) Mothers Not Coping Well with Raising Child
 
--   DMN-22: Fertility Rates for Women of Reproductive Age
+-   [DMN-22](#22) Fertility Rates for Women of Reproductive Age
 
 ## Database Tables and Scoring Queries
 
@@ -148,7 +153,7 @@ The file [pgSQL/base-tables.sql](pgSQL/base-tables.sql) defines the primary tabl
 <code>
 $ psql -U username -d dbname
 <br><br>
-$ \i pgSQL/base-tables.sql
+$ \i pgSQL/risk-factors.sql
 <br><br>
 </code>
 
@@ -178,9 +183,106 @@ Data definitions are available in the section [Risk Factors](#risk-factors) belo
 
 All of the factor data and scoring are consolidated in the file [pgSQL/prfs-scores.sql](pgSQL/prfs-scores.sql), which exports the final table to CSV at [csv/prfs_scores.csv](csv/prfs_counties.csv)
 
+# Care Coverage
+
+The Policy Center for Maternal Mental Healthcare has developed a private database of Certified Perinatal Mental Healthcare Providers and Reproductive Psychiatrists engaged in maternal mental healthcare.
+
+The total numbers  of 'Providers' and 'Prescribers' are aggregated at county and states levels in the following CSV's:
+
+[csv/pmh_provider_counties.csv](csv/pmh_provider_counties.csv)
+
+[csv/pmh_provider_states.csv](csv/pmh_provider_states.csv)
+
+[csv/reprx_psych_states.csv](csv/reprx_psych_states.csv)
+
+[csv/reprx_psych_counties.csv](csv/reprx_psych_counties.csv)
+
+The SQL tables corresponding to the CSV's above are defined in [pgSQL/care-coverage.sql](pgSQL/care-coverage.sql) and can be loaded via psql as follows:
+
+<code>$ psql -U username -d dbname</code>
+
+<code>$ \i pgSQL/care-coverage.sql</code>
+
+## Care Coverage Summary CSV
+
+The [care-coverage.sql](care-coverage.sql) file produces a summary table: 
+
+Table:&emsp;&emsp;&emsp;&emsp;<a name="1"/>[care_coverage](csv/care-coverage.csv)\
+Source:&emsp;&emsp;&emsp;&nbsp;(2021) ACS 5-year Population Estimates;\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;(2021) Centers for Disease Control and Prevention (CDC), National Center for Health\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Statistics, State Reports 2010-2012\
+Description:&emsp;&nbsp;Summary of Fertility and MMH Provider Coverage
+
+<pre>
+    "FIPS"          Federal Information Processing System Code
+    "COUNTY"        Name of County
+    "STATE"         Name of state
+    "STABRV"        State Abreviation
+    "PROVIDERS"     (#) Certified PMH Providers
+    "PRESCRIBERS"   (#) Licensed Prescribers
+    "TOTPOP"        Population, total
+    "FEMPOP"        Female Population, total
+    "RPRAFEM"       (#) Female aged 15-44 years
+    "FERTRATE"      Applicable Fertility Rate
+    "BIRTHS_EST"    Estimate of Annual Births
+    "RATIO"         (#) Certified PMH Providers per 1k Annual Births
+    "REQPROV"       (#) Required Certified PMH Providers
+    "COVERAGE"      (%) "PROVIDERS" / "REQPROV"
+    "GAP"           (#) "REQPROV" - "PROVIDERS"
+</pre>
+
+## The Provider Shortage Gap
+
+The Centers for Disease Control and Prevention National Center for Health Statistics estimates that over 3.6 million[^21] births took place in the U.S. in 2022. The Policy Center sought to develop a benchmark ratio consisting of the number of MMH providers divided by the number of births.  The goal is to have enough providers in each county so that the aggregate number of required treatment hours for all potential patients is satisfied.
+
+The Policy Center makes a few simple assumptions in deriving the required number of providers in each county and state, based on the birth rate.
+    <ul>
+        <li>20% of birthing persons will require maternal mental healthcare treatment.</li>
+        <li>Birthing persons in need of maternal mental healthcare will require, on average, 30 hours of treatment.</li>
+        <li>A typical MMH provider is able to provide approximately 1200 total treatment hours annually.</li>
+    </ul>
+
+### Estimated Number of Births
+
+The number of births per county is estimated by applying the 2021 CDC estimated fertility rate (see: [DMN_22](#22)) to the 2021 American Community Survey 5-year estimates of the reproductive age female population.  For counties with less than 100,000 total population, the fertility rate for 'Unidentified Counties' in each county's state is applied.
+
+The 2021 ACS 5-year data was accessed via the U.S. Census Bureau API, using a private key.  The dataset can be downloaded via the shell script [census-api.sh](census-api.sh) and saved in [JSON](/mmh-risk-factors/json/rpr_age_fem_pop.json) and [CSV](/mmh-risk-factors/csv/rpr_age_fem_pop.csv) formats. NOTE: The Census Bureau API requires users to use a personal authentication key. [Request A Key](https://api.census.gov/data/key_signup.html)
+
+For example, in Nevada County (CA), we estimate an annual birthrate of approximately 939, based on an estimated reproductive-aged female population of 15,089 and the applicable fertility rate (62.25), expressed in births per thousand population.
+
+<code>
+$ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST" from care_coverage where "COUNTY"='Nevada County' AND "STATE"='California';
+
+ FIPS  |    COUNTY     |   STATE    | RPRAFEM | FERTRATE | BIRTHS_EST
+-------+---------------+------------+---------+----------+------------
+ 06057 | Nevada County | California |   15089 |    62.25 |        939
+(1 row)
+</code>
+
+### Required Number of Providers
+
+The required number of MMH providers per county depends on the estimated birth rate.  Given the assumptions we made above about the level of care required and the percentage of perinatal cases in need of care, we can impute the required number of providers by the following formulaOk:
+
+"REQPROV" = "BIRTHS_EST" x 20% x 30 / 1200
+
+### The Gap
+
+The difference between the actual present number of providers and the required number of providers results in the 'gap', or the Provider Shortage Gap.
+
+In Nevada County (CA), 939 estimated births requires approximately 5 certified MMH providers; the actual total of 3 providers leaves a Provider Shortage Gap of 2.
+
+<code>
+$ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST","PROVIDERS","REQPROV","GAP" from care_coverage where "COUNTY"='Nevada County' AND "STATE"='California';
+
+ FIPS  |    COUNTY     |   STATE    | RPRAFEM | FERTRATE | BIRTHS_EST | PROVIDERS | REQPROV | GAP
+-------+---------------+------------+---------+----------+------------+-----------+---------+-----
+ 06057 | Nevada County | California |   15089 |    62.25 |        939 |         3 |       5 |   2
+(1 row)
+</code>
+
 ## Geography
 
-The study area consists of 3143 second level political divisions, including every county, parish, borough, and county-equivalent municipality within the 51 first level divisions which comprise the 50 states and the federal district.
+The study area consists of 3,143 second level political divisions, including every county, parish, borough, and county-equivalent municipality within the 51 first level divisions which comprise the 50 states and the federal district.
 
 A large contingent of the data is sourced from the County Health Rankings published by the University of Wisconsin Population Health Institute. The CHR data does not include data for the five populated U.S. territories, therefore those divisions have been omitted from the scoring and analysis.
 
@@ -190,11 +292,9 @@ Data from the CDC on Cesarean section deliveries includes Wade Hampton census ar
 
 Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIPS:02270), which in 2015 was renamed Oglala County (SD FIPS:02158); the data was adjusted accordingly.
 
-## Risk Factors
+# Risk Factors
 
-
-
-The maternal mental health health risk factors are divided into three tiers, using a scale which allocates:\
+The maternal mental health risk factors are divided into three tiers, using a scale which allocates:\
 &emsp;&emsp;up to (3) points per Tier I qualifier,\
 &emsp;&emsp;up to (2) points per Tier II qualifier, and\
 &emsp;&emsp;up to (1) point per Tier III qualifier.\
@@ -312,8 +412,6 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 3pts; Second-Hi
     "FIPS"          Federal Information Processing System Code
     "STATE"         Name of State
     "COUNTY"        Name of County
-
-    ***Children in Poverty***
     "CIPPCT"        (%) (all children)
     "CIP95CILB"     Lower Bound, 95% C.I. (all children)
     "CIP95CIUB"     Upper Bound, 95% C.I. (all children)
@@ -648,8 +746,8 @@ Factor:&emsp;&emsp;&emsp;&emsp;&nbsp;<a name="22"/>[DMN-22](csv/DMN-22.csv)\
 Source:&emsp;&emsp;&emsp;&emsp;(2021) Centers for Disease Control and Prevention (CDC), National Center for Health Statistics\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (NCHS), National Vital Statistics System\
 Description:&emsp;&emsp;Births and birth rates; County Level\
-Key Variable:&emsp;&ensp;&nbsp;(#) Births Divided by (#) Females aged 15-44 years\
-NOTES:&emsp;&emsp;&emsp;&emsp;Dataset included 626 counties w/ population above 100k\
+Key Variable:&emsp;&ensp;&nbsp;(#) Births Divided by (#) Female aged 15-44 years\
+NOTES:&emsp;&emsp;&emsp;&emsp;Dataset includes 576 counties w/ population above 100k; Counties with fewer than 100k are aggregated for each state under the name 'Unidentified Counties'\
 Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Highest Quartile: 1pt
 
 <img src="png/DMN-22_map.png">
@@ -658,10 +756,12 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "STABRV"        State Abreviation
     "FIPS"          Federal Information Processing System Code
     "BIRTHS"        (#) of Births
-    "TOTPOP"        Total Population
+    "TOTPOP"        Population, total
     "BIRTHRATE"     (#) Births Divided by Total Population
-    "FEMPOP"        (#) Females aged 15-44 years
-    "FERTRATE"      (#) Births Divided by (#) Females aged 15-44 years
+    "FEMPOP"        Female Population, total
+    "RPRAFEM"       (#) Female aged 15-44 years
+    "FERTRATE"      (#) Births Divided by (#) Female aged 15-44 years
+    "BIRTHS"        CDC Estimate of Actual Births, 2021
 </pre>
 
 ## Contributors
@@ -855,3 +955,6 @@ The Maternal Mental Health Risk Factors index was created by Caitlin Murphy, Reb
     postpartum depression: An evidence-based systematic review of
     systematic reviews and meta-analyses. *Asian journal of
     psychiatry*, *53*, 102353. https://doi.org/10.1016/j.ajp.2020.102353
+
+[^21]: National Vital Statistics System Rapid Release Quarterly
+    Provisional Estimates. Births: Provisional Data for 2022. https://www.cdc.gov/nchs/data/vsrr/vsrr028.pdf

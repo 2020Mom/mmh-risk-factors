@@ -466,97 +466,25 @@ CREATE TABLE dmn_21 (
 \COPY dmn_21 FROM 'csv/DMN-21.csv' HEADER CSV DELIMITER ',';
 
 -- dmn_22: Fertility Rates for Reproductive Age Women
-DROP TABLE IF EXISTS fertility CASCADE;
-CREATE TABLE fertility (
+DROP TABLE IF EXISTS dmn_22 CASCADE;
+CREATE TABLE dmn_22 (
     "COUNTY" text,
     "STABRV" varchar(2),
     "FIPS" varchar(5),
     "BIRTHS" integer,
     "TOTPOP" integer,
     "BIRTHRATE" numeric,
-    "FEMPOP" integer,
+    "RPRAFEM" integer,
     "FERTRATE" numeric,
     PRIMARY KEY ("FIPS")
 ) WITH (
     OIDS = FALSE
 );
 
-\COPY fertility FROM 'csv/fertility.csv' HEADER CSV DELIMITER ',';
+\COPY dmn_22 FROM 'csv/DMN-22.csv' HEADER CSV DELIMITER ',';
 
-ALTER TABLE fertility ADD COLUMN "STATE" text;
-
-UPDATE fertility
+ALTER TABLE dmn_22 ADD COLUMN "STATE" text;
+UPDATE dmn_22
 SET "STATE" = stabrv."STATE"
 FROM stabrv
-WHERE fertility."STABRV"=stabrv."STABRV";
-
-DROP TABLE IF EXISTS rpragefem CASCADE;
-CREATE TABLE rpragefem (
-    "COUNTY" text,
-    "FIPS" varchar(5),
-    "TOTPOP" integer,
-    "FEMPOP" integer,
-    "RPRAFEM" integer,
-    "F15to17" integer,
-    "F18to19" integer,
-    "F20" integer,
-    "F21" integer,
-    "F22to24" integer,
-    "F25to29" integer,
-    "F30to34" integer,
-    "F35to39" integer,
-    "F40to44" integer
-) WITH (
-    OIDS = FALSE
-);
-
-\COPY rpragefem FROM 'csv/rpragefem.csv' HEADER CSV DELIMITER ',';
-
-DROP TABLE IF EXISTS dmn_22 CASCADE;
-CREATE TABLE dmn_22 AS
-SELECT
-    rpragefem."FIPS",
-    fertility."STATE",
-    fertility."COUNTY",
-    fertility."STABRV",
-    rpragefem."TOTPOP",
-    rpragefem."FEMPOP",
-    rpragefem."RPRAFEM",
-    fertility."FERTRATE",
-    fertility."BIRTHS",
-    round(fertility."FERTRATE"*rpragefem."RPRAFEM"/1000) AS "BIRTHS_IMP"
-FROM rpragefem
-INNER JOIN fertility ON rpragefem."FIPS"=fertility."FIPS";
-
-DROP TABLE IF EXISTS uidCounties CASCADE;
-CREATE TABLE uidCounties AS
-SELECT * from fertility WHERE "COUNTY"='Unidentified Counties';
-
-DROP TABLE IF EXISTS rpragefem_uid CASCADE;
-CREATE TABLE rpragefem_uid AS
-SELECT
-    rpragefem.*
-FROM rpragefem
-WHERE "FIPS" NOT IN (SELECT "FIPS" FROM fertility);
-
-DROP TABLE fertility_uid CASCADE;
-CREATE TABLE fertility_uid AS
-SELECT
-    rpragefem_uid."FIPS",
-    counties."STATE_NAME" AS "STATE",
-    counties."NAMELSAD" AS "COUNTY",
-    counties."STUSPS" AS "STABRV",
-    rpragefem_uid."TOTPOP",
-    rpragefem_uid."FEMPOP",
-    rpragefem_uid."RPRAFEM",
-    uidCounties."FERTRATE",
-    round(uidCounties."FERTRATE"*rpragefem_uid."RPRAFEM"/1000) AS "BIRTHS_IMP"
-FROM rpragefem_uid
-LEFT JOIN counties ON rpragefem_uid."FIPS"=counties."GEOID"
-LEFT JOIN uidCounties ON counties."STATE_NAME"=uidCounties."STATE";
-
-INSERT INTO dmn_22 ("FIPS","STATE","COUNTY","STABRV","TOTPOP","FEMPOP","RPRAFEM","FERTRATE","BIRTHS_IMP")
-SELECT * FROM fertility_uid
-WHERE fertility_uid."FERTRATE" IS NOT NULL;
-
-\COPY dmn_22 TO 'csv/DMN-22.csv' HEADER CSV DELIMITER ',';
+WHERE dmn_22."STABRV"=stabrv."STABRV";

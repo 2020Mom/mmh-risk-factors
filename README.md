@@ -312,18 +312,15 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within U.S: 2pts; Second-H
 <img src="png/I-1_map.png">
 <pre>
     "STATE"         Name of state
-
-    "APPCT"         Weighted (%), Victimization
+    "APPCT"         Weighted (%), Victimization - Any Psychological Aggression
     "AP95PCTCILB"   Lower Bound, 95% C.I.
     "AP95PCTCIUB"   Upper Bound, 95% C.I.
     "APESTNV"       Estimated (#) Victims
-
-    "EVPCT"         Weighted (%), Victimization
+    "EVPCT"         Weighted (%), Victimization - Any Expressive Aggression
     "EV95PCTCILB"   Lower Bound, 95% C.I.
     "EV95PCTCIUB"   Upper Bound, 95% C.I.
     "EVESTNV"       Estimated (#) Victims
-
-    "CCPCT"         Weighted (%), Victimization
+    "CCPCT"         Weighted (%), Victimization - Any Coercive Control
     "CC95PCTCILB"   Lower Bound, 95% C.I.
     "CC95PCTCIUB"   Upper Bound, 95% C.I.
     "CCESTNV"       Estimated (#) Victims
@@ -632,15 +629,11 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Above median within US: 1pt
     "FIPS"          Federal Information Processing System Code
     "STATE"         Name of State
     "COUNTY"        Name of County
-
-    ---Uninsured (all)---
     "NUI"           (#) of Uninsured (all)
     "PCTUI"         (%) of Uninsured (all)
     "UI95CILB"      Lower Bound, 95% C.I.
     "UI95CIUB"      Upper Bound, 95% C.I.
     "UIQRT"         County Quartile within State
-
-    ---Uninsured (adults)---
     "NUIAD"         (#) of Uninsured (adults)
     "PCTUIAD"       (%) of Uninsured (adults)
     "UIAD95CILB"    Lower Bound, 95% C.I.
@@ -658,23 +651,15 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Above median within US: 1pt
     "FIPS"          Federal Information Processing System Code
     "STATE"         Name of State
     "COUNTY"        Name of County
-
-    ---Severe Housing Problems---
     "PCTSHP"        (%) with Severe Housing Problems
     "SHP95CILB"     Lower Bound, 95% C.I.
     "SHP95CIUB"     Upper Bound, 95% C.I.
-
-    ---Severe Housing Cost Burden---
     "SHCB"          (%) with Severe Housing Cost Burden
     "SHCB95CILB"    Lower Bound, 95% C.I.
     "SHCB95CIUB"    Upper Bound, 95% C.I.
-
-    ---Overcrowding---
     "PCTOCRWD"      (%) with Overcrowding
     "OCRWD95CILB"   Lower Bound, 95% C.I.
     "OCRWD95CIUB"   Upper Bound, 95% C.I.
-
-    ---Inadequate Facilities---
     "PCTIAF"        (%) with Inadequate Facilities
     "IAF95CILB"     Lower Bound, 95% C.I.
     "IAF95CIUB"     Upper Bound, 95% C.I.

@@ -257,7 +257,7 @@ $ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST" from care_cov
 
 ### Required Number of Providers
 
-The required number of MMH providers per county depends on the estimated birth rate.  Given the assumptions we made above about the level of care required and the percentage of perinatal cases in need of care, we can impute the required number of providers by the following formulaOk:
+The required number of MMH providers per county depends on the estimated birth rate.  Given the assumptions we made above about the level of care required and the percentage of perinatal cases in need of care, we can impute the required number of providers by the following formula:
 
 "REQPROV" = "BIRTHS_EST" x 20% x 30 / 1200
 

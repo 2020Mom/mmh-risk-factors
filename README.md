@@ -172,7 +172,8 @@ $ select * from i_2_prfs limit 5;
  01009 | Alabama | Blount  |  279 | 483 |  118 |  205 |  335 | 1820 |   3 |   4
 (5 rows)
 </pre>
-Data definitions are available in the section [Risk Factors](#risk-factors) below.
+The column "I_2" above indicates the point allocation for risk factor [I-2](#2).
+Data definitions for the base tables are available in the section [Risk Factors](#risk-factors) below.
 
 ### Scoring
 

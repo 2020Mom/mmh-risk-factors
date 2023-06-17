@@ -1,5 +1,3 @@
-
-
 # <img style="height:1em" src="png/Policy%20Center%20ICON%20logo-RGB.svg"> Maternal Mental Health Risk Factors
 
 ## About this repository
@@ -177,7 +175,7 @@ Data definitions for the base tables are available in the section [Risk Factors]
 
 ### Scoring
 
-All of the factor data and scoring are consolidated in the file [pgSQL/prfs-scores.sql](pgSQL/prfs-scores.sql), which exports the final table to CSV at [csv/prfs_scores.csv](csv/prfs_scores.csv). The column "PRFS" indicates the Risk Factors Score for each county.
+All of the factor data and scoring are consolidated in [pgSQL/prfs-scores.sql](pgSQL/prfs-scores.sql), which exports the final table to CSV at [csv/prfs_scores.csv](csv/prfs_scores.csv). The column "PRFS" indicates the Risk Factors Score for each county.
 
 # Care Coverage
 

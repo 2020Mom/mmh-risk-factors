@@ -291,9 +291,7 @@ Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIP
 # Risk Factors
 
 The maternal mental health risk factors are divided into three tiers, using a scale which allocates:\
-&emsp;&emsp;up to (3) points per Tier I qualifier,\
-&emsp;&emsp;up to (2) points per Tier II qualifier, and\
-&emsp;&emsp;up to (1) point per Tier III qualifier.\
+&emsp;&emsp;(1) to (3) points per qualifier.\
 Additionally, there are several Direct Measures of Need, which are allocated up to (3) points per qualifier.\
 The Maximum Point Total is 45.
 

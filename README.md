@@ -19,7 +19,7 @@ If you remix, transform, or build upon the material, you must distribute your co
 ## Contents
 - [Overview](#overview)
 - [Supporting Research](#supporting-research)
-- [Database Tables and Scoring Queries](#database-tables-and-queries)
+- [Database Tables and Scoring Queries](#database-tables-and-scoring-queries)
 - [Care Coverage](#care-coverage)\
 &emsp;- [The Provider Shortage Gap](#the-provider-shortage-gap)\
 &emsp;&emsp;&emsp;[Estimated Number of Births](#estimated-number-of-births)\

@@ -158,6 +158,10 @@ $ \i pgSQL/risk-factors.sql
 
 The file [pgSQL/prfs-summaries.sql](pgSQL/prfs-summaries.sql) defines the summary tables for each county level risk factor, consisting of the raw data along with the score allocation, and a determination of the quartile ranking of the county score within the national dataset.
 
+<pre>
+$ \i pgSQL/prfs-summaries.sql
+</pre>
+
 To answer questions about particular risk factors, use the summary tables; for example:
 <pre>
 $ select * from i_2_prfs limit 5;
@@ -176,6 +180,10 @@ Data definitions for the base tables are available in the section [Risk Factors]
 ### Scoring
 
 All of the factor data and scoring are consolidated in [pgSQL/prfs-scores.sql](pgSQL/prfs-scores.sql), which exports the final table to CSV at [csv/prfs_scores.csv](csv/prfs_scores.csv). The column "PRFS" indicates the Risk Factors Score for each county.
+
+<pre>
+$ \i pgSQL/risk-prfs-scores.sql
+</pre>
 
 # Care Coverage
 

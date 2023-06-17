@@ -242,7 +242,7 @@ The Policy Center makes a few simple assumptions in deriving the required number
 
 The number of births per county is estimated by applying the 2021 CDC estimated fertility rate (see: [DMN_22](#22)) to the 2021 American Community Survey 5-year estimates of the reproductive age female population.  For counties with less than 100,000 total population, the fertility rate for 'Unidentified Counties' in each county's state is applied.
 
-The 2021 ACS 5-year data was accessed via the U.S. Census Bureau API, using a private key.  The dataset can be downloaded via the shell script [census-api.sh](census-api.sh) and saved in [JSON](/mmh-risk-factors/json/rpr_age_fem_pop.json) and [CSV](/mmh-risk-factors/csv/rpr_age_fem_pop.csv) formats. NOTE: The Census Bureau API requires users to use a personal authentication key. [Request A Key](https://api.census.gov/data/key_signup.html)
+The 2021 ACS 5-year data was accessed via the U.S. Census Bureau API, using a private key.  The dataset can be downloaded via the shell script [census-api.sh](census-api.sh) and saved in [JSON](/json/rpr_age_fem_pop.json) and [CSV](/csv/rpr_age_fem_pop.csv) formats. NOTE: The Census Bureau API requires users to use a personal authentication key. [Request A Key](https://api.census.gov/data/key_signup.html)
 
 For example, in Nevada County (CA), we estimate an annual birthrate of approximately 939, based on an estimated reproductive-aged female population of 15,089 and the applicable fertility rate (62.25), expressed in births per thousand population.
 

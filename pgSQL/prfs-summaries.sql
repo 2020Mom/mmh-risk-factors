@@ -311,59 +311,6 @@ ALTER TABLE i_5_prfs
         end
     ) STORED;
 
--- -- i_2_chr_b_prfs
--- DROP TABLE IF EXISTS i_2_chr_b_states CASCADE;
--- CREATE TEMP TABLE i_2_chr_b_states AS
--- SELECT "FIPS","STATE","FMDPCT"
---     FROM i_2_chr_b
---     GROUP BY "FIPS","STATE","FMDPCT"
---     HAVING "COUNTY" IS NULL;
-
--- DROP TABLE IF EXISTS i_2_chr_b_counties CASCADE;
--- CREATE TEMP TABLE i_2_chr_b_counties AS
--- SELECT "FIPS","STATE","COUNTY","FMDPCT"
---     FROM i_2_chr_b
---     GROUP BY "FIPS","STATE","COUNTY","FMDPCT"
---     HAVING "COUNTY" IS NOT NULL;
-
--- DROP TABLE IF EXISTS i_2_chr_b_quartiles CASCADE;
--- CREATE TEMP TABLE i_2_chr_b_quartiles AS
--- SELECT
---     percentile_disc(0.25) within group (order by "FMDPCT" asc)
---     FILTER (WHERE "COUNTY" IS NOT NULL) AS "QRT1",
---     percentile_disc(0.5) within group (order by "FMDPCT" asc)
---     FILTER (WHERE "COUNTY" IS NOT NULL) AS "QRT2",
---     percentile_disc(0.75) within group (order by "FMDPCT" asc)
---     FILTER (WHERE "COUNTY" IS NOT NULL) AS "QRT3",
---     percentile_disc(1) within group (order by "FMDPCT" asc)
---     FILTER (WHERE "COUNTY" IS NOT NULL) AS "QRT4"
--- FROM i_2_chr_b;
-
--- DROP TABLE IF EXISTS i_2_chr_b_prfs CASCADE;
--- CREATE TABLE i_2_chr_b_prfs AS
--- SELECT i_2_chr_b_counties.*,
---        i_2_chr_b_quartiles."QRT1" as "QRT1",
---        i_2_chr_b_quartiles."QRT2" as "QRT2",
---        i_2_chr_b_quartiles."QRT3" as "QRT3",
---        i_2_chr_b_quartiles."QRT4" as "QRT4"
--- FROM i_2_chr_b_counties
--- LEFT JOIN i_2_chr_b_quartiles ON i_2_chr_b_counties."FIPS" IS NOT NULL;
-
--- ALTER TABLE i_2_chr_b_prfs
---     ADD COLUMN "I_2_CHR_b" smallint
---     CONSTRAINT abovestavg
---     GENERATED ALWAYS AS (
---         case
---         when "FMDPCT"<="QRT2" or "FMDPCT" is NULL
---         then 0
---         when "FMDPCT"<="QRT3"
---         then 2
---         when "FMDPCT"<="QRT4"
---         then 3
---         else 0
---         end
---         ) STORED;
-
 -- i_6: Children in poverty
 DROP TABLE IF EXISTS i_6_prfs CASCADE;
 CREATE TABLE i_6_prfs AS
@@ -426,37 +373,6 @@ ALTER TABLE i_6_prfs
         else 0
         end
     ) STORED;
-
--- ii_7: Educational Attainment by Fertility Status
-DROP TABLE IF EXISTS ii_7_clg CASCADE;
-CREATE TEMP TABLE ii_7_clg AS
-WITH tallies AS (
-SELECT
-    concat("STATEFP",'000') as "FIPS",
-    "FER",
-    "EA0"+"EA1"+"EA2"+"EA3"+
-    "EA4"+"EA5"+"EA6"+"EA7"+
-    "EA8"+"EA9"+"EA10"+"EA11"+
-    "EA12"+"EA13"+"EA14"+"EA15"+
-    "EA16"+"EA17"+"EA18"+"EA19"+"EA20"+
-    "EA21"+"EA22"+"EA23"+"EA24" AS "TOTAL",
-    "EA0"+"EA1"+"EA2"+"EA3"+
-    "EA4"+"EA5"+"EA6"+"EA7"+
-    "EA8"+"EA9"+"EA10"+"EA11"+
-    "EA12"+"EA13"+"EA14"+"EA15"+
-    "EA16"+"EA17"+"EA18"+"EA19"+"EA20" AS "BLWCLG",
-    "EA21"+"EA22"+"EA23"+"EA24" AS "CLGABV"
-    FROM ii_7
-    WHERE "FER"=1
-)
-SELECT
-    tallies."FIPS",
-    stabrv."STATE",
-    "FER",
-    round(sum("BLWCLG"::numeric/"TOTAL"::numeric) OVER (PARTITION BY tallies."FIPS","FER"),2) AS "BLWCLGPCT"
-FROM tallies
-INNER JOIN stabrv ON tallies."FIPS"=stabrv."FIPS"
-GROUP BY tallies."FIPS","FER","TOTAL","BLWCLG","CLGABV","STATE";
 
 DROP TABLE IF EXISTS ii_7_prfs CASCADE;
 CREATE TABLE ii_7_prfs AS
@@ -576,37 +492,6 @@ ALTER TABLE ii_8_prfs
     ) STORED;
 
 -- ii_9: Employment Status of Parents by Household presence and age of Children
-DROP TABLE IF EXISTS ii_9_chwuep CASCADE;
-CREATE TEMP TABLE ii_9_chwuep AS
-WITH hhwch AS (
-    SELECT "STATEFP",
-        sum("ESP0") as "ESP0",
-        sum("ESP1") as "ESP1",
-        sum("ESP2") as "ESP2",
-        sum("ESP3") as "ESP3",
-        sum("ESP4") as "ESP4",
-        sum("ESP5") as "ESP5",
-        sum("ESP6") as "ESP6",
-        sum("ESP7") as "ESP7",
-        sum("ESP8") as "ESP8"
-    FROM ii_9
-    WHERE ii_9."HUPAC" IN (1,3)
-    GROUP BY "STATEFP"
-), tallies AS (
-SELECT
-    concat("STATEFP",'000') AS "FIPS",
-    "ESP1"+"ESP2"+"ESP3"+"ESP4"+"ESP5"+"ESP6"+"ESP7"+"ESP8" AS "CHTOTAL",
-    "ESP2"+"ESP3"+"ESP4"+"ESP6"+"ESP8" AS "CHWUEP"
-    FROM hhwch
-)
-SELECT
-    tallies."FIPS",
-    stabrv."STATE",
-    round(avg("CHWUEP"::numeric/"CHTOTAL"::numeric) OVER (PARTITION BY tallies."FIPS"),2) AS "CHWUEPPCT"
-FROM tallies
-INNER JOIN stabrv ON tallies."FIPS"=stabrv."FIPS"
-GROUP BY tallies."FIPS","CHTOTAL","CHWUEP","STATE";
-
 DROP TABLE IF EXISTS ii_9_prfs CASCADE;
 CREATE TABLE ii_9_prfs AS
 WITH quartiles AS (
@@ -1073,19 +958,6 @@ ALTER TABLE iii_16_prfs
         end
     ) STORED;
 
--- -- ii_12_hrsa_prfs
--- DROP TABLE IF EXISTS ii_12_hrsa_prfs;
--- CREATE TABLE ii_12_hrsa_prfs AS
--- SELECT DISTINCT
---     ii_12_hrsa_b_prfs."FIPS",
---     ii_12_hrsa_b_prfs."STATE",
---     ii_12_hrsa_b_prfs."COUNTY",
---     ii_12_hrsa_b_prfs."II_12_HRSA_b",
---     ii_12_hrsa_b_prfs."II_12_HRSA_b"
--- FROM ii_12_hrsa_b_prfs
--- JOIN ii_12_hrsa_b_prfs ON ii_12_hrsa_b_prfs."FIPS"=ii_12_hrsa_b_prfs."FIPS"
--- AND ii_12_hrsa_b_prfs."STATE"=ii_12_hrsa_b_prfs."STATE";
-
 -- iii_17: Lack of Insurance Coverage
 DROP TABLE IF EXISTS iii_17_prfs CASCADE;
 CREATE TABLE iii_17_prfs AS
@@ -1269,9 +1141,9 @@ ALTER TABLE iii_19_prfs
         end
     ) STORED;
 
--- dmn_20: Poor Mental Health Among Mothers 
+-- dmn_20: Poor Mental Health Among Mothers
 DROP TABLE IF EXISTS dmn_20_states CASCADE;
-CREATE TEMP TABLE dmn_20_states AS
+CREATE TABLE dmn_20_states AS
     SELECT "STATE", 
            "STFP"
     FROM dmn_20 WHERE "STATE"!='United States';
@@ -1339,7 +1211,7 @@ ALTER TABLE dmn_20_prfs
 
 -- dmn_21: Mothers not coping well with raising their child
 DROP TABLE IF EXISTS dmn_21_states CASCADE;
-CREATE TEMP TABLE dmn_21_states AS
+CREATE TABLE dmn_21_states AS
     SELECT "STATE", 
            "HD2DVW"
     FROM dmn_21 WHERE "STATE"!='United States';

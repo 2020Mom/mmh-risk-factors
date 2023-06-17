@@ -741,7 +741,7 @@ Source:&emsp;&emsp;&emsp;&emsp;(2021) Centers for Disease Control and Prevention
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (NCHS), National Vital Statistics System\
 Description:&emsp;&emsp;Births and birth rates; County Level\
 Key Variable:&emsp;&ensp;&nbsp;(#) Births Divided by (#) Female aged 15-44 years\
-NOTES:&emsp;&emsp;&emsp;&emsp;Dataset includes 576 counties w/ population above 100k; Counties with fewer than 100k are aggregated for each state under the name 'Unidentified Counties'\
+NOTES:&emsp;&emsp;&emsp;&emsp;Dataset includes 578 counties w/ population above 100k; Counties with fewer than 100k are aggregated for each state under the name 'Unidentified Counties'\
 Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Highest Quartile: 1pt
 
 <img src="png/DMN-22_map.png">

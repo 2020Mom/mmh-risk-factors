@@ -76,7 +76,7 @@ CREATE TABLE rpragefem (
     "F40to44" integer
 );
 
-\COPY rpragefem FROM 'csv/test.csv' HEADER CSV DELIMITER ',';
+\COPY rpragefem FROM 'csv/rpr_age_fem_pop.csv' HEADER CSV DELIMITER ',';
 
 -- Make a separate table of the 'Unidentified Counties' from table DMN_22
 DROP TABLE IF EXISTS uidCounties CASCADE;

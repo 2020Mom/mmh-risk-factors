@@ -18,7 +18,7 @@ If you remix, transform, or build upon the material, you must distribute your co
 
 ## Contents
 - [Overview](#overview)
-- [Supporting Research](#supporting-research)
+- [Foundational Research](#foundational-research)
 - [Database Tables and Scoring Queries](#database-tables-and-scoring-queries)
 - [Care Coverage](#care-coverage)\
 &emsp;- [The Provider Shortage Gap](#the-provider-shortage-gap)\
@@ -68,7 +68,7 @@ US regions with compounded maternal mental health risk factors may be in greater
 
 <img src="png/prfs_composite_map.png">
 
-## Supporting Research
+## Foundational Research
 
 The Policy Center for Maternal Mental Health conducted an extensive
 review of research studies examining the risk factors associated with

@@ -369,8 +369,7 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within U.S: 3pts; Second-H
 <img src="png/I-4_map.png">
 <pre>
 Indicator 6.15: During the past 12 months, was there someone that you could turn to for
-                day-to-day emotional support with parenting or raising children?
-                
+                day-to-day emotional support with parenting or raising children?\
     "STATE"         Name of State
     "YESPCT"        (%) Answering 'Yes'
     "NOPCT"         (%) Answering 'No'

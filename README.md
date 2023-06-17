@@ -17,13 +17,17 @@ If you remix, transform, or build upon the material, you must distribute your co
 ## Contents
 - [Overview](#overview)
 - [Foundational Research](#foundational-research)
-- [Database Tables and Scoring Queries](#database-tables-and-scoring-queries)
+- [Database Tables and Scoring Queries](#database-tables-and-scoring-queries)\
+&emsp;- [Installing PostgreSQL](#installing-postgresql)
+&emsp;- [Base Tables](#base-tables)
+&emsp;- [Summary Tables](#summary-tables)
+&emsp;- [Scoring](#scoring)
+&emsp;- [Geography](#geography)
 - [Care Coverage](#care-coverage)\
 &emsp;- [The Provider Shortage Gap](#the-provider-shortage-gap)\
 &emsp;&emsp;&emsp;[Estimated Number of Births](#estimated-number-of-births)\
 &emsp;&emsp;&emsp;[Required Number of Providers](#required-number-of-providers)\
 &emsp;&emsp;&emsp;[The Gap](#the-gap)
-- [Geography](#geography)
 - [Risk Factors](#risk-factors)\
 &emsp;- [Tier I (18 pts max)](#tier-i-18-pts-max)\
 &emsp;&emsp;&emsp;[Lifetime Prevalence of Psychological Aggression by an Intimate Partner](#1)\
@@ -185,6 +189,18 @@ All of the factor data and scoring are consolidated in [pgSQL/prfs-scores.sql](p
 $ \i pgSQL/risk-prfs-scores.sql
 </pre>
 
+### Geography
+
+The study area consists of 3,143 second level political divisions, including every county, parish, borough, and county-equivalent municipality within the 51 first level divisions which comprise the 50 states and the federal district.
+
+A large contingent of the data is sourced from the County Health Rankings published by the University of Wisconsin Population Health Institute. The CHR data does not include data for the five populated U.S. territories, therefore those divisions have been omitted from the scoring and analysis.
+
+The CHR and CDC data includes Valdez-Cordova census area (FIPS: 02261), an unorganized borough of Alaska that was abolished in 2019 and replaced by the census areas of Chugach (FIPS: 02063) and Copper River (FIPS: 02066). Data from Valdez-Cordova was applied to Chugach and Copper River for each risk factor component that uses CHR data.
+
+Data from the CDC on Cesarean section deliveries includes Wade Hampton census area (AK FIPS:02270), which in 2015 was renamed Kusilvak census area (AK FIPS:02158); the data was adjusted accordingly.
+
+Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIPS:02270), which in 2015 was renamed Oglala County (SD FIPS:02158); the data was adjusted accordingly.
+
 # Care Coverage
 
 The Policy Center for Maternal Mental Healthcare has developed a private database of Certified Perinatal Mental Healthcare Providers and Reproductive Psychiatrists engaged in maternal mental healthcare.
@@ -281,18 +297,6 @@ $ select "FIPS","COUNTY","STATE","RPRAFEM","FERTRATE","BIRTHS_EST","PROVIDERS","
  06057 | Nevada County | California |   15089 |    62.25 |        939 |         3 |       5 |   2
 (1 row)
 </pre>
-
-## Geography
-
-The study area consists of 3,143 second level political divisions, including every county, parish, borough, and county-equivalent municipality within the 51 first level divisions which comprise the 50 states and the federal district.
-
-A large contingent of the data is sourced from the County Health Rankings published by the University of Wisconsin Population Health Institute. The CHR data does not include data for the five populated U.S. territories, therefore those divisions have been omitted from the scoring and analysis.
-
-The CHR and CDC data includes Valdez-Cordova census area (FIPS: 02261), an unorganized borough of Alaska that was abolished in 2019 and replaced by the census areas of Chugach (FIPS: 02063) and Copper River (FIPS: 02066). Data from Valdez-Cordova was applied to Chugach and Copper River for each risk factor component that uses CHR data.
-
-Data from the CDC on Cesarean section deliveries includes Wade Hampton census area (AK FIPS:02270), which in 2015 was renamed Kusilvak census area (AK FIPS:02158); the data was adjusted accordingly.
-
-Data from the CDC on Cesarean section deliveries includes Shannon County (SD FIPS:02270), which in 2015 was renamed Oglala County (SD FIPS:02158); the data was adjusted accordingly.
 
 # Risk Factors
 

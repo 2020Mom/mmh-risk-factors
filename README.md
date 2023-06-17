@@ -4,7 +4,7 @@
 
 ## About this repository
 
-The Policy Center for Maternal Mental Health invites members of the public to clone this repository and construct the database on a local machine, and to use the data for strategic planning, fund-raising, policy implementation, or to increase public awareness.
+The Policy Center for Maternal Mental Health is inviting members of the public to clone this repository and construct the database on a local machine, and to use the data for strategic planning, fund-raising, policy implementation, or to increase public awareness.
 
 The repository is distributed under Creative Commons License 'CC BY-SA 4.0'.  Users are free to copy and redistribute the material in any medium or format, to remix, transform, and build upon the material for any purpose, even commercially, subject to the following terms:
 

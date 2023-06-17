@@ -35,5 +35,6 @@ ndjson-cat json/rpr_age_fem_pop.json \
         }' \
     | json2csv -n > csv/rpr_age_fem_pop_blank_ending.csv
 
+# this last part removes the carriage return from the CSV so PostgreSQL doesn't complain when the file is loaded
 sed 's/\\r//' < csv/rpr_age_fem_pop_blank_ending.csv > csv/rpr_age_fem_pop.csv
 rm csv/rpr_age_fem_pop_blank_ending.csv

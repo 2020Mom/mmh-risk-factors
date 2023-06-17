@@ -1,5 +1,5 @@
 -- MMH Risk Factors 1
--- base-tables.sql
+-- risk-factors.sql
 -- Build the base data tables from CSV files
 -- This file produces all the tables necessary to produce the scoring algorithm
 

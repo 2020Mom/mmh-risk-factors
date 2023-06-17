@@ -313,19 +313,16 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within U.S: 2pts; Second-H
 <pre>
     "STATE"         Name of state
 
-    ---Any Psychological Aggression---
     "APPCT"         Weighted (%), Victimization
     "AP95PCTCILB"   Lower Bound, 95% C.I.
     "AP95PCTCIUB"   Upper Bound, 95% C.I.
     "APESTNV"       Estimated (#) Victims
 
-    ---Any Expressive Aggression---
     "EVPCT"         Weighted (%), Victimization
     "EV95PCTCILB"   Lower Bound, 95% C.I.
     "EV95PCTCIUB"   Upper Bound, 95% C.I.
     "EVESTNV"       Estimated (#) Victims
 
-    ---Any Coercive Control---
     "CCPCT"         Weighted (%), Victimization
     "CC95PCTCILB"   Lower Bound, 95% C.I.
     "CC95PCTCIUB"   Upper Bound, 95% C.I.

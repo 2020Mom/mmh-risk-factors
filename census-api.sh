@@ -15,6 +15,7 @@ acsQuery=$getFemPop"&key="$CENSUS_API_KEY
 curl $acsQuery -o json/rpr_age_fem_pop.json
 
 # use ndjson to sum the reproductive age population and save to CSV
+#  npm install -g ndjson-cli
 ndjson-cat json/rpr_age_fem_pop.json \
     | ndjson-split 'd.slice(1)' \
     | ndjson-map '{

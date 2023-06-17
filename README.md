@@ -141,7 +141,7 @@ mental health is currently absent.***
 
 The folder [pgSQL/](pgSQL) contains the SQL files necessary to construct and populate the database from the CSV records contained in [csv/](csv).
 
-Various database clients may be able to run the SQL files located in [pgSQL/](pgSQL), however the mmh-risk-factors database was constructed with PostgreSQL. For best performance, PostgreSQL 13 or higher is recommended.
+Various database applications may be able to run the SQL files located in [pgSQL/](pgSQL), however the mmh-risk-factors database was constructed with PostgreSQL. For best performance, PostgreSQL 13 or higher is recommended.
 
 ### Installing PostgreSQL
 

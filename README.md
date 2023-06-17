@@ -234,7 +234,7 @@ The Centers for Disease Control and Prevention National Center for Health Statis
 The Policy Center makes a few simple assumptions in deriving the required number of providers in each county and state, based on the birth rate.
     <ul>
         <li>20% of birthing persons will require maternal mental healthcare treatment.</li>
-        <li>Birthing persons in need of maternal mental healthcare will require, on average, 30 hours of treatment.</li>
+        <li>Birthing persons in need of maternal mental healthcare will require, on average, 30 hours of treatment annually.</li>
         <li>A typical MMH provider is able to provide approximately 1200 total treatment hours annually.</li>
     </ul>
 

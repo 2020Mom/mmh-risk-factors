@@ -18,10 +18,10 @@ If you remix, transform, or build upon the material, you must distribute your co
 - [Overview](#overview)
 - [Foundational Research](#foundational-research)
 - [Database Tables and Scoring Queries](#database-tables-and-scoring-queries)\
-&emsp;- [Installing PostgreSQL](#installing-postgresql)
-&emsp;- [Base Tables](#base-tables)
-&emsp;- [Summary Tables](#summary-tables)
-&emsp;- [Scoring](#scoring)
+&emsp;- [Installing PostgreSQL](#installing-postgresql)\
+&emsp;- [Base Tables](#base-tables)\
+&emsp;- [Summary Tables](#summary-tables)\
+&emsp;- [Scoring](#scoring)\
 &emsp;- [Geography](#geography)
 - [Care Coverage](#care-coverage)\
 &emsp;- [The Provider Shortage Gap](#the-provider-shortage-gap)\

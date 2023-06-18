@@ -1,3 +1,5 @@
+# <img style="height:1em" src="png/Policy%20Center%20ICON%20logo-RGB.svg"> Maternal Mental Health Risk Factors
+
 ## About this repository
 
 The Policy Center for Maternal Mental Health is inviting members of the public to clone this repository and construct the database on a local machine, and to use the data for strategic planning, fund-raising, policy implementation, or to increase public awareness via media channels.

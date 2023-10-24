@@ -554,13 +554,13 @@ Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Highest Quartile within US: 2pts; Second-Hi
     "FIPS"          Federal Information Processing System Code
 </pre>
 
+### Tier III (7 pts max)
+
 Factor:&emsp;&emsp;&emsp;&emsp;&nbsp;<a name="13"/>[III-13](csv/III-13.csv)\
 Source:&emsp;&emsp;&emsp;&emsp;(2022) County Health Rankings & Roadmaps, University of Wisconsin Population Health Institute\
 Description:&emsp;&emsp;Mental Healthcare Providers; County Level\
 Key Variable:&emsp;&ensp;&nbsp;(#) of mental healthcare providers\
 Points:&emsp;&emsp;&emsp;&emsp;&nbsp;Below median within US: 1pt
-
-### Tier III (7 pts max)
 
 <img src="png/III-13_map.png">
 <pre>
